@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 5c2cbb80a7be9cf4e92b93d30e4f90c9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: button_mashing-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_10
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2160
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_14
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_15
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_16
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_18
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_20
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_21
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1920
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_25
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_29
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_30
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_31
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_32
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1680
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_37
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_39
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_40
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_41
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_42
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1440
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_49
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_50
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_51
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_52
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_53
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_54
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_56
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_58
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_59
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_61
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_62
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_63
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_64
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_65
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 960
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_72
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_73
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_74
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_75
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_76
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 720
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_79
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_80
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_81
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_82
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_83
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_84
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_85
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_86
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 480
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_90
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_91
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_92
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_94
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_95
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_96
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_97
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_98
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 240
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_100
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_102
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_104
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_105
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_106
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_107
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_108
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: button_mashing-frames_109
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 360
+        height: 240
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

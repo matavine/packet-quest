@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 18ed34dd33e936c4a8b1605d9210994a
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: little_kid_confused-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_9
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_11
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_12
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 408
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_16
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_19
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_20
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_21
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_22
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_24
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_25
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 204
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_29
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_32
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_33
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_35
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_37
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: little_kid_confused-frames_38
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 300
+        height: 204
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

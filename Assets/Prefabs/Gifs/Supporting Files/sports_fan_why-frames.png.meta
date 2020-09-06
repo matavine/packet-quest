@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: f9df74d33d87cbe40bc8b7e6778208b5
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: sports_fan_why-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_8
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_9
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_10
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_11
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1848
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_14
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_16
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_17
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_18
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_19
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_20
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_21
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_22
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_23
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1584
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_25
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_26
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_27
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_28
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_29
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_30
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_31
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_32
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_33
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_34
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_35
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1320
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_38
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_39
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_40
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_41
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_42
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_43
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_44
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_45
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_46
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_47
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 1056
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_49
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_50
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_51
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_52
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_53
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_54
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_55
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_56
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_57
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_58
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_59
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 792
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_61
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_62
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_63
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_64
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_65
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_66
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_67
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_68
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_69
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_70
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_71
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 528
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_74
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_75
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_76
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_77
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_78
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_79
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_80
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_81
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_82
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_83
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 264
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_86
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_87
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_88
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_89
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_90
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_91
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_92
+      rect:
+        serializedVersion: 2
+        x: 2552
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_93
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_94
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: sports_fan_why-frames_95
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 0
+        width: 319
+        height: 264
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

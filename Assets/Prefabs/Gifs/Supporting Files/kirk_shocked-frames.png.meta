@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 7e82ba7156780534db3954801e1f5c5d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: kirk_shocked-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_2
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_4
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_7
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_8
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_9
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_10
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_11
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_12
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_13
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_14
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_15
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 368
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_18
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_19
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_20
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_21
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_22
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_23
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_24
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_25
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_26
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_27
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_28
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_29
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_30
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_31
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 184
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_35
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_36
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_37
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_38
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_39
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_41
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_42
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_43
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_44
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_45
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_46
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: kirk_shocked-frames_47
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 0
+        width: 245
+        height: 184
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

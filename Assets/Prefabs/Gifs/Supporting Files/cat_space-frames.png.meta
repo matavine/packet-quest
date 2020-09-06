@@ -1,0 +1,904 @@
+fileFormatVersion: 2
+guid: 4e59b06fba8c01043a17ec12ef2e2917
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: cat_space-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_12
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_13
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_14
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_17
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_18
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 564
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_30
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_32
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_33
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_34
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_36
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_37
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 423
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_42
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_43
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_45
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_47
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_49
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_50
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_51
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_53
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_54
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_55
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_56
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 282
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_58
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_60
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_64
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_65
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_66
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_68
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_69
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_70
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_71
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_73
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_74
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_75
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 141
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_81
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_82
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_83
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_84
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_85
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_86
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_87
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_88
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_89
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_90
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_91
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_92
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_93
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: cat_space-frames_94
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 200
+        height: 141
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

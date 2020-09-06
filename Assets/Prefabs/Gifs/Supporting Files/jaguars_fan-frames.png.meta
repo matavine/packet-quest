@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: d7c60d75f48feec4fa5888800bfcf2a4
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: jaguars_fan-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_8
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_9
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_11
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_12
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_13
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_15
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 672
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_18
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_19
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_20
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_21
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_23
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_24
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_25
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_26
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_27
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_28
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_29
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_30
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_31
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 448
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_33
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_34
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_35
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_36
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_37
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_38
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_39
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_40
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_41
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_42
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_43
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_44
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_45
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_46
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_47
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 224
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_49
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_50
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_51
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_52
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_53
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_54
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_55
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_56
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_57
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_58
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_59
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_60
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_61
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_62
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: jaguars_fan-frames_63
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 0
+        width: 236
+        height: 224
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

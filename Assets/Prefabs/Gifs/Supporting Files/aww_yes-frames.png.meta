@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: a5e68c355fcf18a4b81edceb01bed405
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: aww_yes-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_2
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_6
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_8
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_9
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_10
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_11
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1182
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_13
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_15
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_16
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_17
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_18
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_19
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_20
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_21
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_22
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_23
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 985
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_26
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_27
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_28
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_29
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_30
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_31
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_32
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_33
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_34
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_35
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 788
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_37
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_38
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_39
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_40
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_41
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_42
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_43
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_44
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_45
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_46
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_47
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 591
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_49
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_50
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_51
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_52
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_53
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_54
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_55
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_56
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_57
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_58
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_59
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 394
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_61
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_62
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_63
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_64
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_65
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_66
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_67
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_68
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_69
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_70
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_71
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 197
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_73
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_74
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_75
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_76
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_77
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_78
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_79
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_80
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_81
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_82
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: aww_yes-frames_83
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 0
+        width: 331
+        height: 197
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

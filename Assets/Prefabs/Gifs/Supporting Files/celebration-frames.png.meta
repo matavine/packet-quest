@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: aa37a454eddfdaf40983ec028a566649
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: celebration-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 606
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_13
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_16
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 404
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_23
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_25
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_26
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 202
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_31
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: celebration-frames_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 400
+        height: 202
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

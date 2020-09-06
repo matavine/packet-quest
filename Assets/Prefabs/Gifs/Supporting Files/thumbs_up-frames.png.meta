@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: a2b1c70ee5be6be40a834574d7e867ad
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: thumbs_up-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_7
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_10
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3302
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_13
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_14
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_15
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_17
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_18
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_20
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_21
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3048
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_23
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_24
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_26
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_28
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_29
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_30
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_31
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_32
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2794
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_35
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_37
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_38
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_39
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_40
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_41
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_42
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_43
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2540
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_45
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_47
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_48
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_49
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_50
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_51
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_52
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_53
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_54
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2286
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_57
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_58
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_59
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_60
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_61
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_62
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_63
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_64
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_65
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2032
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_69
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_70
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_71
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_72
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_73
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_74
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_75
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_76
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1778
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_78
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_79
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_80
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_81
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_82
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_83
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_84
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_85
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_86
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_87
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1524
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_89
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_90
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_91
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_92
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_94
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_95
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_96
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_97
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_98
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1270
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_100
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_101
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_102
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_103
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_104
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_105
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_106
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_107
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_108
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_109
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 1016
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_111
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_112
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_113
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_114
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_115
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_116
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_117
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_118
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_119
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_120
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 762
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_122
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_123
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_124
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_125
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_126
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_127
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_128
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_129
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_130
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_131
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 508
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_133
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_134
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_135
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_136
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_137
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_138
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_139
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_140
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_141
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_142
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 254
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_144
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_145
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_146
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_147
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_148
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_149
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_150
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_151
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_152
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: thumbs_up-frames_153
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 0
+        width: 340
+        height: 254
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

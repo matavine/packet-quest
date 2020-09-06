@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 5cd170cfb83ebf14a8b03d0ced5e3557
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: doc_rivers_dumbfounded-frames_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_5
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4665
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_8
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4354
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_16
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4043
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3732
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_26
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_27
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_29
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3421
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_31
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3110
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_39
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_40
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2799
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_43
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_47
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2488
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_49
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_51
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_52
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_53
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2177
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_58
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_59
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1866
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_62
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_63
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_64
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_65
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1555
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_68
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_69
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_70
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_71
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1244
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_73
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_74
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_76
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_77
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 933
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_80
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_81
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_82
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 622
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_85
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_86
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_87
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_88
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_89
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 311
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_92
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_94
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+    - name: doc_rivers_dumbfounded-frames_95
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 311
+      alignment: 1
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
