@@ -110,7 +110,7 @@ public class PlayerBehaviour : MonoBehaviour {
 		FieldInfo colliderFieldInfo = collisionType.GetField("m_Collider", BindingFlags.NonPublic | BindingFlags.Instance);
 
 		m_playerCollision = new Collision2D();
-		colliderFieldInfo.SetValue(m_playerCollision, GetComponent<Collider2D>());
+		colliderFieldInfo.SetValue(m_playerCollision, GetComponent<Collider2D>().GetInstanceID());
 		#endregion
 
 		m_lastTriggersHit = new HashSet<Collider2D>();

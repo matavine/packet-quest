@@ -3,11 +3,15 @@
 *.csproj
 *.sln
 *.userprefs
+*.vs
 
 # Unity Directories #
 #####################
 Temp
 Library
+Packages
+obj
+Logs
 
 # OS generated files #
 ######################
