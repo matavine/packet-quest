@@ -13,8 +13,9 @@ public class GifTriggerScript : MonoBehaviour {
 		m_gifController = GifController.Instance;
 	}
 
-	void OnCollisionEnter2D (Collision2D collision) {
-		PlayerBehaviour player = collision.gameObject.GetComponent<PlayerBehaviour>();
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+		PlayerBehaviour player = collider.gameObject.GetComponent<PlayerBehaviour>();
 		if(player) {
 			m_gifController.gifs.Enqueue(gifPrefab);
 			gameObject.GetComponent<Collider2D>().enabled = false;
