@@ -9,12 +9,15 @@ public class LaserBlockScript : AbsToggleBlock {
 	public float onTime = 1;
 	public float offTime = 1;
 	public float warningTime = 1;
-	public bool reactToAudio;
 	public Sprite laserSprite;
 
 	private bool m_laserActive;
 	private Sprite m_warningSprite;
 	private GameObject m_laserBeam;
+
+	[Header("Audio")]
+	public bool reactToAudio;
+	public float maxAudioDistance = 10f;
 
 	private bool m_active;
 	private bool m_firing {
@@ -107,7 +110,7 @@ public class LaserBlockScript : AbsToggleBlock {
 				sprite.sprite = laserSprite;
 				box.enabled=true;
 				m_laserActive = true;
-				int key = AudioPlayer.Instance.PlayWithTransform("laser", this.transform);
+				int key = AudioPlayer.Instance.PlayWithTransform("laser", this.transform, spatialBlend: 1f, maxDistance: maxAudioDistance);
 				yield return new WaitForSeconds(onTime);
 				if (key != -1) {
 					AudioPlayer.Instance.Stop(key);

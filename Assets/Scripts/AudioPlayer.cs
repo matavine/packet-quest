@@ -15,6 +15,7 @@ public class AudioPlayer : MonoBehaviour {
 	
 	private bool m_audioEnabled = true;
 	private const int DEFAULT_INCREMENTS_PER_SECOND = 10;
+	private const float DEFAULT_AUDIO_MAX_DISTANCE = 500f;
 	private Dictionary<int, GameObject> m_clips = new Dictionary<int, GameObject>();
 	private HashSet<int> m_paused = new HashSet<int>(); //subset of m_clips that are paused
 	private LRUCache<string, AudioClip> m_cache = new LRUCache<string, AudioClip>();
@@ -47,7 +48,7 @@ public class AudioPlayer : MonoBehaviour {
 		return clip;
 	}
 
-	private GameObject CreateAudioGameObject(string name, float volume, bool loop) {
+	private GameObject CreateAudioGameObject(string name, float volume, bool loop, float spatialBlend = 0f, float maxDistance = DEFAULT_AUDIO_MAX_DISTANCE) {
 		AudioClip clip = GetAudioClip(name);
 		if (!clip) {
 			Debug.LogWarning("Cannot find clip: " + name);
@@ -59,6 +60,8 @@ public class AudioPlayer : MonoBehaviour {
 		m_clips.Add(obj.GetInstanceID(), obj);
 		source.loop = loop;
 		source.volume = volume;
+		source.spatialBlend = spatialBlend;
+		source.maxDistance = maxDistance;
 		source.Play();
 		return obj;
 	}
@@ -131,11 +134,12 @@ public class AudioPlayer : MonoBehaviour {
 	}
 
 	// Audio moves with object by supplying GameObject.transform
-	public int PlayWithTransform(string name, Transform source, float volume = 1.0f, bool loop = false, float fadeIn = 0.0f, int incrementsPerSecond = DEFAULT_INCREMENTS_PER_SECOND) {
+	public int PlayWithTransform(string name, Transform source, float volume = 1.0f, bool loop = false, float fadeIn = 0.0f, int incrementsPerSecond = DEFAULT_INCREMENTS_PER_SECOND,
+								 float spatialBlend = 0f, float maxDistance = DEFAULT_AUDIO_MAX_DISTANCE) {
 		if (!audioEnabled) {
 			return -1;
 		}
-		GameObject obj = CreateAudioGameObject(name, fadeIn > 0.0f ? 0.0f : volume, loop);
+		GameObject obj = CreateAudioGameObject(name, fadeIn > 0.0f ? 0.0f : volume, loop, spatialBlend: spatialBlend, maxDistance: maxDistance);
 		if (fadeIn > 0.0f) {
 			Fade(obj.GetComponent<AudioSource>(), volume, fadeIn, incrementsPerSecond);
 		}
