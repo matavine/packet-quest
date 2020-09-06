@@ -1,32 +1,82 @@
 fileFormatVersion: 2
 guid: 101551740e7ce9e4d92da4d688f7971a
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: welcome_to_the_internet-frames_0
+    21300002: welcome_to_the_internet-frames_1
+    21300004: welcome_to_the_internet-frames_2
+    21300006: welcome_to_the_internet-frames_3
+    21300008: welcome_to_the_internet-frames_4
+    21300010: welcome_to_the_internet-frames_5
+    21300012: welcome_to_the_internet-frames_6
+    21300014: welcome_to_the_internet-frames_7
+    21300016: welcome_to_the_internet-frames_8
+    21300018: welcome_to_the_internet-frames_9
+    21300020: welcome_to_the_internet-frames_10
+    21300022: welcome_to_the_internet-frames_11
+    21300024: welcome_to_the_internet-frames_12
+    21300026: welcome_to_the_internet-frames_13
+    21300028: welcome_to_the_internet-frames_14
+    21300030: welcome_to_the_internet-frames_15
+    21300032: welcome_to_the_internet-frames_16
+    21300034: welcome_to_the_internet-frames_17
+    21300036: welcome_to_the_internet-frames_18
+    21300038: welcome_to_the_internet-frames_19
+    21300040: welcome_to_the_internet-frames_20
+    21300042: welcome_to_the_internet-frames_21
+    21300044: welcome_to_the_internet-frames_22
+    21300046: welcome_to_the_internet-frames_23
+    21300048: welcome_to_the_internet-frames_24
+    21300050: welcome_to_the_internet-frames_25
+    21300052: welcome_to_the_internet-frames_26
+    21300054: welcome_to_the_internet-frames_27
+    21300056: welcome_to_the_internet-frames_28
+    21300058: welcome_to_the_internet-frames_29
+    21300060: welcome_to_the_internet-frames_30
+    21300062: welcome_to_the_internet-frames_31
+    21300064: welcome_to_the_internet-frames_32
+    21300066: welcome_to_the_internet-frames_33
+    21300068: welcome_to_the_internet-frames_34
+    21300070: welcome_to_the_internet-frames_35
+    21300072: welcome_to_the_internet-frames_36
+    21300074: welcome_to_the_internet-frames_37
+    21300076: welcome_to_the_internet-frames_38
+    21300078: welcome_to_the_internet-frames_39
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +84,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: welcome_to_the_internet-frames_0
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +133,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58312edf7bfa14ea2afe977826c356cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_1
       rect:
         serializedVersion: 2
         x: 500
@@ -63,7 +153,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d04ec24941643c4aa9af98694d0cdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_2
       rect:
         serializedVersion: 2
         x: 1000
@@ -72,7 +173,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f489274f5f26409eb76b60e9132eaa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_3
       rect:
         serializedVersion: 2
         x: 1500
@@ -81,7 +193,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a2671c35ace41f497b0faccba6bb7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_4
       rect:
         serializedVersion: 2
         x: 2000
@@ -90,7 +213,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ad4d9b8ba849b68459b7eb25999c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_5
       rect:
         serializedVersion: 2
         x: 2500
@@ -99,7 +233,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4e982c17fc549c78de53d67f15c53c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_6
       rect:
         serializedVersion: 2
         x: 3000
@@ -108,7 +253,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7552e61d0f5144a6b2a6a721b95f3b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_7
       rect:
         serializedVersion: 2
         x: 3500
@@ -117,7 +273,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4505a1ddae4614a033c1aa46783d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_8
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +293,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06530dc4fabe64cd39f86b1bb65224cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_9
       rect:
         serializedVersion: 2
         x: 500
@@ -135,7 +313,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fbdf4927e340eea43525ee56c5e2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_10
       rect:
         serializedVersion: 2
         x: 1000
@@ -144,7 +333,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbaaac9647114490b1aae693fef39d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_11
       rect:
         serializedVersion: 2
         x: 1500
@@ -153,7 +353,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b479cccbf3dbb4d2396cf54033cdab18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_12
       rect:
         serializedVersion: 2
         x: 2000
@@ -162,7 +373,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2331f6dfa1a2349e5a826774705ecb30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_13
       rect:
         serializedVersion: 2
         x: 2500
@@ -171,7 +393,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb126f02426fa4289a5868d544ccf188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_14
       rect:
         serializedVersion: 2
         x: 3000
@@ -180,7 +413,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec570d22e4042b7a57ca7584092ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_15
       rect:
         serializedVersion: 2
         x: 3500
@@ -189,7 +433,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f1877873eba426b865dcab1166f0a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +453,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae531f6bdd8432db6d7348593487d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_17
       rect:
         serializedVersion: 2
         x: 500
@@ -207,7 +473,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf56407eee424372878e0eb14c039f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_18
       rect:
         serializedVersion: 2
         x: 1000
@@ -216,7 +493,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf960262e60043d09ded9c41e19caa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_19
       rect:
         serializedVersion: 2
         x: 1500
@@ -225,7 +513,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f347e6c4df44a8bbb728b3cbe55323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_20
       rect:
         serializedVersion: 2
         x: 2000
@@ -234,7 +533,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebb068a2a34d4b7d999f1b7c4bac665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_21
       rect:
         serializedVersion: 2
         x: 2500
@@ -243,7 +553,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d8b8cf43c4d45d5a3cae1f62f88ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_22
       rect:
         serializedVersion: 2
         x: 3000
@@ -252,7 +573,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6df3dbb81ad40eca84f5fcff4f8c45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_23
       rect:
         serializedVersion: 2
         x: 3500
@@ -261,7 +593,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d0dc1aea554e42a0b15c7df6174a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +613,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf3ac3e6aaf1458abd3a0a31f5b2def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_25
       rect:
         serializedVersion: 2
         x: 500
@@ -279,7 +633,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a5a7f63d3b4cb3bb9e0b512d772cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_26
       rect:
         serializedVersion: 2
         x: 1000
@@ -288,7 +653,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8df6aeef1f54a4496392937a3eb5a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_27
       rect:
         serializedVersion: 2
         x: 1500
@@ -297,7 +673,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5a30867cbe0431aa0969c3369f5fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_28
       rect:
         serializedVersion: 2
         x: 2000
@@ -306,7 +693,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de46267d9450a48b1bac0967cadd2ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_29
       rect:
         serializedVersion: 2
         x: 2500
@@ -315,7 +713,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160a0810c255b4931978c10df3b6b5f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_30
       rect:
         serializedVersion: 2
         x: 3000
@@ -324,7 +733,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71e26425b6b498d85b1d19761bb9a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_31
       rect:
         serializedVersion: 2
         x: 3500
@@ -333,7 +753,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a94db43d1de4945a4209968f568896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_32
       rect:
         serializedVersion: 2
         x: 0
@@ -342,7 +773,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5f93c352504b0eb7515a1c1dfeaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_33
       rect:
         serializedVersion: 2
         x: 500
@@ -351,7 +793,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa673afb21feb4de0b9eaba24e6cb392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_34
       rect:
         serializedVersion: 2
         x: 1000
@@ -360,7 +813,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c96e2771b594cd5822009a27e86703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_35
       rect:
         serializedVersion: 2
         x: 1500
@@ -369,7 +833,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482857a7c31546e8ae9bdee4c7add00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_36
       rect:
         serializedVersion: 2
         x: 2000
@@ -378,7 +853,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ca22eefd69f4f2b99141c24bbc84b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_37
       rect:
         serializedVersion: 2
         x: 2500
@@ -387,7 +873,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a79f983d7b2473a9e62cfdbe92bc51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_38
       rect:
         serializedVersion: 2
         x: 3000
@@ -396,7 +893,18 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: welcome_to_the_internet-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4efab8fe3924f3a9ef0a772b7e53c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: welcome_to_the_internet-frames_39
       rect:
         serializedVersion: 2
         x: 3500
@@ -405,5 +913,27 @@ TextureImporter:
         height: 375
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59350b821ac8c41c9ab2466d17e4fbc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

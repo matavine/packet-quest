@@ -24,7 +24,7 @@ public class DisappearingBlockScript : MonoBehaviour {
 	private bool playerInBlock = false;
 
 	public void Start () {
-		color = renderer.material.color;
+		color = GetComponent<Renderer>().material.color;
 		transparent = new Color(color.r, color.g, color.b, transparency);
 	}
 	
@@ -40,19 +40,19 @@ public class DisappearingBlockScript : MonoBehaviour {
 
 	public void Fade(Color colorA, Color colorB, float time) {
 		float t = (Time.time - timerStart) / time;
-		renderer.material.color = Color.Lerp(colorA, colorB, t);
+		GetComponent<Renderer>().material.color = Color.Lerp(colorA, colorB, t);
 	}
 
 	private IEnumerator FadeOutTimer() {
 		if (fadingIn || fadingOut) {
-			return false;
+			yield break;
 		}
 		//Fade Out
 		timerStart = Time.time;
 		fadingOut = true;
 		yield return new WaitForSeconds(fadeOutTime);
 		fadingOut = false;
-		gameObject.collider2D.isTrigger = true;
+		gameObject.GetComponent<Collider2D>().isTrigger = true;
 
 		//Disabled
 		yield return new WaitForSeconds(disabledTime);
@@ -62,7 +62,7 @@ public class DisappearingBlockScript : MonoBehaviour {
 
 	private IEnumerator FadeInTimer() {
 		if (fadingIn || fadingOut) {
-			return false;
+			yield break;
 		}
 		timerStart = Time.time;
 		fadingIn = true;
@@ -71,7 +71,7 @@ public class DisappearingBlockScript : MonoBehaviour {
 		while (playerInBlock) {
 			yield return new WaitForFixedUpdate();
 		}
-		gameObject.collider2D.isTrigger = false;
+		gameObject.GetComponent<Collider2D>().isTrigger = false;
 	}
 
 	public void OnTriggerEnter2D(Collider2D collider) {

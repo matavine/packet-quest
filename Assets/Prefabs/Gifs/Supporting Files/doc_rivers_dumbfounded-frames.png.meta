@@ -1,32 +1,138 @@
 fileFormatVersion: 2
 guid: 5cd170cfb83ebf14a8b03d0ced5e3557
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: doc_rivers_dumbfounded-frames_0
+    21300002: doc_rivers_dumbfounded-frames_1
+    21300004: doc_rivers_dumbfounded-frames_2
+    21300006: doc_rivers_dumbfounded-frames_3
+    21300008: doc_rivers_dumbfounded-frames_4
+    21300010: doc_rivers_dumbfounded-frames_5
+    21300012: doc_rivers_dumbfounded-frames_6
+    21300014: doc_rivers_dumbfounded-frames_7
+    21300016: doc_rivers_dumbfounded-frames_8
+    21300018: doc_rivers_dumbfounded-frames_9
+    21300020: doc_rivers_dumbfounded-frames_10
+    21300022: doc_rivers_dumbfounded-frames_11
+    21300024: doc_rivers_dumbfounded-frames_12
+    21300026: doc_rivers_dumbfounded-frames_13
+    21300028: doc_rivers_dumbfounded-frames_14
+    21300030: doc_rivers_dumbfounded-frames_15
+    21300032: doc_rivers_dumbfounded-frames_16
+    21300034: doc_rivers_dumbfounded-frames_17
+    21300036: doc_rivers_dumbfounded-frames_18
+    21300038: doc_rivers_dumbfounded-frames_19
+    21300040: doc_rivers_dumbfounded-frames_20
+    21300042: doc_rivers_dumbfounded-frames_21
+    21300044: doc_rivers_dumbfounded-frames_22
+    21300046: doc_rivers_dumbfounded-frames_23
+    21300048: doc_rivers_dumbfounded-frames_24
+    21300050: doc_rivers_dumbfounded-frames_25
+    21300052: doc_rivers_dumbfounded-frames_26
+    21300054: doc_rivers_dumbfounded-frames_27
+    21300056: doc_rivers_dumbfounded-frames_28
+    21300058: doc_rivers_dumbfounded-frames_29
+    21300060: doc_rivers_dumbfounded-frames_30
+    21300062: doc_rivers_dumbfounded-frames_31
+    21300064: doc_rivers_dumbfounded-frames_32
+    21300066: doc_rivers_dumbfounded-frames_33
+    21300068: doc_rivers_dumbfounded-frames_34
+    21300070: doc_rivers_dumbfounded-frames_35
+    21300072: doc_rivers_dumbfounded-frames_36
+    21300074: doc_rivers_dumbfounded-frames_37
+    21300076: doc_rivers_dumbfounded-frames_38
+    21300078: doc_rivers_dumbfounded-frames_39
+    21300080: doc_rivers_dumbfounded-frames_40
+    21300082: doc_rivers_dumbfounded-frames_41
+    21300084: doc_rivers_dumbfounded-frames_42
+    21300086: doc_rivers_dumbfounded-frames_43
+    21300088: doc_rivers_dumbfounded-frames_44
+    21300090: doc_rivers_dumbfounded-frames_45
+    21300092: doc_rivers_dumbfounded-frames_46
+    21300094: doc_rivers_dumbfounded-frames_47
+    21300096: doc_rivers_dumbfounded-frames_48
+    21300098: doc_rivers_dumbfounded-frames_49
+    21300100: doc_rivers_dumbfounded-frames_50
+    21300102: doc_rivers_dumbfounded-frames_51
+    21300104: doc_rivers_dumbfounded-frames_52
+    21300106: doc_rivers_dumbfounded-frames_53
+    21300108: doc_rivers_dumbfounded-frames_54
+    21300110: doc_rivers_dumbfounded-frames_55
+    21300112: doc_rivers_dumbfounded-frames_56
+    21300114: doc_rivers_dumbfounded-frames_57
+    21300116: doc_rivers_dumbfounded-frames_58
+    21300118: doc_rivers_dumbfounded-frames_59
+    21300120: doc_rivers_dumbfounded-frames_60
+    21300122: doc_rivers_dumbfounded-frames_61
+    21300124: doc_rivers_dumbfounded-frames_62
+    21300126: doc_rivers_dumbfounded-frames_63
+    21300128: doc_rivers_dumbfounded-frames_64
+    21300130: doc_rivers_dumbfounded-frames_65
+    21300132: doc_rivers_dumbfounded-frames_66
+    21300134: doc_rivers_dumbfounded-frames_67
+    21300136: doc_rivers_dumbfounded-frames_68
+    21300138: doc_rivers_dumbfounded-frames_69
+    21300140: doc_rivers_dumbfounded-frames_70
+    21300142: doc_rivers_dumbfounded-frames_71
+    21300144: doc_rivers_dumbfounded-frames_72
+    21300146: doc_rivers_dumbfounded-frames_73
+    21300148: doc_rivers_dumbfounded-frames_74
+    21300150: doc_rivers_dumbfounded-frames_75
+    21300152: doc_rivers_dumbfounded-frames_76
+    21300154: doc_rivers_dumbfounded-frames_77
+    21300156: doc_rivers_dumbfounded-frames_78
+    21300158: doc_rivers_dumbfounded-frames_79
+    21300160: doc_rivers_dumbfounded-frames_80
+    21300162: doc_rivers_dumbfounded-frames_81
+    21300164: doc_rivers_dumbfounded-frames_82
+    21300166: doc_rivers_dumbfounded-frames_83
+    21300168: doc_rivers_dumbfounded-frames_84
+    21300170: doc_rivers_dumbfounded-frames_85
+    21300172: doc_rivers_dumbfounded-frames_86
+    21300174: doc_rivers_dumbfounded-frames_87
+    21300176: doc_rivers_dumbfounded-frames_88
+    21300178: doc_rivers_dumbfounded-frames_89
+    21300180: doc_rivers_dumbfounded-frames_90
+    21300182: doc_rivers_dumbfounded-frames_91
+    21300184: doc_rivers_dumbfounded-frames_92
+    21300186: doc_rivers_dumbfounded-frames_93
+    21300188: doc_rivers_dumbfounded-frames_94
+    21300190: doc_rivers_dumbfounded-frames_95
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +140,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: doc_rivers_dumbfounded-frames_0
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +189,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b9d4e8aacc4e26971a5db5bf62b68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_1
       rect:
         serializedVersion: 2
         x: 600
@@ -63,7 +209,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11562387bc1494fd2a6c45679628ecc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_2
       rect:
         serializedVersion: 2
         x: 1200
@@ -72,7 +229,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c763a4e13b647a4a9a4d5194087770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_3
       rect:
         serializedVersion: 2
         x: 1800
@@ -81,7 +249,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4705cc7e0f74425a820187fa4eea9d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_4
       rect:
         serializedVersion: 2
         x: 2400
@@ -90,7 +269,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560cafc28273f42479431081eae315a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_5
       rect:
         serializedVersion: 2
         x: 3000
@@ -99,7 +289,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9901afbdf21c843bbbbd8e287160079e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_6
       rect:
         serializedVersion: 2
         x: 0
@@ -108,7 +309,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7929aef909e444fa1a7827ec431f4b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_7
       rect:
         serializedVersion: 2
         x: 600
@@ -117,7 +329,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc2d070288a48478244e9a4076c614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_8
       rect:
         serializedVersion: 2
         x: 1200
@@ -126,7 +349,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be33558c7ae044ffa8092768344d3d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_9
       rect:
         serializedVersion: 2
         x: 1800
@@ -135,7 +369,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1983c13c1140a47bfa239e5fc228b328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_10
       rect:
         serializedVersion: 2
         x: 2400
@@ -144,7 +389,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830520aa609c34446a68eb16dd258b71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_11
       rect:
         serializedVersion: 2
         x: 3000
@@ -153,7 +409,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c00b9c3c61aa4c389aadfecc5ffc8f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_12
       rect:
         serializedVersion: 2
         x: 0
@@ -162,7 +429,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c86829580749088ad6c178ce55ee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_13
       rect:
         serializedVersion: 2
         x: 600
@@ -171,7 +449,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a78e8e7243d4c1196acb3f17fc0343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_14
       rect:
         serializedVersion: 2
         x: 1200
@@ -180,7 +469,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62303b85a505403aa344e125872995a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_15
       rect:
         serializedVersion: 2
         x: 1800
@@ -189,7 +489,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c545de12430542a49f1240084222d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_16
       rect:
         serializedVersion: 2
         x: 2400
@@ -198,7 +509,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a531b51845f413bbb02f484d4cc37f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_17
       rect:
         serializedVersion: 2
         x: 3000
@@ -207,7 +529,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c13aac48c064219a7f79405bf592a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_18
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +549,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcddbf34e52d482f8dff07ad115da22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_19
       rect:
         serializedVersion: 2
         x: 600
@@ -225,7 +569,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d34ae396a22f47c899adecffe5ed9f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_20
       rect:
         serializedVersion: 2
         x: 1200
@@ -234,7 +589,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff851ae60de44985a12d01154acc9b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_21
       rect:
         serializedVersion: 2
         x: 1800
@@ -243,7 +609,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09019928d69614e18a5df30526d42519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_22
       rect:
         serializedVersion: 2
         x: 2400
@@ -252,7 +629,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511aaaf8cf12c4423a0810540abb52a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_23
       rect:
         serializedVersion: 2
         x: 3000
@@ -261,7 +649,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01574289af5d44c2fa631428cce454d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +669,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b85717f0e9c24c6ead3762c792484fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_25
       rect:
         serializedVersion: 2
         x: 600
@@ -279,7 +689,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307d3af5c6545428ca20322c0d79024a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_26
       rect:
         serializedVersion: 2
         x: 1200
@@ -288,7 +709,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5617beec40a944ae9337ed65d231022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_27
       rect:
         serializedVersion: 2
         x: 1800
@@ -297,7 +729,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17574e144d96a471b95b037c7d1627bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_28
       rect:
         serializedVersion: 2
         x: 2400
@@ -306,7 +749,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5024f0334c3f47f185ebc2c9ec7562e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_29
       rect:
         serializedVersion: 2
         x: 3000
@@ -315,7 +769,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e059de4c01e449b68744d8c5808c322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_30
       rect:
         serializedVersion: 2
         x: 0
@@ -324,7 +789,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa8ac16c38244f69a72dc356112af37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_31
       rect:
         serializedVersion: 2
         x: 600
@@ -333,7 +809,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e33038baf8e241aa8f1feaa9af3e9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_32
       rect:
         serializedVersion: 2
         x: 1200
@@ -342,7 +829,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d42e6af3a9b4d6ea33a59b30092e06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_33
       rect:
         serializedVersion: 2
         x: 1800
@@ -351,7 +849,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4de23b123734ccfbaf3d98b81b6912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_34
       rect:
         serializedVersion: 2
         x: 2400
@@ -360,7 +869,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ea663a609a0427d8051ccfb076d879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_35
       rect:
         serializedVersion: 2
         x: 3000
@@ -369,7 +889,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fbf13e4f9c64209854c0e703161f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +909,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb1ee7954a54b7481cba7dcf8c32f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_37
       rect:
         serializedVersion: 2
         x: 600
@@ -387,7 +929,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0a5057f631b420cb798ee3d0ff8d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_38
       rect:
         serializedVersion: 2
         x: 1200
@@ -396,7 +949,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f816bce74764e9f88870c24834f454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_39
       rect:
         serializedVersion: 2
         x: 1800
@@ -405,7 +969,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c331037148b924ef5a425854d370ed6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_40
       rect:
         serializedVersion: 2
         x: 2400
@@ -414,7 +989,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74359fa0ca6f04c1da4d1d098b38ec6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_41
       rect:
         serializedVersion: 2
         x: 3000
@@ -423,7 +1009,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a92e8c65b844bc59d4f3e475a6b1ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_42
       rect:
         serializedVersion: 2
         x: 0
@@ -432,7 +1029,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea1b37580cb40f58430e512140f2ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_43
       rect:
         serializedVersion: 2
         x: 600
@@ -441,7 +1049,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b329e7933a4db2b5dc06fe30a8cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_44
       rect:
         serializedVersion: 2
         x: 1200
@@ -450,7 +1069,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f401027686706427b80f9ebc45b33f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_45
       rect:
         serializedVersion: 2
         x: 1800
@@ -459,7 +1089,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34031a85eeec24d65aa9a2a0c5869715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_46
       rect:
         serializedVersion: 2
         x: 2400
@@ -468,7 +1109,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777437e26373491b9466a1c0ef9b2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_47
       rect:
         serializedVersion: 2
         x: 3000
@@ -477,7 +1129,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f13e6d80d94d1aad96bdc2fc7e22d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_48
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +1149,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a51d5d0920426fb3fdff8144f9b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_49
       rect:
         serializedVersion: 2
         x: 600
@@ -495,7 +1169,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c7332ac55a241d6a7b4eb9c211427c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_50
       rect:
         serializedVersion: 2
         x: 1200
@@ -504,7 +1189,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dcdc9085fcd454abe0d3a4ae991f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_51
       rect:
         serializedVersion: 2
         x: 1800
@@ -513,7 +1209,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844b7c0bf46e34c9583545522137248a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_52
       rect:
         serializedVersion: 2
         x: 2400
@@ -522,7 +1229,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71723f0de16d546839799e5f6e444475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_53
       rect:
         serializedVersion: 2
         x: 3000
@@ -531,7 +1249,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ff84f1a61645338ec7511d8ef2b12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_54
       rect:
         serializedVersion: 2
         x: 0
@@ -540,7 +1269,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c0c63865ee742d094db33a2bd6cbe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_55
       rect:
         serializedVersion: 2
         x: 600
@@ -549,7 +1289,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05808bc024d274c7980a117beab69ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_56
       rect:
         serializedVersion: 2
         x: 1200
@@ -558,7 +1309,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82e6f0f9ca845d3815c055059a6c5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_57
       rect:
         serializedVersion: 2
         x: 1800
@@ -567,7 +1329,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2496e08b8d3bb47afaa71e6f4ed05860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_58
       rect:
         serializedVersion: 2
         x: 2400
@@ -576,7 +1349,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f74a5a3649d4df3af72c588202db30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_59
       rect:
         serializedVersion: 2
         x: 3000
@@ -585,7 +1369,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08697ffebc9e04ff68f16be5136e180b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_60
       rect:
         serializedVersion: 2
         x: 0
@@ -594,7 +1389,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d8fe447066e46ea8e40fe58aadcdb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_61
       rect:
         serializedVersion: 2
         x: 600
@@ -603,7 +1409,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6055c35a274cc280b7a4a5d5db59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_62
       rect:
         serializedVersion: 2
         x: 1200
@@ -612,7 +1429,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7eaa71eb00e450f8e48c77211a43f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_63
       rect:
         serializedVersion: 2
         x: 1800
@@ -621,7 +1449,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb1826221004873816e46d1561a192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_64
       rect:
         serializedVersion: 2
         x: 2400
@@ -630,7 +1469,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f56373adba24158a07b0ec9da22df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_65
       rect:
         serializedVersion: 2
         x: 3000
@@ -639,7 +1489,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e926d11a01c45139920c3d02416014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_66
       rect:
         serializedVersion: 2
         x: 0
@@ -648,7 +1509,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ca07cae34484ec2bcddec230964641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_67
       rect:
         serializedVersion: 2
         x: 600
@@ -657,7 +1529,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bf46298d55e4d758324aae394448f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_68
       rect:
         serializedVersion: 2
         x: 1200
@@ -666,7 +1549,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a41af455d9ee45f49227d31aba40d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_69
       rect:
         serializedVersion: 2
         x: 1800
@@ -675,7 +1569,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e698fa9ca560644b6b22335b5828722b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_70
       rect:
         serializedVersion: 2
         x: 2400
@@ -684,7 +1589,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a2d1a117a145d586b20e77e71a9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_71
       rect:
         serializedVersion: 2
         x: 3000
@@ -693,7 +1609,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6f36e91ed9546e08c850eb8ee68d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_72
       rect:
         serializedVersion: 2
         x: 0
@@ -702,7 +1629,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef022f8a88784a398a44d9985a28678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_73
       rect:
         serializedVersion: 2
         x: 600
@@ -711,7 +1649,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021ee3e4388346b8bfeb54d96d4cff1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_74
       rect:
         serializedVersion: 2
         x: 1200
@@ -720,7 +1669,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c560a38ac985140cca0cdcbac65f5733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_75
       rect:
         serializedVersion: 2
         x: 1800
@@ -729,7 +1689,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7352be3a3c862402b81039a452473620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_76
       rect:
         serializedVersion: 2
         x: 2400
@@ -738,7 +1709,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42e75ec6a02413e8a07740e3eae5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_77
       rect:
         serializedVersion: 2
         x: 3000
@@ -747,7 +1729,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee0a277cf71d45b4a6d2ca177b6093f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_78
       rect:
         serializedVersion: 2
         x: 0
@@ -756,7 +1749,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3cea19bad2e4d4e824745f26a882aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_79
       rect:
         serializedVersion: 2
         x: 600
@@ -765,7 +1769,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa50fe08b2434e6a83ce08f6cb4c5b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_80
       rect:
         serializedVersion: 2
         x: 1200
@@ -774,7 +1789,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19382ddf25f684db08cd60481a7cf2d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_81
       rect:
         serializedVersion: 2
         x: 1800
@@ -783,7 +1809,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4417e0a02bfac47a6b5c0198dfe673c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_82
       rect:
         serializedVersion: 2
         x: 2400
@@ -792,7 +1829,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bc6bf7be6a44e7be621d087b28e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_83
       rect:
         serializedVersion: 2
         x: 3000
@@ -801,7 +1849,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791898c47d90b441bba052e1e63ee689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_84
       rect:
         serializedVersion: 2
         x: 0
@@ -810,7 +1869,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34aaae6870564910be1dab5648e37bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_85
       rect:
         serializedVersion: 2
         x: 600
@@ -819,7 +1889,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c68c99399c1249c88a2c7aa197eb1ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_86
       rect:
         serializedVersion: 2
         x: 1200
@@ -828,7 +1909,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdf61e65758c4fb49c20ba318c4284a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_87
       rect:
         serializedVersion: 2
         x: 1800
@@ -837,7 +1929,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acc963242f2f462897d794df6263447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_88
       rect:
         serializedVersion: 2
         x: 2400
@@ -846,7 +1949,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e7e222489b4da195c81f9b04d0348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_89
       rect:
         serializedVersion: 2
         x: 3000
@@ -855,7 +1969,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc45cbe8fcce4be1a74db0bf40c6906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_90
       rect:
         serializedVersion: 2
         x: 0
@@ -864,7 +1989,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172684669dcf04ceba1ca360405a8704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_91
       rect:
         serializedVersion: 2
         x: 600
@@ -873,7 +2009,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ff24a8d4c4d4ccd9153994280ffe2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_92
       rect:
         serializedVersion: 2
         x: 1200
@@ -882,7 +2029,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125939d87f10c4cd39d5091f25948192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_93
       rect:
         serializedVersion: 2
         x: 1800
@@ -891,7 +2049,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dbf203f1ce546aa885f001e2bb8a29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_94
       rect:
         serializedVersion: 2
         x: 2400
@@ -900,7 +2069,18 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: doc_rivers_dumbfounded-frames_95
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e685253d925264ba396a5f2f9da04cd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doc_rivers_dumbfounded-frames_95
       rect:
         serializedVersion: 2
         x: 3000
@@ -909,5 +2089,27 @@ TextureImporter:
         height: 311
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6d02cde14c440f298ce8a95508a9ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

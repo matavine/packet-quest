@@ -10,7 +10,7 @@ public abstract class AbsToggleBlock : MonoBehaviour {
 			return;
 		}
 		ToggleBlock();
-		CircuitScript.SendCircuitSignal(gameObject, (BoxCollider2D)collider2D, circuit);
+		CircuitScript.SendCircuitSignal(gameObject, (BoxCollider2D)GetComponent<Collider2D>(), circuit);
 	}
 }
 

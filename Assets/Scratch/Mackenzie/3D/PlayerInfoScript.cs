@@ -37,11 +37,11 @@ public class PlayerInfoScript : MonoBehaviour {
 		GameObject[] allObjects = GameObject.FindGameObjectsWithTag("platform");
 		foreach(GameObject thisObject in allObjects){
    			if(thisObject.activeInHierarchy){
-      			thisObject.renderer.enabled = false;
+      			thisObject.GetComponent<Renderer>().enabled = false;
 			}
 		}
 		GameObject player = GameObject.FindGameObjectWithTag("player");
-		player.renderer.enabled = false;
+		player.GetComponent<Renderer>().enabled = false;
 		
 	}
 }

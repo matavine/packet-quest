@@ -105,13 +105,13 @@ public class BlockTool {
 		Event currentEvent = Event.current;
 		
 		// Enable capturing of left mouse button up events.
-		if (currentEvent.type == EventType.layout) {
+		if (currentEvent.type == EventType.Layout) {
 			HandleUtility.AddDefaultControl(GUIUtility.GetControlID(GetHashCode(), FocusType.Passive));
 		}
 		
-		if (currentEvent.type == EventType.mouseDown && currentEvent.button == 0) {
+		if (currentEvent.type == EventType.MouseDown && currentEvent.button == 0) {
 			m_isMouseDragged = true;
-		} else if (currentEvent.type == EventType.mouseUp && currentEvent.button == 0) {
+		} else if (currentEvent.type == EventType.MouseUp && currentEvent.button == 0) {
 			m_isMouseDragged = false;
 		}
 		
@@ -130,16 +130,16 @@ public class BlockTool {
 				m_blockCursor.SetActive(true);
 				m_blockCursor.transform.position = blockPosition;
 				m_blockCursor.transform.localScale = new Vector3(m_gridTool.CellSize, m_gridTool.CellSize, m_gridTool.CellSize);
-				m_blockCursor.renderer.material = new Material(m_blockCursor.renderer.sharedMaterial);
-				m_blockCursor.renderer.sharedMaterial.mainTexture = m_blockPreview;
+				m_blockCursor.GetComponent<Renderer>().material = new Material(m_blockCursor.GetComponent<Renderer>().sharedMaterial);
+				m_blockCursor.GetComponent<Renderer>().sharedMaterial.mainTexture = m_blockPreview;
 			}
 			
 			if (m_isMouseDragged) {
-				bool defaultRaycastSetting = Physics2D.raycastsHitTriggers;
-				Physics2D.raycastsHitTriggers = true; // Must be enabled to hit trigger box colliders.
+				bool defaultRaycastSetting = Physics2D.queriesHitTriggers;
+				Physics2D.queriesHitTriggers = true; // Must be enabled to hit trigger box colliders.
 
 				Collider2D[] colliders = Physics2D.OverlapPointAll(blockPosition);
-				Physics2D.raycastsHitTriggers = defaultRaycastSetting;
+				Physics2D.queriesHitTriggers = defaultRaycastSetting;
 				if (currentEvent.shift) {
 					foreach (Collider2D collider in colliders) {
 						Undo.DestroyObjectImmediate(collider.gameObject);

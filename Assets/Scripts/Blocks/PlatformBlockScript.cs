@@ -39,6 +39,6 @@ public class PlatformBlockScript : MonoBehaviour {
 
 	public void Pulse() {
 		float t = Mathf.PingPong(Time.time, pulseDuration) / pulseDuration;
-		renderer.material.color = Color.Lerp(colourA, colourB, t);
+		GetComponent<Renderer>().material.color = Color.Lerp(colourA, colourB, t);
 	}
 }

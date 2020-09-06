@@ -1,32 +1,138 @@
 fileFormatVersion: 2
 guid: f9df74d33d87cbe40bc8b7e6778208b5
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: sports_fan_why-frames_0
+    21300002: sports_fan_why-frames_1
+    21300004: sports_fan_why-frames_2
+    21300006: sports_fan_why-frames_3
+    21300008: sports_fan_why-frames_4
+    21300010: sports_fan_why-frames_5
+    21300012: sports_fan_why-frames_6
+    21300014: sports_fan_why-frames_7
+    21300016: sports_fan_why-frames_8
+    21300018: sports_fan_why-frames_9
+    21300020: sports_fan_why-frames_10
+    21300022: sports_fan_why-frames_11
+    21300024: sports_fan_why-frames_12
+    21300026: sports_fan_why-frames_13
+    21300028: sports_fan_why-frames_14
+    21300030: sports_fan_why-frames_15
+    21300032: sports_fan_why-frames_16
+    21300034: sports_fan_why-frames_17
+    21300036: sports_fan_why-frames_18
+    21300038: sports_fan_why-frames_19
+    21300040: sports_fan_why-frames_20
+    21300042: sports_fan_why-frames_21
+    21300044: sports_fan_why-frames_22
+    21300046: sports_fan_why-frames_23
+    21300048: sports_fan_why-frames_24
+    21300050: sports_fan_why-frames_25
+    21300052: sports_fan_why-frames_26
+    21300054: sports_fan_why-frames_27
+    21300056: sports_fan_why-frames_28
+    21300058: sports_fan_why-frames_29
+    21300060: sports_fan_why-frames_30
+    21300062: sports_fan_why-frames_31
+    21300064: sports_fan_why-frames_32
+    21300066: sports_fan_why-frames_33
+    21300068: sports_fan_why-frames_34
+    21300070: sports_fan_why-frames_35
+    21300072: sports_fan_why-frames_36
+    21300074: sports_fan_why-frames_37
+    21300076: sports_fan_why-frames_38
+    21300078: sports_fan_why-frames_39
+    21300080: sports_fan_why-frames_40
+    21300082: sports_fan_why-frames_41
+    21300084: sports_fan_why-frames_42
+    21300086: sports_fan_why-frames_43
+    21300088: sports_fan_why-frames_44
+    21300090: sports_fan_why-frames_45
+    21300092: sports_fan_why-frames_46
+    21300094: sports_fan_why-frames_47
+    21300096: sports_fan_why-frames_48
+    21300098: sports_fan_why-frames_49
+    21300100: sports_fan_why-frames_50
+    21300102: sports_fan_why-frames_51
+    21300104: sports_fan_why-frames_52
+    21300106: sports_fan_why-frames_53
+    21300108: sports_fan_why-frames_54
+    21300110: sports_fan_why-frames_55
+    21300112: sports_fan_why-frames_56
+    21300114: sports_fan_why-frames_57
+    21300116: sports_fan_why-frames_58
+    21300118: sports_fan_why-frames_59
+    21300120: sports_fan_why-frames_60
+    21300122: sports_fan_why-frames_61
+    21300124: sports_fan_why-frames_62
+    21300126: sports_fan_why-frames_63
+    21300128: sports_fan_why-frames_64
+    21300130: sports_fan_why-frames_65
+    21300132: sports_fan_why-frames_66
+    21300134: sports_fan_why-frames_67
+    21300136: sports_fan_why-frames_68
+    21300138: sports_fan_why-frames_69
+    21300140: sports_fan_why-frames_70
+    21300142: sports_fan_why-frames_71
+    21300144: sports_fan_why-frames_72
+    21300146: sports_fan_why-frames_73
+    21300148: sports_fan_why-frames_74
+    21300150: sports_fan_why-frames_75
+    21300152: sports_fan_why-frames_76
+    21300154: sports_fan_why-frames_77
+    21300156: sports_fan_why-frames_78
+    21300158: sports_fan_why-frames_79
+    21300160: sports_fan_why-frames_80
+    21300162: sports_fan_why-frames_81
+    21300164: sports_fan_why-frames_82
+    21300166: sports_fan_why-frames_83
+    21300168: sports_fan_why-frames_84
+    21300170: sports_fan_why-frames_85
+    21300172: sports_fan_why-frames_86
+    21300174: sports_fan_why-frames_87
+    21300176: sports_fan_why-frames_88
+    21300178: sports_fan_why-frames_89
+    21300180: sports_fan_why-frames_90
+    21300182: sports_fan_why-frames_91
+    21300184: sports_fan_why-frames_92
+    21300186: sports_fan_why-frames_93
+    21300188: sports_fan_why-frames_94
+    21300190: sports_fan_why-frames_95
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +140,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: sports_fan_why-frames_0
+    - serializedVersion: 2
+      name: sports_fan_why-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +189,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5da82e33ef05402db95ef042dc607e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_1
       rect:
         serializedVersion: 2
         x: 319
@@ -63,7 +209,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6308bdb8605a4cde93bb4092e485749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_2
       rect:
         serializedVersion: 2
         x: 638
@@ -72,7 +229,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815b1d20dc8b4ed98052a3a9fb3e8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_3
       rect:
         serializedVersion: 2
         x: 957
@@ -81,7 +249,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9fc760b0e104ddb805661162fbf0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_4
       rect:
         serializedVersion: 2
         x: 1276
@@ -90,7 +269,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2896c8b2c694f819650dc0b87d1bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_5
       rect:
         serializedVersion: 2
         x: 1595
@@ -99,7 +289,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aeb48b33ce74fafba4c12480e646ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_6
       rect:
         serializedVersion: 2
         x: 1914
@@ -108,7 +309,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde885383ca464841b97c7053d24d532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_7
       rect:
         serializedVersion: 2
         x: 2233
@@ -117,7 +329,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1586a14b42ed84f10af4b7fdc0ba22af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_8
       rect:
         serializedVersion: 2
         x: 2552
@@ -126,7 +349,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec020db80d6aa407c926c783db6ef5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_9
       rect:
         serializedVersion: 2
         x: 2871
@@ -135,7 +369,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf13e82774b472988dec23bb667703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_10
       rect:
         serializedVersion: 2
         x: 3190
@@ -144,7 +389,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f111d4fb64b7d44a9a02d4ad56d0737b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_11
       rect:
         serializedVersion: 2
         x: 3509
@@ -153,7 +409,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39dbbf11360e433c82c94960bf390c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_12
       rect:
         serializedVersion: 2
         x: 0
@@ -162,7 +429,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968bdd68c3b7a4052bd5eacbdbd51b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_13
       rect:
         serializedVersion: 2
         x: 319
@@ -171,7 +449,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e85dd68dca34411fafb0e159f75e294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_14
       rect:
         serializedVersion: 2
         x: 638
@@ -180,7 +469,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ddc3df1f514341a97f4cec5c678d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_15
       rect:
         serializedVersion: 2
         x: 957
@@ -189,7 +489,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb39d520aed4985a8a3c1c525b6b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_16
       rect:
         serializedVersion: 2
         x: 1276
@@ -198,7 +509,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeabf1ce1cf9845baa50fac671894003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_17
       rect:
         serializedVersion: 2
         x: 1595
@@ -207,7 +529,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071ee40926d62466781a2cf4c9083c7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_18
       rect:
         serializedVersion: 2
         x: 1914
@@ -216,7 +549,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9740a553083734ff1bb137abc3e0a940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_19
       rect:
         serializedVersion: 2
         x: 2233
@@ -225,7 +569,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9c1610c97384dafb6fd6e50f4590f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_20
       rect:
         serializedVersion: 2
         x: 2552
@@ -234,7 +589,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216cae64cc8614bd69161dc372adfa12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_21
       rect:
         serializedVersion: 2
         x: 2871
@@ -243,7 +609,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc272751787e45e2b63ac993390d87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_22
       rect:
         serializedVersion: 2
         x: 3190
@@ -252,7 +629,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac557a62da0fd42d78218275b1b76ae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_23
       rect:
         serializedVersion: 2
         x: 3509
@@ -261,7 +649,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400ee9a1d1ee4b2ea78dbcd0bac2500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +669,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0a0e124642e4ebb8efcfe5f7a42f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_25
       rect:
         serializedVersion: 2
         x: 319
@@ -279,7 +689,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895ea71d35bc45c099cfb536dfa8cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_26
       rect:
         serializedVersion: 2
         x: 638
@@ -288,7 +709,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088c236b7c67c43a09e929bc69103e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_27
       rect:
         serializedVersion: 2
         x: 957
@@ -297,7 +729,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc33e80d8368042ecaf234d3cea47044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_28
       rect:
         serializedVersion: 2
         x: 1276
@@ -306,7 +749,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48165fc7d15b64e96abd4ab68578259d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_29
       rect:
         serializedVersion: 2
         x: 1595
@@ -315,7 +769,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4310cf15871dc459cba0643a45eb7891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_30
       rect:
         serializedVersion: 2
         x: 1914
@@ -324,7 +789,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd43a92d4e6d9440cbd7c91f354fc702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_31
       rect:
         serializedVersion: 2
         x: 2233
@@ -333,7 +809,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c8dd892f7e84c92ad5d8223415293a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_32
       rect:
         serializedVersion: 2
         x: 2552
@@ -342,7 +829,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da41589be6ac341bc992fb1f16065ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_33
       rect:
         serializedVersion: 2
         x: 2871
@@ -351,7 +849,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4190cb94f8a75481db00be67907909cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_34
       rect:
         serializedVersion: 2
         x: 3190
@@ -360,7 +869,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d1cb8aa1c84fb4b7c89125a9aaf68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_35
       rect:
         serializedVersion: 2
         x: 3509
@@ -369,7 +889,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b317ffb9e404244bc9cd67ce4d29bf25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +909,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c07c702eef941e589ecb878d13bbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_37
       rect:
         serializedVersion: 2
         x: 319
@@ -387,7 +929,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670a874fa3c34472c9841d600e7a20fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_38
       rect:
         serializedVersion: 2
         x: 638
@@ -396,7 +949,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0229e2435a9e40b1a76f7d79cb6c1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_39
       rect:
         serializedVersion: 2
         x: 957
@@ -405,7 +969,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb21b8c9332455b9f7e6f744bc051c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_40
       rect:
         serializedVersion: 2
         x: 1276
@@ -414,7 +989,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396464a19b81e455ab884c355d2a20ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_41
       rect:
         serializedVersion: 2
         x: 1595
@@ -423,7 +1009,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c72269af36451ea2d4add9a17f018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_42
       rect:
         serializedVersion: 2
         x: 1914
@@ -432,7 +1029,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aabafe8366e43f1809d6f18dca8f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_43
       rect:
         serializedVersion: 2
         x: 2233
@@ -441,7 +1049,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139b489be8bb9464a9e9c9f7924b6745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_44
       rect:
         serializedVersion: 2
         x: 2552
@@ -450,7 +1069,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a08171b450540b28c1e6e97dfd0826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_45
       rect:
         serializedVersion: 2
         x: 2871
@@ -459,7 +1089,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1c354be7014477b2140c5cb0bb023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_46
       rect:
         serializedVersion: 2
         x: 3190
@@ -468,7 +1109,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faa866d5a39f4b92923722bfb5f7b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_47
       rect:
         serializedVersion: 2
         x: 3509
@@ -477,7 +1129,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf239cefa2544d8c8d17a5ea294bc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_48
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +1149,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaa0c3d159354b2aa32ba76636daa1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_49
       rect:
         serializedVersion: 2
         x: 319
@@ -495,7 +1169,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21023226581394e168e31b10cb4d535f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_50
       rect:
         serializedVersion: 2
         x: 638
@@ -504,7 +1189,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e49c8279b8845bc9d0e47b5bfc1e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_51
       rect:
         serializedVersion: 2
         x: 957
@@ -513,7 +1209,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98d10f76307f42cbb3ea97117006a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_52
       rect:
         serializedVersion: 2
         x: 1276
@@ -522,7 +1229,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c5348da45824ae696e2ff7a5505c49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_53
       rect:
         serializedVersion: 2
         x: 1595
@@ -531,7 +1249,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6c909617064db1b98209e8cac4f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_54
       rect:
         serializedVersion: 2
         x: 1914
@@ -540,7 +1269,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5e8328f7624360aa5d6733a3d7710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_55
       rect:
         serializedVersion: 2
         x: 2233
@@ -549,7 +1289,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f33c2d9de840d495eded114f3c6b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_56
       rect:
         serializedVersion: 2
         x: 2552
@@ -558,7 +1309,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52507e575761488196a5118b6790d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_57
       rect:
         serializedVersion: 2
         x: 2871
@@ -567,7 +1329,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf55da7c44d49788d54a669d432d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_58
       rect:
         serializedVersion: 2
         x: 3190
@@ -576,7 +1349,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977b1ae4a783c4a01ad43aa57df03190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_59
       rect:
         serializedVersion: 2
         x: 3509
@@ -585,7 +1369,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9022a44b18177406e8b93e8c78ae6658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_60
       rect:
         serializedVersion: 2
         x: 0
@@ -594,7 +1389,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfded941a03784de0a7162f4d94650eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_61
       rect:
         serializedVersion: 2
         x: 319
@@ -603,7 +1409,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c462b3f8cc8d4ec39683532912c9006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_62
       rect:
         serializedVersion: 2
         x: 638
@@ -612,7 +1429,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1771904a66394f5bb748422416034ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_63
       rect:
         serializedVersion: 2
         x: 957
@@ -621,7 +1449,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccacbbac2d65461b9b35deac4281b02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_64
       rect:
         serializedVersion: 2
         x: 1276
@@ -630,7 +1469,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec6df4c06a3c489fbdaeef1a6592bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_65
       rect:
         serializedVersion: 2
         x: 1595
@@ -639,7 +1489,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb7ed727a5148c28184cb13f8cd71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_66
       rect:
         serializedVersion: 2
         x: 1914
@@ -648,7 +1509,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db53bf502bce4812a401f9e3fb10c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_67
       rect:
         serializedVersion: 2
         x: 2233
@@ -657,7 +1529,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a014ecd88204c709f10019b7f5ab69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_68
       rect:
         serializedVersion: 2
         x: 2552
@@ -666,7 +1549,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4c960b79024646af1fd3633e9d0d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_69
       rect:
         serializedVersion: 2
         x: 2871
@@ -675,7 +1569,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a375923b6c7420088dcc1bf9db8ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_70
       rect:
         serializedVersion: 2
         x: 3190
@@ -684,7 +1589,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e95e24a72b4d49ebadb133044f1dcbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_71
       rect:
         serializedVersion: 2
         x: 3509
@@ -693,7 +1609,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c5ddd3677074c3dae078b6558b85a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_72
       rect:
         serializedVersion: 2
         x: 0
@@ -702,7 +1629,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075cd85fab94741fd824776b267720da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_73
       rect:
         serializedVersion: 2
         x: 319
@@ -711,7 +1649,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c664305adcf340ffb2b6a9c988fe1d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_74
       rect:
         serializedVersion: 2
         x: 638
@@ -720,7 +1669,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86a2753284146948a60cd198aa8466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_75
       rect:
         serializedVersion: 2
         x: 957
@@ -729,7 +1689,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc8123aa2ab44d22aa6036b1b360165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_76
       rect:
         serializedVersion: 2
         x: 1276
@@ -738,7 +1709,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c85039de0a4a9094d058fba705f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_77
       rect:
         serializedVersion: 2
         x: 1595
@@ -747,7 +1729,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f942a472f4a47e688fa51d3a69a219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_78
       rect:
         serializedVersion: 2
         x: 1914
@@ -756,7 +1749,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03ca6a552f8c46b7b087c08ac2eae7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_79
       rect:
         serializedVersion: 2
         x: 2233
@@ -765,7 +1769,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0de1aa95ff456aa36006aab3456d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_80
       rect:
         serializedVersion: 2
         x: 2552
@@ -774,7 +1789,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b1ac94548e44d59b9aaca0fed1955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_81
       rect:
         serializedVersion: 2
         x: 2871
@@ -783,7 +1809,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842216adb93c7476fa1be7f5fe32b684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_82
       rect:
         serializedVersion: 2
         x: 3190
@@ -792,7 +1829,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aa427b4dc544a019605fd1265b050a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_83
       rect:
         serializedVersion: 2
         x: 3509
@@ -801,7 +1849,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f338b78489c5431cb0f75cb1fec1bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_84
       rect:
         serializedVersion: 2
         x: 0
@@ -810,7 +1869,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe05ac9b98ff473eaee8f540a642ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_85
       rect:
         serializedVersion: 2
         x: 319
@@ -819,7 +1889,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b1f3e3a59b46a8a0d8e0bf2a6ace8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_86
       rect:
         serializedVersion: 2
         x: 638
@@ -828,7 +1909,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9abf5961a2bb43bea59f3693b97db6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_87
       rect:
         serializedVersion: 2
         x: 957
@@ -837,7 +1929,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc4b5a197304669b5d64cc53c40f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_88
       rect:
         serializedVersion: 2
         x: 1276
@@ -846,7 +1949,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a089f7fa107a47ccbae3d4a3c1711b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_89
       rect:
         serializedVersion: 2
         x: 1595
@@ -855,7 +1969,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3ace050a7a43cfa29a0427a177822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_90
       rect:
         serializedVersion: 2
         x: 1914
@@ -864,7 +1989,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc4d2dd421d4d1d8a7ca9bdb5e2fda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_91
       rect:
         serializedVersion: 2
         x: 2233
@@ -873,7 +2009,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc93c066ac03489fa261db9fff15e91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_92
       rect:
         serializedVersion: 2
         x: 2552
@@ -882,7 +2029,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74534c3860535432dbaae2ded7a7af9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_93
       rect:
         serializedVersion: 2
         x: 2871
@@ -891,7 +2049,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931965c150eb647b794310f2fefa812f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_94
       rect:
         serializedVersion: 2
         x: 3190
@@ -900,7 +2069,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: sports_fan_why-frames_95
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b413ac533f87142c29f7fcabe09fc74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sports_fan_why-frames_95
       rect:
         serializedVersion: 2
         x: 3509
@@ -909,5 +2089,27 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a001abbdf86d425195f7a0efc86c010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

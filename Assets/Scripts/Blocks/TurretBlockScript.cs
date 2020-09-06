@@ -48,7 +48,7 @@ public class TurretBlockScript : AbsToggleBlock {
 	public IEnumerator TriggerTurret(){
 		while(true){
 			GameObject prefabRay = Instantiate(missile, gameObject.transform.position + m_offset, gameObject.transform.rotation) as GameObject;
-			prefabRay.rigidbody2D.velocity = m_missileSpeed*m_direction;
+			prefabRay.GetComponent<Rigidbody2D>().velocity = m_missileSpeed*m_direction;
 			yield return new WaitForSeconds(1.0f/fireRate);
 		}
 	}

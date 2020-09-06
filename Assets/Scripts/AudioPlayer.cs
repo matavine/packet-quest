@@ -88,7 +88,7 @@ public class AudioPlayer : MonoBehaviour {
 			Debug.LogWarning("Clip " + key + " does not exist");
 			return;
 		}
-		AudioSource source = m_clips[key].audio;
+		AudioSource source = m_clips[key].GetComponent<AudioSource>();
 		if (source.volume == finalVolume) {
 			Debug.Log("Clip " + key + " already at target volume");
 			return;
@@ -113,7 +113,7 @@ public class AudioPlayer : MonoBehaviour {
 		}
 		GameObject obj = CreateAudioGameObject(name, fadeIn > 0.0f ? 0.0f : volume, loop);
 		if (obj != null && fadeIn > 0.0f) {
-			Fade(obj.audio, volume, fadeIn, incrementsPerSecond);
+			Fade(obj.GetComponent<AudioSource>(), volume, fadeIn, incrementsPerSecond);
 		}
 		return obj ? obj.GetInstanceID() : -1;
 	}
@@ -124,7 +124,7 @@ public class AudioPlayer : MonoBehaviour {
 		}
 		GameObject obj = CreateAudioGameObject(name, fadeIn > 0.0f ? 0.0f : volume, loop);
 		if (obj != null && fadeIn > 0.0f) {
-			Fade(obj.audio, volume, fadeIn, incrementsPerSecond);
+			Fade(obj.GetComponent<AudioSource>(), volume, fadeIn, incrementsPerSecond);
 		}
 		obj.transform.position = position;
 		return obj ? obj.GetInstanceID() : -1;
@@ -137,7 +137,7 @@ public class AudioPlayer : MonoBehaviour {
 		}
 		GameObject obj = CreateAudioGameObject(name, fadeIn > 0.0f ? 0.0f : volume, loop);
 		if (fadeIn > 0.0f) {
-			Fade(obj.audio, volume, fadeIn, incrementsPerSecond);
+			Fade(obj.GetComponent<AudioSource>(), volume, fadeIn, incrementsPerSecond);
 		}
 		obj.transform.position = source.position;
 		obj.transform.parent = source;
@@ -157,7 +157,7 @@ public class AudioPlayer : MonoBehaviour {
 			Debug.LogWarning("Clip " + key + " does not exist");
 			return;
 		}
-		AudioSource source = m_clips[key].audio;
+		AudioSource source = m_clips[key].GetComponent<AudioSource>();
 		StartCoroutine(ChangePitchRoutine(source, pitch, (pitch - source.pitch)/increments, timeBetweenIncrements));
 	}
 
@@ -170,13 +170,13 @@ public class AudioPlayer : MonoBehaviour {
 			Debug.LogWarning("Clip " + key + " is already paused");
 			return;
 		}
-		m_clips[key].audio.Pause();
+		m_clips[key].GetComponent<AudioSource>().Pause();
 		m_paused.Add(key);
 	}
 
 	public void PauseAll() {
 		foreach (int key in m_clips.Keys) {
-			m_clips[key].audio.Pause();
+			m_clips[key].GetComponent<AudioSource>().Pause();
 			m_paused.Add(key);
 		}
 	}
@@ -190,7 +190,7 @@ public class AudioPlayer : MonoBehaviour {
 			Debug.LogWarning("Clip " + key + " is not paused");
 			return;
 		}
-		AudioSource source = m_clips[key].audio;
+		AudioSource source = m_clips[key].GetComponent<AudioSource>();
 		source.Play();
 		// Can't remove while we're iterating in UnPauseAll
 		if (remove) {
@@ -218,7 +218,7 @@ public class AudioPlayer : MonoBehaviour {
 			return;
 		}
 		GameObject obj = m_clips[key];
-		obj.audio.Stop();
+		obj.GetComponent<AudioSource>().Stop();
 		DestroyImmediate(obj);
 		if (remove) {
 			m_clips.Remove(key);
@@ -243,7 +243,7 @@ public class AudioPlayer : MonoBehaviour {
 			Debug.LogWarning("Clip " + key + " does not exist");
 			return 0;
 		}
-		return m_clips[key].audio.clip.length;
+		return m_clips[key].GetComponent<AudioSource>().clip.length;
 	}
 
 	public float GetClipLength(string name) {
@@ -258,7 +258,7 @@ public class AudioPlayer : MonoBehaviour {
 		Dictionary<int, GameObject> remainingClips = new Dictionary<int, GameObject>();
 		//remove all clips that are finished
 		foreach (KeyValuePair<int, GameObject> entry in m_clips) {
-			if (entry.Value.audio.timeSamples < entry.Value.audio.clip.samples) {
+			if (entry.Value.GetComponent<AudioSource>().timeSamples < entry.Value.GetComponent<AudioSource>().clip.samples) {
 				remainingClips.Add(entry.Key, entry.Value);
 			} else {
 				// Not executed until the after Update is finished

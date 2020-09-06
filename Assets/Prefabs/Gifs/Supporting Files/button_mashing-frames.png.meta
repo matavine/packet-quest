@@ -1,32 +1,152 @@
 fileFormatVersion: 2
 guid: 5c2cbb80a7be9cf4e92b93d30e4f90c9
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: button_mashing-frames_0
+    21300002: button_mashing-frames_1
+    21300004: button_mashing-frames_2
+    21300006: button_mashing-frames_3
+    21300008: button_mashing-frames_4
+    21300010: button_mashing-frames_5
+    21300012: button_mashing-frames_6
+    21300014: button_mashing-frames_7
+    21300016: button_mashing-frames_8
+    21300018: button_mashing-frames_9
+    21300020: button_mashing-frames_10
+    21300022: button_mashing-frames_11
+    21300024: button_mashing-frames_12
+    21300026: button_mashing-frames_13
+    21300028: button_mashing-frames_14
+    21300030: button_mashing-frames_15
+    21300032: button_mashing-frames_16
+    21300034: button_mashing-frames_17
+    21300036: button_mashing-frames_18
+    21300038: button_mashing-frames_19
+    21300040: button_mashing-frames_20
+    21300042: button_mashing-frames_21
+    21300044: button_mashing-frames_22
+    21300046: button_mashing-frames_23
+    21300048: button_mashing-frames_24
+    21300050: button_mashing-frames_25
+    21300052: button_mashing-frames_26
+    21300054: button_mashing-frames_27
+    21300056: button_mashing-frames_28
+    21300058: button_mashing-frames_29
+    21300060: button_mashing-frames_30
+    21300062: button_mashing-frames_31
+    21300064: button_mashing-frames_32
+    21300066: button_mashing-frames_33
+    21300068: button_mashing-frames_34
+    21300070: button_mashing-frames_35
+    21300072: button_mashing-frames_36
+    21300074: button_mashing-frames_37
+    21300076: button_mashing-frames_38
+    21300078: button_mashing-frames_39
+    21300080: button_mashing-frames_40
+    21300082: button_mashing-frames_41
+    21300084: button_mashing-frames_42
+    21300086: button_mashing-frames_43
+    21300088: button_mashing-frames_44
+    21300090: button_mashing-frames_45
+    21300092: button_mashing-frames_46
+    21300094: button_mashing-frames_47
+    21300096: button_mashing-frames_48
+    21300098: button_mashing-frames_49
+    21300100: button_mashing-frames_50
+    21300102: button_mashing-frames_51
+    21300104: button_mashing-frames_52
+    21300106: button_mashing-frames_53
+    21300108: button_mashing-frames_54
+    21300110: button_mashing-frames_55
+    21300112: button_mashing-frames_56
+    21300114: button_mashing-frames_57
+    21300116: button_mashing-frames_58
+    21300118: button_mashing-frames_59
+    21300120: button_mashing-frames_60
+    21300122: button_mashing-frames_61
+    21300124: button_mashing-frames_62
+    21300126: button_mashing-frames_63
+    21300128: button_mashing-frames_64
+    21300130: button_mashing-frames_65
+    21300132: button_mashing-frames_66
+    21300134: button_mashing-frames_67
+    21300136: button_mashing-frames_68
+    21300138: button_mashing-frames_69
+    21300140: button_mashing-frames_70
+    21300142: button_mashing-frames_71
+    21300144: button_mashing-frames_72
+    21300146: button_mashing-frames_73
+    21300148: button_mashing-frames_74
+    21300150: button_mashing-frames_75
+    21300152: button_mashing-frames_76
+    21300154: button_mashing-frames_77
+    21300156: button_mashing-frames_78
+    21300158: button_mashing-frames_79
+    21300160: button_mashing-frames_80
+    21300162: button_mashing-frames_81
+    21300164: button_mashing-frames_82
+    21300166: button_mashing-frames_83
+    21300168: button_mashing-frames_84
+    21300170: button_mashing-frames_85
+    21300172: button_mashing-frames_86
+    21300174: button_mashing-frames_87
+    21300176: button_mashing-frames_88
+    21300178: button_mashing-frames_89
+    21300180: button_mashing-frames_90
+    21300182: button_mashing-frames_91
+    21300184: button_mashing-frames_92
+    21300186: button_mashing-frames_93
+    21300188: button_mashing-frames_94
+    21300190: button_mashing-frames_95
+    21300192: button_mashing-frames_96
+    21300194: button_mashing-frames_97
+    21300196: button_mashing-frames_98
+    21300198: button_mashing-frames_99
+    21300200: button_mashing-frames_100
+    21300202: button_mashing-frames_101
+    21300204: button_mashing-frames_102
+    21300206: button_mashing-frames_103
+    21300208: button_mashing-frames_104
+    21300210: button_mashing-frames_105
+    21300212: button_mashing-frames_106
+    21300214: button_mashing-frames_107
+    21300216: button_mashing-frames_108
+    21300218: button_mashing-frames_109
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +154,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: button_mashing-frames_0
+    - serializedVersion: 2
+      name: button_mashing-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +203,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e60006ffab40098bf3d6de2465a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_1
       rect:
         serializedVersion: 2
         x: 360
@@ -63,7 +223,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7facb792e64652b703f2ddbf5a449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_2
       rect:
         serializedVersion: 2
         x: 720
@@ -72,7 +243,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bc0d4fdefb340558ffc31756b5b954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_3
       rect:
         serializedVersion: 2
         x: 1080
@@ -81,7 +263,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1f58cdd59414984bccaa7a1f203279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_4
       rect:
         serializedVersion: 2
         x: 1440
@@ -90,7 +283,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec25ecda25e406681be8c86aed5656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_5
       rect:
         serializedVersion: 2
         x: 1800
@@ -99,7 +303,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda7d164fcd4a4cd3962d84029a2be81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_6
       rect:
         serializedVersion: 2
         x: 2160
@@ -108,7 +323,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ba1f5715b1400790877684b5c18db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_7
       rect:
         serializedVersion: 2
         x: 2520
@@ -117,7 +343,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50b780dde6ae4dc6ba5bba7f26cc524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_8
       rect:
         serializedVersion: 2
         x: 2880
@@ -126,7 +363,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3bd2b01fdf461da2d8aafb3b189cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_9
       rect:
         serializedVersion: 2
         x: 3240
@@ -135,7 +383,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fd21fc1618b48e4ac7c8db00f0bece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_10
       rect:
         serializedVersion: 2
         x: 3600
@@ -144,7 +403,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed15c7b51d78d40119a037be391aa794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_11
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +423,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08146cd16b6a44dd6bf698892937d522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_12
       rect:
         serializedVersion: 2
         x: 360
@@ -162,7 +443,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f12fb6d4c8364334a9dbd3c0a225876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_13
       rect:
         serializedVersion: 2
         x: 720
@@ -171,7 +463,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d39867cb909434c9b067f3e208818e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_14
       rect:
         serializedVersion: 2
         x: 1080
@@ -180,7 +483,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb6b2212ecc9418387ee97ae6c19646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_15
       rect:
         serializedVersion: 2
         x: 1440
@@ -189,7 +503,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899c9cf73dc554b109acf5dc894dc81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_16
       rect:
         serializedVersion: 2
         x: 1800
@@ -198,7 +523,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77e74b61115942bc8ee970a2757f3cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_17
       rect:
         serializedVersion: 2
         x: 2160
@@ -207,7 +543,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4442c3a9d3d894d59b78298fc54dd70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_18
       rect:
         serializedVersion: 2
         x: 2520
@@ -216,7 +563,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad7dd44f6ce4ab7a222da4acc062c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_19
       rect:
         serializedVersion: 2
         x: 2880
@@ -225,7 +583,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f584ed12cda48c1ba39ffda5ee957d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_20
       rect:
         serializedVersion: 2
         x: 3240
@@ -234,7 +603,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffa8ae09ac2444d794e0d101ec8b76d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_21
       rect:
         serializedVersion: 2
         x: 3600
@@ -243,7 +623,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5fbbabd48164c66a26e80ee34c0f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_22
       rect:
         serializedVersion: 2
         x: 0
@@ -252,7 +643,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0def104c9cb4f45b0a85440814c57c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_23
       rect:
         serializedVersion: 2
         x: 360
@@ -261,7 +663,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10bc890f4fa44139aa0b3d6970cdb15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_24
       rect:
         serializedVersion: 2
         x: 720
@@ -270,7 +683,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed01e3a9cc559453993da6a83023d734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_25
       rect:
         serializedVersion: 2
         x: 1080
@@ -279,7 +703,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8248c9d093b9245f5886b0f85ffb93ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_26
       rect:
         serializedVersion: 2
         x: 1440
@@ -288,7 +723,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8106ec36d8428ca89ca1ce51d5d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_27
       rect:
         serializedVersion: 2
         x: 1800
@@ -297,7 +743,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9beb0501f91462780f73e99502a62a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_28
       rect:
         serializedVersion: 2
         x: 2160
@@ -306,7 +763,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2897eb5054a7649568b5a8d822b5ef01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_29
       rect:
         serializedVersion: 2
         x: 2520
@@ -315,7 +783,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ce4f30b159345ef97ce88d73f18a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_30
       rect:
         serializedVersion: 2
         x: 2880
@@ -324,7 +803,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8267df57e29b04dbb85893a4615227aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_31
       rect:
         serializedVersion: 2
         x: 3240
@@ -333,7 +823,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f88b76d96942168b0a7b59a9a7153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_32
       rect:
         serializedVersion: 2
         x: 3600
@@ -342,7 +843,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f276b3d3798494e59b48415d6d35e2e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_33
       rect:
         serializedVersion: 2
         x: 0
@@ -351,7 +863,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e550d40024aa24ee7b41d4b66da32186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_34
       rect:
         serializedVersion: 2
         x: 360
@@ -360,7 +883,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc1b3cffe1c465e946f8fb841b26a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_35
       rect:
         serializedVersion: 2
         x: 720
@@ -369,7 +903,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c49e3e29bff8429e85ab323f02c9bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_36
       rect:
         serializedVersion: 2
         x: 1080
@@ -378,7 +923,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793ce9b3134b94bb3a8f77ac9185c1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_37
       rect:
         serializedVersion: 2
         x: 1440
@@ -387,7 +943,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c507f9eafab484beba6786237650c10f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_38
       rect:
         serializedVersion: 2
         x: 1800
@@ -396,7 +963,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d06da2f0d64841bd9c95864d8279bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_39
       rect:
         serializedVersion: 2
         x: 2160
@@ -405,7 +983,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74db46a0a1eab4b62b26faa862f1c679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_40
       rect:
         serializedVersion: 2
         x: 2520
@@ -414,7 +1003,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3650ad3b6effd404f99d0ae01abb78b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_41
       rect:
         serializedVersion: 2
         x: 2880
@@ -423,7 +1023,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a9857c2879544c2a6a2b5b6798ae7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_42
       rect:
         serializedVersion: 2
         x: 3240
@@ -432,7 +1043,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41444a1e63975475caa0757ed78632fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_43
       rect:
         serializedVersion: 2
         x: 3600
@@ -441,7 +1063,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4902c384f524b808582bf4509fc5f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_44
       rect:
         serializedVersion: 2
         x: 0
@@ -450,7 +1083,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b0f4718dc834cd09b786e676221ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_45
       rect:
         serializedVersion: 2
         x: 360
@@ -459,7 +1103,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973ae8421966b4823a64cf6e0b932bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_46
       rect:
         serializedVersion: 2
         x: 720
@@ -468,7 +1123,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86431251c124746c0a4ea6d973cf0239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_47
       rect:
         serializedVersion: 2
         x: 1080
@@ -477,7 +1143,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4582e9cf187814d22aeb878721f8ab97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_48
       rect:
         serializedVersion: 2
         x: 1440
@@ -486,7 +1163,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8a36e392c149feb0b22c25a825272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_49
       rect:
         serializedVersion: 2
         x: 1800
@@ -495,7 +1183,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6dba57273c049f99de969b82f0938d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_50
       rect:
         serializedVersion: 2
         x: 2160
@@ -504,7 +1203,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce606aba47b4b1f846e5147874ded1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_51
       rect:
         serializedVersion: 2
         x: 2520
@@ -513,7 +1223,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496904a43fd8e45769424ec3fdbf409e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_52
       rect:
         serializedVersion: 2
         x: 2880
@@ -522,7 +1243,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842eeefd6faaa4cf58a155e72a5c3532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_53
       rect:
         serializedVersion: 2
         x: 3240
@@ -531,7 +1263,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94172bfc418f741c19b1d58e2dbc1f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_54
       rect:
         serializedVersion: 2
         x: 3600
@@ -540,7 +1283,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1cad6a1f65a49dda70df09ceb33177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_55
       rect:
         serializedVersion: 2
         x: 0
@@ -549,7 +1303,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cce0f4e861d48a79300a940ce701c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_56
       rect:
         serializedVersion: 2
         x: 360
@@ -558,7 +1323,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9571ecc1071a41d691bb35f008eda61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_57
       rect:
         serializedVersion: 2
         x: 720
@@ -567,7 +1343,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941304418f9e64f2db3aa49a09ee13a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_58
       rect:
         serializedVersion: 2
         x: 1080
@@ -576,7 +1363,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6e4596745e4b1287edf10f20f9597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_59
       rect:
         serializedVersion: 2
         x: 1440
@@ -585,7 +1383,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c58e9778db9945b5a6bfcedae0f35c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_60
       rect:
         serializedVersion: 2
         x: 1800
@@ -594,7 +1403,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17974c23465c64e288a77163c1fbd9bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_61
       rect:
         serializedVersion: 2
         x: 2160
@@ -603,7 +1423,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8ea94d8d734d999ef69a990e723ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_62
       rect:
         serializedVersion: 2
         x: 2520
@@ -612,7 +1443,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c928ef24b844c4b32a4977dfdf1e37c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_63
       rect:
         serializedVersion: 2
         x: 2880
@@ -621,7 +1463,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968565fde792d416582ce35676ef1b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_64
       rect:
         serializedVersion: 2
         x: 3240
@@ -630,7 +1483,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2761a29d4414f4da4ae666c92e4a66b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_65
       rect:
         serializedVersion: 2
         x: 3600
@@ -639,7 +1503,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4606a5cd7c94beaa6efef297aa0fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_66
       rect:
         serializedVersion: 2
         x: 0
@@ -648,7 +1523,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f02f784754943939c1f1d894bd1e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_67
       rect:
         serializedVersion: 2
         x: 360
@@ -657,7 +1543,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6acf4d8f1745b7bc4cfe1d765295b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_68
       rect:
         serializedVersion: 2
         x: 720
@@ -666,7 +1563,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370255f484e4c4bdd8bb294d1cef34c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_69
       rect:
         serializedVersion: 2
         x: 1080
@@ -675,7 +1583,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04db76a0fdccd46209f7db344a41c5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_70
       rect:
         serializedVersion: 2
         x: 1440
@@ -684,7 +1603,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80907b61b1b3144a18f27ebb6ab07072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_71
       rect:
         serializedVersion: 2
         x: 1800
@@ -693,7 +1623,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b3fba4f3904c938cc3d3a48dda787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_72
       rect:
         serializedVersion: 2
         x: 2160
@@ -702,7 +1643,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94022e49ada2043c3bee16f1cc40fe60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_73
       rect:
         serializedVersion: 2
         x: 2520
@@ -711,7 +1663,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95e0324fd234ffeb3a17ce31fe910d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_74
       rect:
         serializedVersion: 2
         x: 2880
@@ -720,7 +1683,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13795d013fed540a9aaa334aa6089dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_75
       rect:
         serializedVersion: 2
         x: 3240
@@ -729,7 +1703,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694934658ea1e401fa9ac7e400bde34e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_76
       rect:
         serializedVersion: 2
         x: 3600
@@ -738,7 +1723,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad6a6f4fac9474c945c3701245afae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_77
       rect:
         serializedVersion: 2
         x: 0
@@ -747,7 +1743,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b768f0c46026b495ea0965a3af5792f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_78
       rect:
         serializedVersion: 2
         x: 360
@@ -756,7 +1763,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df8a87becf8416293ea69033300a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_79
       rect:
         serializedVersion: 2
         x: 720
@@ -765,7 +1783,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32faef8c0df74351bd819e14b1d266c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_80
       rect:
         serializedVersion: 2
         x: 1080
@@ -774,7 +1803,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0f8139a42144593853690b0a788330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_81
       rect:
         serializedVersion: 2
         x: 1440
@@ -783,7 +1823,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93404244928ab46e78fc616262aa81bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_82
       rect:
         serializedVersion: 2
         x: 1800
@@ -792,7 +1843,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8542dcbcf0fbd442eb164b68e2ca73f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_83
       rect:
         serializedVersion: 2
         x: 2160
@@ -801,7 +1863,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3c0fb22d014f52b2be9869788e2d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_84
       rect:
         serializedVersion: 2
         x: 2520
@@ -810,7 +1883,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c52e766ec51479fb303d05eba63e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_85
       rect:
         serializedVersion: 2
         x: 2880
@@ -819,7 +1903,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf700f992c584d3596dc6c289ac8d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_86
       rect:
         serializedVersion: 2
         x: 3240
@@ -828,7 +1923,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ed2f2e46666410da1a6933da56d109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_87
       rect:
         serializedVersion: 2
         x: 3600
@@ -837,7 +1943,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eece31db33c4d3aa941f399f3672f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_88
       rect:
         serializedVersion: 2
         x: 0
@@ -846,7 +1963,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e24752726ec43c49bd75f8fa60d581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_89
       rect:
         serializedVersion: 2
         x: 360
@@ -855,7 +1983,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c9013516d74512b27ba5a74a765e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_90
       rect:
         serializedVersion: 2
         x: 720
@@ -864,7 +2003,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e21d6b562a04b468c369f01063790d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_91
       rect:
         serializedVersion: 2
         x: 1080
@@ -873,7 +2023,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93ef2bcf19274c089958956f3ace632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_92
       rect:
         serializedVersion: 2
         x: 1440
@@ -882,7 +2043,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7787b91824bbf442caa5be670de45621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_93
       rect:
         serializedVersion: 2
         x: 1800
@@ -891,7 +2063,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7f60d04c1e147bfb0e2a1f59b7d557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_94
       rect:
         serializedVersion: 2
         x: 2160
@@ -900,7 +2083,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_95
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b19227ef63274ff0afbfe68a9d12529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_95
       rect:
         serializedVersion: 2
         x: 2520
@@ -909,7 +2103,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_96
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab7a4f48588845228278210031580c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_96
       rect:
         serializedVersion: 2
         x: 2880
@@ -918,7 +2123,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_97
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce0e6f7f4194a09bbed35878558ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_97
       rect:
         serializedVersion: 2
         x: 3240
@@ -927,7 +2143,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_98
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35816193d1c004b80bceb83dcb3a138f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_98
       rect:
         serializedVersion: 2
         x: 3600
@@ -936,7 +2163,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_99
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658b5c7fff4ce4127a7954349183c499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_99
       rect:
         serializedVersion: 2
         x: 0
@@ -945,7 +2183,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_100
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70a2a5209c924a8eaaf80f59efcfd04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_100
       rect:
         serializedVersion: 2
         x: 360
@@ -954,7 +2203,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_101
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ab7c1377b546afa7d3535b9a2f541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_101
       rect:
         serializedVersion: 2
         x: 720
@@ -963,7 +2223,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_102
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6116cb9730fda48cb9135708dba0a9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_102
       rect:
         serializedVersion: 2
         x: 1080
@@ -972,7 +2243,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_103
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4d1d82004c487896ed7ee2b674203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_103
       rect:
         serializedVersion: 2
         x: 1440
@@ -981,7 +2263,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_104
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276e658df57f34d7289bd66876ace1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_104
       rect:
         serializedVersion: 2
         x: 1800
@@ -990,7 +2283,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_105
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fb8b47127d742dfb1723f55481f18e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_105
       rect:
         serializedVersion: 2
         x: 2160
@@ -999,7 +2303,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_106
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066ad5df6d2c34c6495439e83e052b97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_106
       rect:
         serializedVersion: 2
         x: 2520
@@ -1008,7 +2323,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_107
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4413a3bd8c784df3a6744621f48d18d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_107
       rect:
         serializedVersion: 2
         x: 2880
@@ -1017,7 +2343,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_108
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86095af2c918f4747990c290bb0fbd78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_108
       rect:
         serializedVersion: 2
         x: 3240
@@ -1026,7 +2363,18 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: button_mashing-frames_109
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1f63283153a488aaafe13017872d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button_mashing-frames_109
       rect:
         serializedVersion: 2
         x: 3600
@@ -1035,5 +2383,27 @@ TextureImporter:
         height: 240
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6146ea83b1af432b99ad90653b9bee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

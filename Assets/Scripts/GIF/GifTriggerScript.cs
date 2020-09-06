@@ -17,14 +17,14 @@ public class GifTriggerScript : MonoBehaviour {
 		PlayerBehaviour player = collision.gameObject.GetComponent<PlayerBehaviour>();
 		if(player) {
 			m_gifController.gifs.Enqueue(gifPrefab);
-			gameObject.collider2D.enabled = false;
+			gameObject.GetComponent<Collider2D>().enabled = false;
 			StartCoroutine(TriggerCoolDown());
 		}
 	}
 
 	public IEnumerator TriggerCoolDown() {
-		gameObject.collider2D.enabled = false;
+		gameObject.GetComponent<Collider2D>().enabled = false;
 		yield return new WaitForSeconds(triggerDisabledTime);
-		gameObject.collider2D.enabled = true;
+		gameObject.GetComponent<Collider2D>().enabled = true;
 	}
 }

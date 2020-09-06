@@ -1,32 +1,196 @@
 fileFormatVersion: 2
 guid: a2b1c70ee5be6be40a834574d7e867ad
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: thumbs_up-frames_0
+    21300002: thumbs_up-frames_1
+    21300004: thumbs_up-frames_2
+    21300006: thumbs_up-frames_3
+    21300008: thumbs_up-frames_4
+    21300010: thumbs_up-frames_5
+    21300012: thumbs_up-frames_6
+    21300014: thumbs_up-frames_7
+    21300016: thumbs_up-frames_8
+    21300018: thumbs_up-frames_9
+    21300020: thumbs_up-frames_10
+    21300022: thumbs_up-frames_11
+    21300024: thumbs_up-frames_12
+    21300026: thumbs_up-frames_13
+    21300028: thumbs_up-frames_14
+    21300030: thumbs_up-frames_15
+    21300032: thumbs_up-frames_16
+    21300034: thumbs_up-frames_17
+    21300036: thumbs_up-frames_18
+    21300038: thumbs_up-frames_19
+    21300040: thumbs_up-frames_20
+    21300042: thumbs_up-frames_21
+    21300044: thumbs_up-frames_22
+    21300046: thumbs_up-frames_23
+    21300048: thumbs_up-frames_24
+    21300050: thumbs_up-frames_25
+    21300052: thumbs_up-frames_26
+    21300054: thumbs_up-frames_27
+    21300056: thumbs_up-frames_28
+    21300058: thumbs_up-frames_29
+    21300060: thumbs_up-frames_30
+    21300062: thumbs_up-frames_31
+    21300064: thumbs_up-frames_32
+    21300066: thumbs_up-frames_33
+    21300068: thumbs_up-frames_34
+    21300070: thumbs_up-frames_35
+    21300072: thumbs_up-frames_36
+    21300074: thumbs_up-frames_37
+    21300076: thumbs_up-frames_38
+    21300078: thumbs_up-frames_39
+    21300080: thumbs_up-frames_40
+    21300082: thumbs_up-frames_41
+    21300084: thumbs_up-frames_42
+    21300086: thumbs_up-frames_43
+    21300088: thumbs_up-frames_44
+    21300090: thumbs_up-frames_45
+    21300092: thumbs_up-frames_46
+    21300094: thumbs_up-frames_47
+    21300096: thumbs_up-frames_48
+    21300098: thumbs_up-frames_49
+    21300100: thumbs_up-frames_50
+    21300102: thumbs_up-frames_51
+    21300104: thumbs_up-frames_52
+    21300106: thumbs_up-frames_53
+    21300108: thumbs_up-frames_54
+    21300110: thumbs_up-frames_55
+    21300112: thumbs_up-frames_56
+    21300114: thumbs_up-frames_57
+    21300116: thumbs_up-frames_58
+    21300118: thumbs_up-frames_59
+    21300120: thumbs_up-frames_60
+    21300122: thumbs_up-frames_61
+    21300124: thumbs_up-frames_62
+    21300126: thumbs_up-frames_63
+    21300128: thumbs_up-frames_64
+    21300130: thumbs_up-frames_65
+    21300132: thumbs_up-frames_66
+    21300134: thumbs_up-frames_67
+    21300136: thumbs_up-frames_68
+    21300138: thumbs_up-frames_69
+    21300140: thumbs_up-frames_70
+    21300142: thumbs_up-frames_71
+    21300144: thumbs_up-frames_72
+    21300146: thumbs_up-frames_73
+    21300148: thumbs_up-frames_74
+    21300150: thumbs_up-frames_75
+    21300152: thumbs_up-frames_76
+    21300154: thumbs_up-frames_77
+    21300156: thumbs_up-frames_78
+    21300158: thumbs_up-frames_79
+    21300160: thumbs_up-frames_80
+    21300162: thumbs_up-frames_81
+    21300164: thumbs_up-frames_82
+    21300166: thumbs_up-frames_83
+    21300168: thumbs_up-frames_84
+    21300170: thumbs_up-frames_85
+    21300172: thumbs_up-frames_86
+    21300174: thumbs_up-frames_87
+    21300176: thumbs_up-frames_88
+    21300178: thumbs_up-frames_89
+    21300180: thumbs_up-frames_90
+    21300182: thumbs_up-frames_91
+    21300184: thumbs_up-frames_92
+    21300186: thumbs_up-frames_93
+    21300188: thumbs_up-frames_94
+    21300190: thumbs_up-frames_95
+    21300192: thumbs_up-frames_96
+    21300194: thumbs_up-frames_97
+    21300196: thumbs_up-frames_98
+    21300198: thumbs_up-frames_99
+    21300200: thumbs_up-frames_100
+    21300202: thumbs_up-frames_101
+    21300204: thumbs_up-frames_102
+    21300206: thumbs_up-frames_103
+    21300208: thumbs_up-frames_104
+    21300210: thumbs_up-frames_105
+    21300212: thumbs_up-frames_106
+    21300214: thumbs_up-frames_107
+    21300216: thumbs_up-frames_108
+    21300218: thumbs_up-frames_109
+    21300220: thumbs_up-frames_110
+    21300222: thumbs_up-frames_111
+    21300224: thumbs_up-frames_112
+    21300226: thumbs_up-frames_113
+    21300228: thumbs_up-frames_114
+    21300230: thumbs_up-frames_115
+    21300232: thumbs_up-frames_116
+    21300234: thumbs_up-frames_117
+    21300236: thumbs_up-frames_118
+    21300238: thumbs_up-frames_119
+    21300240: thumbs_up-frames_120
+    21300242: thumbs_up-frames_121
+    21300244: thumbs_up-frames_122
+    21300246: thumbs_up-frames_123
+    21300248: thumbs_up-frames_124
+    21300250: thumbs_up-frames_125
+    21300252: thumbs_up-frames_126
+    21300254: thumbs_up-frames_127
+    21300256: thumbs_up-frames_128
+    21300258: thumbs_up-frames_129
+    21300260: thumbs_up-frames_130
+    21300262: thumbs_up-frames_131
+    21300264: thumbs_up-frames_132
+    21300266: thumbs_up-frames_133
+    21300268: thumbs_up-frames_134
+    21300270: thumbs_up-frames_135
+    21300272: thumbs_up-frames_136
+    21300274: thumbs_up-frames_137
+    21300276: thumbs_up-frames_138
+    21300278: thumbs_up-frames_139
+    21300280: thumbs_up-frames_140
+    21300282: thumbs_up-frames_141
+    21300284: thumbs_up-frames_142
+    21300286: thumbs_up-frames_143
+    21300288: thumbs_up-frames_144
+    21300290: thumbs_up-frames_145
+    21300292: thumbs_up-frames_146
+    21300294: thumbs_up-frames_147
+    21300296: thumbs_up-frames_148
+    21300298: thumbs_up-frames_149
+    21300300: thumbs_up-frames_150
+    21300302: thumbs_up-frames_151
+    21300304: thumbs_up-frames_152
+    21300306: thumbs_up-frames_153
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +198,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: thumbs_up-frames_0
+    - serializedVersion: 2
+      name: thumbs_up-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +247,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02173b77af5f54355906b93a0997ab67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_1
       rect:
         serializedVersion: 2
         x: 340
@@ -63,7 +267,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9debbda9b30734f9f9b50a861ee3cbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_2
       rect:
         serializedVersion: 2
         x: 680
@@ -72,7 +287,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee17917b36e34b20832925450714dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_3
       rect:
         serializedVersion: 2
         x: 1020
@@ -81,7 +307,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d29c1f30f1f7426a8800d2bf51057a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_4
       rect:
         serializedVersion: 2
         x: 1360
@@ -90,7 +327,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97af7c665d7e47c5a379181b3708d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_5
       rect:
         serializedVersion: 2
         x: 1700
@@ -99,7 +347,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460387576d8064096be12b6542f5cbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_6
       rect:
         serializedVersion: 2
         x: 2040
@@ -108,7 +367,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f1e9d11e3eb4f08a5c6e6b9c94cd2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_7
       rect:
         serializedVersion: 2
         x: 2380
@@ -117,7 +387,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96289f0202c034292acb4d3a06ce78da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_8
       rect:
         serializedVersion: 2
         x: 2720
@@ -126,7 +407,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6733f078255fe4436b0810111d45c3ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_9
       rect:
         serializedVersion: 2
         x: 3060
@@ -135,7 +427,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce164f58e2f4e0b95d46b2a3a28a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_10
       rect:
         serializedVersion: 2
         x: 3400
@@ -144,7 +447,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ae845c2e734d158e04c1a67327d51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_11
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +467,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f049d6f11ab4a7991527b7678ba4db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_12
       rect:
         serializedVersion: 2
         x: 340
@@ -162,7 +487,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52eed13b31f48456facab32139e83b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_13
       rect:
         serializedVersion: 2
         x: 680
@@ -171,7 +507,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83475d16b4c747f681f788dbc0172a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_14
       rect:
         serializedVersion: 2
         x: 1020
@@ -180,7 +527,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ded8ba82aa94a948e8c9a58c041de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_15
       rect:
         serializedVersion: 2
         x: 1360
@@ -189,7 +547,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f0cd18fc2e74adebd64f517993b657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_16
       rect:
         serializedVersion: 2
         x: 1700
@@ -198,7 +567,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3891a8300141048c5e8d4ea808f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_17
       rect:
         serializedVersion: 2
         x: 2040
@@ -207,7 +587,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aeff6a611f54167b2bd2636c10225c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_18
       rect:
         serializedVersion: 2
         x: 2380
@@ -216,7 +607,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db8ffbaa6964e31a03aceb23963791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_19
       rect:
         serializedVersion: 2
         x: 2720
@@ -225,7 +627,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22677e08be0034fe6bf4b30033396f82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_20
       rect:
         serializedVersion: 2
         x: 3060
@@ -234,7 +647,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4149015217d924ca2b583575540c429e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_21
       rect:
         serializedVersion: 2
         x: 3400
@@ -243,7 +667,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083abd0e5842443e2a8a9a61324a56c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_22
       rect:
         serializedVersion: 2
         x: 0
@@ -252,7 +687,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91745f57c696149379d13a60d41bfb51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_23
       rect:
         serializedVersion: 2
         x: 340
@@ -261,7 +707,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd9c8bce304f4cc48040d43d5db3557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_24
       rect:
         serializedVersion: 2
         x: 680
@@ -270,7 +727,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e663b95941b499c8b858115c8aa427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_25
       rect:
         serializedVersion: 2
         x: 1020
@@ -279,7 +747,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88f926e0ff0485395b5c2aa769938e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_26
       rect:
         serializedVersion: 2
         x: 1360
@@ -288,7 +767,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5991229709ca44cb8a4ea9efa358b108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_27
       rect:
         serializedVersion: 2
         x: 1700
@@ -297,7 +787,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7d296b93ed4c84bb0e70254e8614d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_28
       rect:
         serializedVersion: 2
         x: 2040
@@ -306,7 +807,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289babf46dbad43da89b2ce11ba8e09a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_29
       rect:
         serializedVersion: 2
         x: 2380
@@ -315,7 +827,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8f10ba741d4e6c958f9fa86a04239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_30
       rect:
         serializedVersion: 2
         x: 2720
@@ -324,7 +847,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c79ab00e0904a0596c7979998428d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_31
       rect:
         serializedVersion: 2
         x: 3060
@@ -333,7 +867,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139edf6e6d6e453089f85e7cc6311d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_32
       rect:
         serializedVersion: 2
         x: 3400
@@ -342,7 +887,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2cdc78d2f9d4dfa9787887bf73c54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_33
       rect:
         serializedVersion: 2
         x: 0
@@ -351,7 +907,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f4d6b7bb294cfd9664270d5d91750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_34
       rect:
         serializedVersion: 2
         x: 340
@@ -360,7 +927,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded0ac3b555a4fab9310e28639938e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_35
       rect:
         serializedVersion: 2
         x: 680
@@ -369,7 +947,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00080a89e854afea532a8207ec32b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_36
       rect:
         serializedVersion: 2
         x: 1020
@@ -378,7 +967,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649185fc867114558bfbafaf96e6d329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_37
       rect:
         serializedVersion: 2
         x: 1360
@@ -387,7 +987,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e686942e40514947a7d11d9d2c8cf10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_38
       rect:
         serializedVersion: 2
         x: 1700
@@ -396,7 +1007,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e462593f7fc43b99e78703af682c8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_39
       rect:
         serializedVersion: 2
         x: 2040
@@ -405,7 +1027,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bd96c7ec68443d6be9b9b413e6bc06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_40
       rect:
         serializedVersion: 2
         x: 2380
@@ -414,7 +1047,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba8dd20008ab45caaf8f4378d871381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_41
       rect:
         serializedVersion: 2
         x: 2720
@@ -423,7 +1067,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c18cdc74002f4ca8bea6a3a50a518b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_42
       rect:
         serializedVersion: 2
         x: 3060
@@ -432,7 +1087,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41194a12f8d404b76a5c64014860a991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_43
       rect:
         serializedVersion: 2
         x: 3400
@@ -441,7 +1107,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbb90e0b59b5485cb6057a4abb24d33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_44
       rect:
         serializedVersion: 2
         x: 0
@@ -450,7 +1127,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23512176f6778496eab705704fcbdf74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_45
       rect:
         serializedVersion: 2
         x: 340
@@ -459,7 +1147,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce4c536e97224cc4a6da2f6f40b783e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_46
       rect:
         serializedVersion: 2
         x: 680
@@ -468,7 +1167,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e606d08cc8c943dfa4b30627240558c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_47
       rect:
         serializedVersion: 2
         x: 1020
@@ -477,7 +1187,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b29c4dd0de954b4093ac3d16ac936e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_48
       rect:
         serializedVersion: 2
         x: 1360
@@ -486,7 +1207,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ac13ded0efa4820a85109500d86821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_49
       rect:
         serializedVersion: 2
         x: 1700
@@ -495,7 +1227,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d54dc7763df4e37aeea41eb497c733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_50
       rect:
         serializedVersion: 2
         x: 2040
@@ -504,7 +1247,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ca5068acfb4fc0825da803e0ad65b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_51
       rect:
         serializedVersion: 2
         x: 2380
@@ -513,7 +1267,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a8cb398a1bb4a449e15203c01fd8ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_52
       rect:
         serializedVersion: 2
         x: 2720
@@ -522,7 +1287,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a710fc8008ca2439fbfe05d6d35b7d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_53
       rect:
         serializedVersion: 2
         x: 3060
@@ -531,7 +1307,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba564c94255a4621bbd635e9a2ed14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_54
       rect:
         serializedVersion: 2
         x: 3400
@@ -540,7 +1327,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665a9146add74196aaba7eed62301c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_55
       rect:
         serializedVersion: 2
         x: 0
@@ -549,7 +1347,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e24f8b2578d463f876d3b89c37eccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_56
       rect:
         serializedVersion: 2
         x: 340
@@ -558,7 +1367,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcc7e74f82a44fb486b1ad144dd9422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_57
       rect:
         serializedVersion: 2
         x: 680
@@ -567,7 +1387,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ce2adfa2e04c94888b1566f945615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_58
       rect:
         serializedVersion: 2
         x: 1020
@@ -576,7 +1407,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51053d23b77de40c386e7292512c7798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_59
       rect:
         serializedVersion: 2
         x: 1360
@@ -585,7 +1427,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d54203f66e422d92c5eaba56ab854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_60
       rect:
         serializedVersion: 2
         x: 1700
@@ -594,7 +1447,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9a5dd30f0b4f51a324ea40680d750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_61
       rect:
         serializedVersion: 2
         x: 2040
@@ -603,7 +1467,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae737d3069a942fd95451e6c2c9d892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_62
       rect:
         serializedVersion: 2
         x: 2380
@@ -612,7 +1487,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205c09ff01b024baba4aedb51defec75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_63
       rect:
         serializedVersion: 2
         x: 2720
@@ -621,7 +1507,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5edd7c093e048408beab72b2828711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_64
       rect:
         serializedVersion: 2
         x: 3060
@@ -630,7 +1527,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb549a16fac1478fa83baf326c4f9e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_65
       rect:
         serializedVersion: 2
         x: 3400
@@ -639,7 +1547,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2083bef03ec4b2082115ddaa563f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_66
       rect:
         serializedVersion: 2
         x: 0
@@ -648,7 +1567,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee08e69ba09947109c0b8cb7ded6e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_67
       rect:
         serializedVersion: 2
         x: 340
@@ -657,7 +1587,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee358c7c1ebf4164a89dc67c118329a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_68
       rect:
         serializedVersion: 2
         x: 680
@@ -666,7 +1607,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e05af44df27d4e43bbe4d60a38e17d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_69
       rect:
         serializedVersion: 2
         x: 1020
@@ -675,7 +1627,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbf716da2e684de2b840a43209976e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_70
       rect:
         serializedVersion: 2
         x: 1360
@@ -684,7 +1647,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783b7714222747f48b593977c053dd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_71
       rect:
         serializedVersion: 2
         x: 1700
@@ -693,7 +1667,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36caa036a24bb4010b74e5e6d6b1eb2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_72
       rect:
         serializedVersion: 2
         x: 2040
@@ -702,7 +1687,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37103260d97cf4feea73ddc547ce5558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_73
       rect:
         serializedVersion: 2
         x: 2380
@@ -711,7 +1707,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11a4ddc8a56e4ffead791a04b251c35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_74
       rect:
         serializedVersion: 2
         x: 2720
@@ -720,7 +1727,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757b19ec7df4b4b32b4a881afc3a3154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_75
       rect:
         serializedVersion: 2
         x: 3060
@@ -729,7 +1747,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9d9b185e00641b997f33c1e6e13732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_76
       rect:
         serializedVersion: 2
         x: 3400
@@ -738,7 +1767,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57355ff5a9822463c939ff2ef982fb27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_77
       rect:
         serializedVersion: 2
         x: 0
@@ -747,7 +1787,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445fe7e4b634a4658ae9bd434b903bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_78
       rect:
         serializedVersion: 2
         x: 340
@@ -756,7 +1807,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e660c7fa06b0f42189a230df4aa14816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_79
       rect:
         serializedVersion: 2
         x: 680
@@ -765,7 +1827,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92677d28e8521444a8c1ca15d777a896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_80
       rect:
         serializedVersion: 2
         x: 1020
@@ -774,7 +1847,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745f2f33073d740f3bf5a9dfbf15335e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_81
       rect:
         serializedVersion: 2
         x: 1360
@@ -783,7 +1867,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782bfeb6126f34321bf7e758a37a2e64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_82
       rect:
         serializedVersion: 2
         x: 1700
@@ -792,7 +1887,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af598392420944f6eb94fba7761483b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_83
       rect:
         serializedVersion: 2
         x: 2040
@@ -801,7 +1907,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1887755fd804e4399bd720be790729b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_84
       rect:
         serializedVersion: 2
         x: 2380
@@ -810,7 +1927,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f264cff221d4932b562f3ebe2e4954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_85
       rect:
         serializedVersion: 2
         x: 2720
@@ -819,7 +1947,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030c28f35308f4e4ca9d25f8332076cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_86
       rect:
         serializedVersion: 2
         x: 3060
@@ -828,7 +1967,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685747ba91edb495cb0ba91c43c019c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_87
       rect:
         serializedVersion: 2
         x: 3400
@@ -837,7 +1987,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6fd63d3d8ae4596b6f9451c3f0327f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_88
       rect:
         serializedVersion: 2
         x: 0
@@ -846,7 +2007,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d8e53723f384d56a2a1c6f7b3e056b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_89
       rect:
         serializedVersion: 2
         x: 340
@@ -855,7 +2027,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31cf34262764497a86b3da1587400e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_90
       rect:
         serializedVersion: 2
         x: 680
@@ -864,7 +2047,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b221c7d5a77491e8e9587e62c2fa8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_91
       rect:
         serializedVersion: 2
         x: 1020
@@ -873,7 +2067,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a93f8ee9db0496386fba28eaf1f1c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_92
       rect:
         serializedVersion: 2
         x: 1360
@@ -882,7 +2087,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2169dc0267c4b7a9cbdceea54463a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_93
       rect:
         serializedVersion: 2
         x: 1700
@@ -891,7 +2107,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506b19c40f3642f9b6cdd667a2da5fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_94
       rect:
         serializedVersion: 2
         x: 2040
@@ -900,7 +2127,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_95
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ede1be8c6bd4b768f5a1baa3d51469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_95
       rect:
         serializedVersion: 2
         x: 2380
@@ -909,7 +2147,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_96
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea39038e44b9a4e9f9e02d8f1b2883f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_96
       rect:
         serializedVersion: 2
         x: 2720
@@ -918,7 +2167,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_97
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ca4ea46f43143acba623a8ba47ffe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_97
       rect:
         serializedVersion: 2
         x: 3060
@@ -927,7 +2187,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_98
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768b125e196394cd4ab8a34ee85d3345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_98
       rect:
         serializedVersion: 2
         x: 3400
@@ -936,7 +2207,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_99
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c005d993016427a94cf25bb2a5fea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_99
       rect:
         serializedVersion: 2
         x: 0
@@ -945,7 +2227,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_100
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f840aa581ef4268a23096d2363c1ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_100
       rect:
         serializedVersion: 2
         x: 340
@@ -954,7 +2247,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_101
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a131b222a918e4dd29083768979e9a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_101
       rect:
         serializedVersion: 2
         x: 680
@@ -963,7 +2267,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_102
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ad3f62ea93a46ac9784379c19281f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_102
       rect:
         serializedVersion: 2
         x: 1020
@@ -972,7 +2287,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_103
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002fa72f8f8341ae926f6651bcdb1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_103
       rect:
         serializedVersion: 2
         x: 1360
@@ -981,7 +2307,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_104
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cceea9e1376854818bf0807c508041e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_104
       rect:
         serializedVersion: 2
         x: 1700
@@ -990,7 +2327,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_105
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316cb8df0bb6c425c970b2a552e66a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_105
       rect:
         serializedVersion: 2
         x: 2040
@@ -999,7 +2347,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_106
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d7d21f61e540e6ae947913cf1fc42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_106
       rect:
         serializedVersion: 2
         x: 2380
@@ -1008,7 +2367,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_107
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17251281946ba46c2a20c5ada2e79a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_107
       rect:
         serializedVersion: 2
         x: 2720
@@ -1017,7 +2387,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_108
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f340ba6224ef46efbdf438720b3ca49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_108
       rect:
         serializedVersion: 2
         x: 3060
@@ -1026,7 +2407,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_109
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595906ea22924e72a07806c3a49c243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_109
       rect:
         serializedVersion: 2
         x: 3400
@@ -1035,7 +2427,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_110
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d587f536e5d884855b602eadc1643729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_110
       rect:
         serializedVersion: 2
         x: 0
@@ -1044,7 +2447,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_111
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0483ed6deff0f4f38b262e323c308a52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_111
       rect:
         serializedVersion: 2
         x: 340
@@ -1053,7 +2467,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_112
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9afa12e8c0f42b483372128eaa65f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_112
       rect:
         serializedVersion: 2
         x: 680
@@ -1062,7 +2487,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_113
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c862822917c694a6b926439b0ae20620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_113
       rect:
         serializedVersion: 2
         x: 1020
@@ -1071,7 +2507,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_114
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3124320eec2b24654a83fa35385f0665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_114
       rect:
         serializedVersion: 2
         x: 1360
@@ -1080,7 +2527,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_115
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46729c134de74c8faca10cdbf0300b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_115
       rect:
         serializedVersion: 2
         x: 1700
@@ -1089,7 +2547,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_116
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7d2f789e77e41149248b5ad2542304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_116
       rect:
         serializedVersion: 2
         x: 2040
@@ -1098,7 +2567,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_117
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7593b9f1aa26d40ffafa561a74c7a052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_117
       rect:
         serializedVersion: 2
         x: 2380
@@ -1107,7 +2587,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_118
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f783f12ef7f94dffbe6a29df731d7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_118
       rect:
         serializedVersion: 2
         x: 2720
@@ -1116,7 +2607,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_119
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aabb595737a34b8a86ef650753c1682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_119
       rect:
         serializedVersion: 2
         x: 3060
@@ -1125,7 +2627,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_120
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c2abec4f804801b50403b27bae41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_120
       rect:
         serializedVersion: 2
         x: 3400
@@ -1134,7 +2647,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_121
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9170f82e4c844e780ecb6a06320ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_121
       rect:
         serializedVersion: 2
         x: 0
@@ -1143,7 +2667,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_122
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b73964795542969d6cad7856e0256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_122
       rect:
         serializedVersion: 2
         x: 340
@@ -1152,7 +2687,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_123
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88ec0bdeabe541818dcac17a1780723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_123
       rect:
         serializedVersion: 2
         x: 680
@@ -1161,7 +2707,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_124
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cadf95da53a34feebc3fa29b6fe4e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_124
       rect:
         serializedVersion: 2
         x: 1020
@@ -1170,7 +2727,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_125
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d07c1ed98193494ca885fd5a237cedc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_125
       rect:
         serializedVersion: 2
         x: 1360
@@ -1179,7 +2747,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_126
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ff1c3f5dab4b3580c7429def3a634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_126
       rect:
         serializedVersion: 2
         x: 1700
@@ -1188,7 +2767,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_127
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ce858e24124a1fa0417ed3951aafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_127
       rect:
         serializedVersion: 2
         x: 2040
@@ -1197,7 +2787,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_128
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938f242a4175b461eb80d1c9db55c4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_128
       rect:
         serializedVersion: 2
         x: 2380
@@ -1206,7 +2807,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_129
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74f7f96bc34d42a2ababd213b23aac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_129
       rect:
         serializedVersion: 2
         x: 2720
@@ -1215,7 +2827,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_130
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f499e3fb70be1472da9d00bda38b6a14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_130
       rect:
         serializedVersion: 2
         x: 3060
@@ -1224,7 +2847,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_131
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6df1b632f572412892482837d32119c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_131
       rect:
         serializedVersion: 2
         x: 3400
@@ -1233,7 +2867,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_132
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bf94dc9d98d407bb6a64861de981f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_132
       rect:
         serializedVersion: 2
         x: 0
@@ -1242,7 +2887,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_133
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6cdbf91188444f2bcf6e22e25bed4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_133
       rect:
         serializedVersion: 2
         x: 340
@@ -1251,7 +2907,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_134
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d13d748e26ab4e439c7fc41e8a2b9c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_134
       rect:
         serializedVersion: 2
         x: 680
@@ -1260,7 +2927,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_135
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd3e69fda42043d6b7caf6465af5628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_135
       rect:
         serializedVersion: 2
         x: 1020
@@ -1269,7 +2947,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_136
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79d7a709bed4acaa146c98ffea6416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_136
       rect:
         serializedVersion: 2
         x: 1360
@@ -1278,7 +2967,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_137
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd30a38801d943f5ae8634b2b6dae20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_137
       rect:
         serializedVersion: 2
         x: 1700
@@ -1287,7 +2987,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_138
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe63fffd0e0b4fb6a3bea57de8d7e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_138
       rect:
         serializedVersion: 2
         x: 2040
@@ -1296,7 +3007,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_139
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20178567624f24e10b030f73980907af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_139
       rect:
         serializedVersion: 2
         x: 2380
@@ -1305,7 +3027,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_140
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278807f44a9346a5b09de38d6012bcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_140
       rect:
         serializedVersion: 2
         x: 2720
@@ -1314,7 +3047,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_141
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3aeca9a9984dbab9f44da0ac5f470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_141
       rect:
         serializedVersion: 2
         x: 3060
@@ -1323,7 +3067,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_142
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d56cef67e13f4160bc6bc02b31e87e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_142
       rect:
         serializedVersion: 2
         x: 3400
@@ -1332,7 +3087,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_143
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38465cd3bebf6422b986c91170495c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_143
       rect:
         serializedVersion: 2
         x: 0
@@ -1341,7 +3107,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_144
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede24bbfc60aa4fb3bd25b8b2be63c08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_144
       rect:
         serializedVersion: 2
         x: 340
@@ -1350,7 +3127,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_145
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b0f82e98799400ca49e8a4cbd07339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_145
       rect:
         serializedVersion: 2
         x: 680
@@ -1359,7 +3147,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_146
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e34dc0279cb441c81d68f6273c738b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_146
       rect:
         serializedVersion: 2
         x: 1020
@@ -1368,7 +3167,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_147
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee77d3c707424dc9adfa449946b950f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_147
       rect:
         serializedVersion: 2
         x: 1360
@@ -1377,7 +3187,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_148
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06985d531e6604d54aaee3b98964d5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_148
       rect:
         serializedVersion: 2
         x: 1700
@@ -1386,7 +3207,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_149
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb1555384acb43aca00e5a90d278987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_149
       rect:
         serializedVersion: 2
         x: 2040
@@ -1395,7 +3227,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_150
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70d12212b30a4a5cbadbd9afc91bd56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_150
       rect:
         serializedVersion: 2
         x: 2380
@@ -1404,7 +3247,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_151
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e737ee4a1a78404eade931b807378dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_151
       rect:
         serializedVersion: 2
         x: 2720
@@ -1413,7 +3267,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_152
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82927357a224e769d2755e34a22469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_152
       rect:
         serializedVersion: 2
         x: 3060
@@ -1422,7 +3287,18 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: thumbs_up-frames_153
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b9f65b8bfb74cd29a7ce03d655e68e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thumbs_up-frames_153
       rect:
         serializedVersion: 2
         x: 3400
@@ -1431,5 +3307,27 @@ TextureImporter:
         height: 254
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55326a24d967498fa46bc1e6a36f049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

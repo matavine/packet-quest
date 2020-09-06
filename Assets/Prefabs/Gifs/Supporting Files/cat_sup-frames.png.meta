@@ -1,32 +1,66 @@
 fileFormatVersion: 2
 guid: dd026f4970ed1044883c34728b6d67ea
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: cat_sup-frames_0
+    21300002: cat_sup-frames_1
+    21300004: cat_sup-frames_2
+    21300006: cat_sup-frames_3
+    21300008: cat_sup-frames_4
+    21300010: cat_sup-frames_5
+    21300012: cat_sup-frames_6
+    21300014: cat_sup-frames_7
+    21300016: cat_sup-frames_8
+    21300018: cat_sup-frames_9
+    21300020: cat_sup-frames_10
+    21300022: cat_sup-frames_11
+    21300024: cat_sup-frames_12
+    21300026: cat_sup-frames_13
+    21300028: cat_sup-frames_14
+    21300030: cat_sup-frames_15
+    21300032: cat_sup-frames_16
+    21300034: cat_sup-frames_17
+    21300036: cat_sup-frames_18
+    21300038: cat_sup-frames_19
+    21300040: cat_sup-frames_20
+    21300042: cat_sup-frames_21
+    21300044: cat_sup-frames_22
+    21300046: cat_sup-frames_23
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +68,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: cat_sup-frames_0
+    - serializedVersion: 2
+      name: cat_sup-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +117,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6033833776d74f62ad84e67cbc97b74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_1
       rect:
         serializedVersion: 2
         x: 470
@@ -63,7 +137,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cbfddad75824daa9fdc20ac27fdd93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_2
       rect:
         serializedVersion: 2
         x: 940
@@ -72,7 +157,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646ca08d872a7412f8ea7690a6f121be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_3
       rect:
         serializedVersion: 2
         x: 1410
@@ -81,7 +177,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26892f4b4f3a443fa842dd5dbb290824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_4
       rect:
         serializedVersion: 2
         x: 1880
@@ -90,7 +197,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994ce7f5b1dbc4bc8acd2f3f7c1d3e23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_5
       rect:
         serializedVersion: 2
         x: 2350
@@ -99,7 +217,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c842a799643934923a4af81d25dc0a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_6
       rect:
         serializedVersion: 2
         x: 2820
@@ -108,7 +237,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18de5b4b8c554100a81c83de4ec4076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_7
       rect:
         serializedVersion: 2
         x: 3290
@@ -117,7 +257,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c599978673b414e56a84429ce7aa7aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_8
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +277,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040dd281e5f544f0b0d254fc3bf6bb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_9
       rect:
         serializedVersion: 2
         x: 470
@@ -135,7 +297,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23970ce9f22f9441a812c163c8a88f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_10
       rect:
         serializedVersion: 2
         x: 940
@@ -144,7 +317,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292cd4f2e63364c2ea9df3924b5ad21d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_11
       rect:
         serializedVersion: 2
         x: 1410
@@ -153,7 +337,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fc6603d3b6b48c682cc2c61af098b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_12
       rect:
         serializedVersion: 2
         x: 1880
@@ -162,7 +357,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8416e53ee13d24f1eaedb5b5c8b32b16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_13
       rect:
         serializedVersion: 2
         x: 2350
@@ -171,7 +377,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f9969bffdee4bda99062ace6dffde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_14
       rect:
         serializedVersion: 2
         x: 2820
@@ -180,7 +397,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486359921e70c44acbf2d2375f6b3f84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_15
       rect:
         serializedVersion: 2
         x: 3290
@@ -189,7 +417,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a4c9f9fbce84c008e542c92c3c9e47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +437,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e835e6457a884762adbfc229e3a5361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_17
       rect:
         serializedVersion: 2
         x: 470
@@ -207,7 +457,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae827710f4ebc4618afa78497eec2141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_18
       rect:
         serializedVersion: 2
         x: 940
@@ -216,7 +477,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2304debdbdb4db2a376af5c07440e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_19
       rect:
         serializedVersion: 2
         x: 1410
@@ -225,7 +497,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae60b7207bc040e383baba6126887fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_20
       rect:
         serializedVersion: 2
         x: 1880
@@ -234,7 +517,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8abde901304407f9f17e6b51b96d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_21
       rect:
         serializedVersion: 2
         x: 2350
@@ -243,7 +537,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc48ea07c09334eefbe0f4d0033c351e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_22
       rect:
         serializedVersion: 2
         x: 2820
@@ -252,7 +557,18 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_sup-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e6c94804a8a427cacf099a60f1a331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_sup-frames_23
       rect:
         serializedVersion: 2
         x: 3290
@@ -261,5 +577,27 @@ TextureImporter:
         height: 248
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d0b419497474e0bbe779896375a7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

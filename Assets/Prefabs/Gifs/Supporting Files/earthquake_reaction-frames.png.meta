@@ -1,32 +1,159 @@
 fileFormatVersion: 2
 guid: 8c206eab64cc54f4685a108ae33b4f2f
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: earthquake_reaction-frames_0
+    21300002: earthquake_reaction-frames_1
+    21300004: earthquake_reaction-frames_2
+    21300006: earthquake_reaction-frames_3
+    21300008: earthquake_reaction-frames_4
+    21300010: earthquake_reaction-frames_5
+    21300012: earthquake_reaction-frames_6
+    21300014: earthquake_reaction-frames_7
+    21300016: earthquake_reaction-frames_8
+    21300018: earthquake_reaction-frames_9
+    21300020: earthquake_reaction-frames_10
+    21300022: earthquake_reaction-frames_11
+    21300024: earthquake_reaction-frames_12
+    21300026: earthquake_reaction-frames_13
+    21300028: earthquake_reaction-frames_14
+    21300030: earthquake_reaction-frames_15
+    21300032: earthquake_reaction-frames_16
+    21300034: earthquake_reaction-frames_17
+    21300036: earthquake_reaction-frames_18
+    21300038: earthquake_reaction-frames_19
+    21300040: earthquake_reaction-frames_20
+    21300042: earthquake_reaction-frames_21
+    21300044: earthquake_reaction-frames_22
+    21300046: earthquake_reaction-frames_23
+    21300048: earthquake_reaction-frames_24
+    21300050: earthquake_reaction-frames_25
+    21300052: earthquake_reaction-frames_26
+    21300054: earthquake_reaction-frames_27
+    21300056: earthquake_reaction-frames_28
+    21300058: earthquake_reaction-frames_29
+    21300060: earthquake_reaction-frames_30
+    21300062: earthquake_reaction-frames_31
+    21300064: earthquake_reaction-frames_32
+    21300066: earthquake_reaction-frames_33
+    21300068: earthquake_reaction-frames_34
+    21300070: earthquake_reaction-frames_35
+    21300072: earthquake_reaction-frames_36
+    21300074: earthquake_reaction-frames_37
+    21300076: earthquake_reaction-frames_38
+    21300078: earthquake_reaction-frames_39
+    21300080: earthquake_reaction-frames_40
+    21300082: earthquake_reaction-frames_41
+    21300084: earthquake_reaction-frames_42
+    21300086: earthquake_reaction-frames_43
+    21300088: earthquake_reaction-frames_44
+    21300090: earthquake_reaction-frames_45
+    21300092: earthquake_reaction-frames_46
+    21300094: earthquake_reaction-frames_47
+    21300096: earthquake_reaction-frames_48
+    21300098: earthquake_reaction-frames_49
+    21300100: earthquake_reaction-frames_50
+    21300102: earthquake_reaction-frames_51
+    21300104: earthquake_reaction-frames_52
+    21300106: earthquake_reaction-frames_53
+    21300108: earthquake_reaction-frames_54
+    21300110: earthquake_reaction-frames_55
+    21300112: earthquake_reaction-frames_56
+    21300114: earthquake_reaction-frames_57
+    21300116: earthquake_reaction-frames_58
+    21300118: earthquake_reaction-frames_59
+    21300120: earthquake_reaction-frames_60
+    21300122: earthquake_reaction-frames_61
+    21300124: earthquake_reaction-frames_62
+    21300126: earthquake_reaction-frames_63
+    21300128: earthquake_reaction-frames_64
+    21300130: earthquake_reaction-frames_65
+    21300132: earthquake_reaction-frames_66
+    21300134: earthquake_reaction-frames_67
+    21300136: earthquake_reaction-frames_68
+    21300138: earthquake_reaction-frames_69
+    21300140: earthquake_reaction-frames_70
+    21300142: earthquake_reaction-frames_71
+    21300144: earthquake_reaction-frames_72
+    21300146: earthquake_reaction-frames_73
+    21300148: earthquake_reaction-frames_74
+    21300150: earthquake_reaction-frames_75
+    21300152: earthquake_reaction-frames_76
+    21300154: earthquake_reaction-frames_77
+    21300156: earthquake_reaction-frames_78
+    21300158: earthquake_reaction-frames_79
+    21300160: earthquake_reaction-frames_80
+    21300162: earthquake_reaction-frames_81
+    21300164: earthquake_reaction-frames_82
+    21300166: earthquake_reaction-frames_83
+    21300168: earthquake_reaction-frames_84
+    21300170: earthquake_reaction-frames_85
+    21300172: earthquake_reaction-frames_86
+    21300174: earthquake_reaction-frames_87
+    21300176: earthquake_reaction-frames_88
+    21300178: earthquake_reaction-frames_89
+    21300180: earthquake_reaction-frames_90
+    21300182: earthquake_reaction-frames_91
+    21300184: earthquake_reaction-frames_92
+    21300186: earthquake_reaction-frames_93
+    21300188: earthquake_reaction-frames_94
+    21300190: earthquake_reaction-frames_95
+    21300192: earthquake_reaction-frames_96
+    21300194: earthquake_reaction-frames_97
+    21300196: earthquake_reaction-frames_98
+    21300198: earthquake_reaction-frames_99
+    21300200: earthquake_reaction-frames_100
+    21300202: earthquake_reaction-frames_101
+    21300204: earthquake_reaction-frames_102
+    21300206: earthquake_reaction-frames_103
+    21300208: earthquake_reaction-frames_104
+    21300210: earthquake_reaction-frames_105
+    21300212: earthquake_reaction-frames_106
+    21300214: earthquake_reaction-frames_107
+    21300216: earthquake_reaction-frames_108
+    21300218: earthquake_reaction-frames_109
+    21300220: earthquake_reaction-frames_110
+    21300222: earthquake_reaction-frames_111
+    21300224: earthquake_reaction-frames_112
+    21300226: earthquake_reaction-frames_113
+    21300228: earthquake_reaction-frames_114
+    21300230: earthquake_reaction-frames_115
+    21300232: earthquake_reaction-frames_116
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +161,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: earthquake_reaction-frames_0
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +210,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eec674aaec241519c3dff7de3eaa3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_1
       rect:
         serializedVersion: 2
         x: 297
@@ -63,7 +230,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeea3b7c4709c4cf0a360d2456d80fff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_2
       rect:
         serializedVersion: 2
         x: 594
@@ -72,7 +250,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ce11c6789ed46dd928a1dcc96b03ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_3
       rect:
         serializedVersion: 2
         x: 891
@@ -81,7 +270,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846d5886316b5450dac84f3c9942a38e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_4
       rect:
         serializedVersion: 2
         x: 1188
@@ -90,7 +290,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0b9eaab3976479f8b3566f38b6c223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_5
       rect:
         serializedVersion: 2
         x: 1485
@@ -99,7 +310,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee76d839a574460791cb619bb0d8302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_6
       rect:
         serializedVersion: 2
         x: 1782
@@ -108,7 +330,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aaaff9a440540d3a2eae10cb877166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_7
       rect:
         serializedVersion: 2
         x: 2079
@@ -117,7 +350,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70127a60446614734a4c335bfeebfbc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_8
       rect:
         serializedVersion: 2
         x: 2376
@@ -126,7 +370,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77445b773063341f893e8599da2de1c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_9
       rect:
         serializedVersion: 2
         x: 2673
@@ -135,7 +390,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b5d10f87daa43fa8c362c3d106fce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_10
       rect:
         serializedVersion: 2
         x: 2970
@@ -144,7 +410,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fbd3b28ede34b1baa5e82318fa1dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_11
       rect:
         serializedVersion: 2
         x: 3267
@@ -153,7 +430,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26d0ec9df7c145d9a1c5d76e1aca571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_12
       rect:
         serializedVersion: 2
         x: 3564
@@ -162,7 +450,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893fcf2a598c494d9058058c14f196f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_13
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +470,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d909e4b134f4f029dfa2278bf3fd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_14
       rect:
         serializedVersion: 2
         x: 297
@@ -180,7 +490,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1723db50f2bbc4970984d1c1cefa997a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_15
       rect:
         serializedVersion: 2
         x: 594
@@ -189,7 +510,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d467443fa0a6465e99986a0a92136f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_16
       rect:
         serializedVersion: 2
         x: 891
@@ -198,7 +530,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0882ad8e97de4001bbabc66c80525a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_17
       rect:
         serializedVersion: 2
         x: 1188
@@ -207,7 +550,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbb548875df94a479aad5c25677b46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_18
       rect:
         serializedVersion: 2
         x: 1485
@@ -216,7 +570,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd1ffa31d6b04a18bb22487a0bc64a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_19
       rect:
         serializedVersion: 2
         x: 1782
@@ -225,7 +590,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216282057d504984992f9871af52b3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_20
       rect:
         serializedVersion: 2
         x: 2079
@@ -234,7 +610,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891e0070715cf4dc996f8882af22f194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_21
       rect:
         serializedVersion: 2
         x: 2376
@@ -243,7 +630,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6fc0c67a24a46aaa20ef9cbd86ce84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_22
       rect:
         serializedVersion: 2
         x: 2673
@@ -252,7 +650,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b82782982214e2584667ded0fc20ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_23
       rect:
         serializedVersion: 2
         x: 2970
@@ -261,7 +670,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac7ae510a2754ca5931d8bbf5856c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_24
       rect:
         serializedVersion: 2
         x: 3267
@@ -270,7 +690,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e922bc847f7482bbc61dfd4195ec1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_25
       rect:
         serializedVersion: 2
         x: 3564
@@ -279,7 +710,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e4f3e07a7074b9398f45cca5fd5c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_26
       rect:
         serializedVersion: 2
         x: 0
@@ -288,7 +730,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efbffbc083e04bb0b64bef0a776f574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_27
       rect:
         serializedVersion: 2
         x: 297
@@ -297,7 +750,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ef3206f12c24261953eee636ddd0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_28
       rect:
         serializedVersion: 2
         x: 594
@@ -306,7 +770,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627546553d01643de82c7b53bbdecf5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_29
       rect:
         serializedVersion: 2
         x: 891
@@ -315,7 +790,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae415d4d86104412aa0933027bf1d52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_30
       rect:
         serializedVersion: 2
         x: 1188
@@ -324,7 +810,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7662a647ac9a6440fb8c54e87f5b1e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_31
       rect:
         serializedVersion: 2
         x: 1485
@@ -333,7 +830,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477c2e3c4fddc4b818badcf2baf596b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_32
       rect:
         serializedVersion: 2
         x: 1782
@@ -342,7 +850,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ebe0c1051a4424093a9963c9dc72c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_33
       rect:
         serializedVersion: 2
         x: 2079
@@ -351,7 +870,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2914af2ab6d49fd95293df0d31ecb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_34
       rect:
         serializedVersion: 2
         x: 2376
@@ -360,7 +890,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5053831665ae4d6587d9d5476a0b51d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_35
       rect:
         serializedVersion: 2
         x: 2673
@@ -369,7 +910,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09720028af6ae4e389cf6f0f176d4a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_36
       rect:
         serializedVersion: 2
         x: 2970
@@ -378,7 +930,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46b6850e230e454090af693c7e06e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_37
       rect:
         serializedVersion: 2
         x: 3267
@@ -387,7 +950,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de7c1b94ba484d869d28019a6807db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_38
       rect:
         serializedVersion: 2
         x: 3564
@@ -396,7 +970,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0169716ec12249c1b3037c1072afd9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_39
       rect:
         serializedVersion: 2
         x: 0
@@ -405,7 +990,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de36fd0196a4b9d810311dcde87abf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_40
       rect:
         serializedVersion: 2
         x: 297
@@ -414,7 +1010,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb89edea0aba74888919099e4625f6a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_41
       rect:
         serializedVersion: 2
         x: 594
@@ -423,7 +1030,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c57cdbcc63e4741ad96d07bd75eab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_42
       rect:
         serializedVersion: 2
         x: 891
@@ -432,7 +1050,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed200cbfc6fca4e5a86f961e7249422e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_43
       rect:
         serializedVersion: 2
         x: 1188
@@ -441,7 +1070,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4843af491e1ba46bb9757b9a2e8d9c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_44
       rect:
         serializedVersion: 2
         x: 1485
@@ -450,7 +1090,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945c64d7c3a845c1b88bd21af14e83f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_45
       rect:
         serializedVersion: 2
         x: 1782
@@ -459,7 +1110,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd3b4369585c4857bf5ac21743611a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_46
       rect:
         serializedVersion: 2
         x: 2079
@@ -468,7 +1130,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8fdadf9137243f984b5000ea55e2b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_47
       rect:
         serializedVersion: 2
         x: 2376
@@ -477,7 +1150,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15a33ca723b41f384bf45b0df7d221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_48
       rect:
         serializedVersion: 2
         x: 2673
@@ -486,7 +1170,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e9a8088c09a4d9cbcaf74f13e6b9fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_49
       rect:
         serializedVersion: 2
         x: 2970
@@ -495,7 +1190,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69946a86236c240fa898b0d9d1a8ada4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_50
       rect:
         serializedVersion: 2
         x: 3267
@@ -504,7 +1210,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a95881822b1a45daa00d7b1e81688c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_51
       rect:
         serializedVersion: 2
         x: 3564
@@ -513,7 +1230,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e57c9c751fb4ce998ba2973bbe57fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_52
       rect:
         serializedVersion: 2
         x: 0
@@ -522,7 +1250,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef628e1c05994fe4a4fb7339dd2e170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_53
       rect:
         serializedVersion: 2
         x: 297
@@ -531,7 +1270,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47968a0fb94874a708193e5c07b5a448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_54
       rect:
         serializedVersion: 2
         x: 594
@@ -540,7 +1290,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc60e3f34b84c4d7fa1c8358168324a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_55
       rect:
         serializedVersion: 2
         x: 891
@@ -549,7 +1310,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6904fe754ad7e48b9b4cf6d24273344b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_56
       rect:
         serializedVersion: 2
         x: 1188
@@ -558,7 +1330,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a93b3ec69ed4e21bb8556761c12a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_57
       rect:
         serializedVersion: 2
         x: 1485
@@ -567,7 +1350,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a640c0cfd0b48399fd9d180ce85cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_58
       rect:
         serializedVersion: 2
         x: 1782
@@ -576,7 +1370,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccba8bd14737476b914db346f90c4de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_59
       rect:
         serializedVersion: 2
         x: 2079
@@ -585,7 +1390,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc394851056420c9907d07d737a1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_60
       rect:
         serializedVersion: 2
         x: 2376
@@ -594,7 +1410,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae03555e1824238bdf0894ee143429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_61
       rect:
         serializedVersion: 2
         x: 2673
@@ -603,7 +1430,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf728ee039be4cf5bd0992aab8f9e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_62
       rect:
         serializedVersion: 2
         x: 2970
@@ -612,7 +1450,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7576b490bd463f89661694270e0fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_63
       rect:
         serializedVersion: 2
         x: 3267
@@ -621,7 +1470,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404919a9e2954f67bcb7e0b812a2d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_64
       rect:
         serializedVersion: 2
         x: 3564
@@ -630,7 +1490,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750ba9acfe509406887da0f6ac961b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_65
       rect:
         serializedVersion: 2
         x: 0
@@ -639,7 +1510,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec782413d09486babde987296b997d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_66
       rect:
         serializedVersion: 2
         x: 297
@@ -648,7 +1530,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48909722a059a461fa3396cf840e957f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_67
       rect:
         serializedVersion: 2
         x: 594
@@ -657,7 +1550,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2af08a0bdc446681d7a6339d2c170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_68
       rect:
         serializedVersion: 2
         x: 891
@@ -666,7 +1570,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa13e64cbc53418e864475a4930a30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_69
       rect:
         serializedVersion: 2
         x: 1188
@@ -675,7 +1590,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe11eb99b6654451b0e496aef33aa04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_70
       rect:
         serializedVersion: 2
         x: 1485
@@ -684,7 +1610,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ae6a723bcd4467eb63f5d4bd006843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_71
       rect:
         serializedVersion: 2
         x: 1782
@@ -693,7 +1630,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e824e254b14ce7b0b7ac931b8227a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_72
       rect:
         serializedVersion: 2
         x: 2079
@@ -702,7 +1650,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6e7806c6c7c4b15bea9512b2fce2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_73
       rect:
         serializedVersion: 2
         x: 2376
@@ -711,7 +1670,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2615b91be80a4daeb8f6c3dcd60a174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_74
       rect:
         serializedVersion: 2
         x: 2673
@@ -720,7 +1690,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816ad0d18ceb4410834b80e2ca25c91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_75
       rect:
         serializedVersion: 2
         x: 2970
@@ -729,7 +1710,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffafebb82241a4a12a1cfddc7a67795b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_76
       rect:
         serializedVersion: 2
         x: 3267
@@ -738,7 +1730,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38c5bfc3330f4372b20e4a351a993df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_77
       rect:
         serializedVersion: 2
         x: 3564
@@ -747,7 +1750,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac8ddc1e4154d72a86e45436b7c72f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_78
       rect:
         serializedVersion: 2
         x: 0
@@ -756,7 +1770,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5bb0d70995c47619f8a544d19d5d61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_79
       rect:
         serializedVersion: 2
         x: 297
@@ -765,7 +1790,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b2d1e0ae974f36b5ba8b40fd848d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_80
       rect:
         serializedVersion: 2
         x: 594
@@ -774,7 +1810,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7749cc7e3b5864cdbaee4a9d29252b31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_81
       rect:
         serializedVersion: 2
         x: 891
@@ -783,7 +1830,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe6215d72be42dc8e0bd499b899f3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_82
       rect:
         serializedVersion: 2
         x: 1188
@@ -792,7 +1850,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5f4f55595645df89426378aa84db7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_83
       rect:
         serializedVersion: 2
         x: 1485
@@ -801,7 +1870,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a506b79f5c9d9426fab9397ba41f1a71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_84
       rect:
         serializedVersion: 2
         x: 1782
@@ -810,7 +1890,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21102d733f3b5474ab2579ef387e9ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_85
       rect:
         serializedVersion: 2
         x: 2079
@@ -819,7 +1910,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca434f2e58d904b27bf49ab693658549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_86
       rect:
         serializedVersion: 2
         x: 2376
@@ -828,7 +1930,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a193e181ef4910bec3ccefdabde37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_87
       rect:
         serializedVersion: 2
         x: 2673
@@ -837,7 +1950,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938416456d337411b94050bfa44159d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_88
       rect:
         serializedVersion: 2
         x: 2970
@@ -846,7 +1970,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a9533efc8f144b09c344d99214b50c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_89
       rect:
         serializedVersion: 2
         x: 3267
@@ -855,7 +1990,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc62d20a3fdee4149a75481a96a8891d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_90
       rect:
         serializedVersion: 2
         x: 3564
@@ -864,7 +2010,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff595d5094b0493c9e03cd505cb0642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_91
       rect:
         serializedVersion: 2
         x: 0
@@ -873,7 +2030,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf02e0b6cec44c6befb25093e0aa09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_92
       rect:
         serializedVersion: 2
         x: 297
@@ -882,7 +2050,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e43a9cab13f7440ea7b748943d75f68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_93
       rect:
         serializedVersion: 2
         x: 594
@@ -891,7 +2070,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9caa92c4c3124f9ea2effc3e1f6843a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_94
       rect:
         serializedVersion: 2
         x: 891
@@ -900,7 +2090,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_95
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e254e79deb249d5a99c4f52bd731f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_95
       rect:
         serializedVersion: 2
         x: 1188
@@ -909,7 +2110,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_96
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f1a9ebd5dc24194951d9807dfb3139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_96
       rect:
         serializedVersion: 2
         x: 1485
@@ -918,7 +2130,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_97
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b40ffab5ca843a7b522cc1880456fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_97
       rect:
         serializedVersion: 2
         x: 1782
@@ -927,7 +2150,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_98
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9cf4c013fc042c29aa4e01fb897910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_98
       rect:
         serializedVersion: 2
         x: 2079
@@ -936,7 +2170,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_99
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a93e6eb0dff4a4bbeb4b80d68408d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_99
       rect:
         serializedVersion: 2
         x: 2376
@@ -945,7 +2190,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_100
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a44df1fb28c405391bfb092a05e5ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_100
       rect:
         serializedVersion: 2
         x: 2673
@@ -954,7 +2210,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_101
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edfb2118d6514e09bed40ae14c79845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_101
       rect:
         serializedVersion: 2
         x: 2970
@@ -963,7 +2230,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_102
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1602b6a0fb6a24c2eac5a7a0465dd0fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_102
       rect:
         serializedVersion: 2
         x: 3267
@@ -972,7 +2250,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_103
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38da09f764f7a4bc289a17bcddc2fc7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_103
       rect:
         serializedVersion: 2
         x: 3564
@@ -981,7 +2270,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_104
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db8b5836f944a74afbe17a0010f1d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_104
       rect:
         serializedVersion: 2
         x: 0
@@ -990,7 +2290,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_105
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc0fdf76c30544db906c605354fff65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_105
       rect:
         serializedVersion: 2
         x: 297
@@ -999,7 +2310,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_106
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9537bcb02d76b4058b5970ef2bd88087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_106
       rect:
         serializedVersion: 2
         x: 594
@@ -1008,7 +2330,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_107
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238efd6f16f494246a990070683806a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_107
       rect:
         serializedVersion: 2
         x: 891
@@ -1017,7 +2350,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_108
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a72f30c4cf246e589da93196d12af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_108
       rect:
         serializedVersion: 2
         x: 1188
@@ -1026,7 +2370,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_109
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f48aea3d224031b754eb1b1797dbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_109
       rect:
         serializedVersion: 2
         x: 1485
@@ -1035,7 +2390,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_110
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db317357cf94b7f81355b3e4b507f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_110
       rect:
         serializedVersion: 2
         x: 1782
@@ -1044,7 +2410,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_111
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e9721979c9046f59e3aad9ff2ddb51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_111
       rect:
         serializedVersion: 2
         x: 2079
@@ -1053,7 +2430,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_112
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb5d989837145c091c7df59967073d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_112
       rect:
         serializedVersion: 2
         x: 2376
@@ -1062,7 +2450,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_113
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8880a86cb849a2909aa44b8b12975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_113
       rect:
         serializedVersion: 2
         x: 2673
@@ -1071,7 +2470,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_114
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abcd68c99cfe4395b4945872d9875fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_114
       rect:
         serializedVersion: 2
         x: 2970
@@ -1080,7 +2490,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_115
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3ecccc77cbd4a72860dcf6e21e0ae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_115
       rect:
         serializedVersion: 2
         x: 3267
@@ -1089,7 +2510,18 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: earthquake_reaction-frames_116
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ef5f96b1ba14350ad2e1ec9af27973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: earthquake_reaction-frames_116
       rect:
         serializedVersion: 2
         x: 3564
@@ -1098,5 +2530,27 @@ TextureImporter:
         height: 300
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed61d59b6bdc4e1e88d2fc8625953c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

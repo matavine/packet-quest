@@ -28,11 +28,11 @@ public class GravityField : MonoBehaviour {
 	}
 
 	public void positionParticle() {
-		BoxCollider2D box = (BoxCollider2D) collider2D;
-		Transform child = transform.FindChild("GravityParticle");
+		BoxCollider2D box = (BoxCollider2D) GetComponent<Collider2D>();
+		Transform child = transform.Find("GravityParticle");
 		float duration = Mathf.Sqrt(2f*box.size.y/particleAcceleration);
-		Vector2 position = new Vector2(transform.position.x, transform.position.y) + box.center;
-		m_childParticleSystem = child.particleSystem;
+		Vector2 position = new Vector2(transform.position.x, transform.position.y) + box.offset;
+		m_childParticleSystem = child.GetComponent<ParticleSystem>();
 
 		position.y -= box.size.y/2f;
 		child.position = new Vector3(position.x, position.y, child.transform.position.z);
@@ -84,10 +84,10 @@ public class GravityField : MonoBehaviour {
 	}
 
 	private void SetGravity(int direction) {
-		BoxCollider2D box = (BoxCollider2D) collider2D;
+		BoxCollider2D box = (BoxCollider2D) GetComponent<Collider2D>();
 		Vector2 position = new Vector2(transform.position.x, transform.position.y);
-		Vector2 right_top = position + box.center + box.size/2f;
-		Vector2 bottom_left = position + box.center - box.size/2f;
+		Vector2 right_top = position + box.offset + box.size/2f;
+		Vector2 bottom_left = position + box.offset - box.size/2f;
 		Collider2D[] colliders = Physics2D.OverlapAreaAll(right_top, bottom_left);
 
 		foreach(Collider2D c in colliders) {

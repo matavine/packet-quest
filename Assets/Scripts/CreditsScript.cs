@@ -24,9 +24,9 @@ public class CreditsScript : MonoBehaviour {
 			"Back to Menu",
 		}, RenderMenu, OnButtonClicked);
 		
-		guiText.pixelOffset = new Vector2(Screen.width/2, Screen.height/2);
-		message = guiText.text;
-		guiText.text = "";
+		GetComponent<GUIText>().pixelOffset = new Vector2(Screen.width/2, Screen.height/2);
+		message = GetComponent<GUIText>().text;
+		GetComponent<GUIText>().text = "";
 		StartCoroutine(TypeText ());
 	}
 	
@@ -41,16 +41,16 @@ public class CreditsScript : MonoBehaviour {
 		System.Random generator = new System.Random();
 		foreach (char letter in message.ToCharArray()) {
 			if (letter == '@') {
-				guiText.text += '.'; // Used to ensure we don't pause for Dr. Michievous
+				GetComponent<GUIText>().text += '.'; // Used to ensure we don't pause for Dr. Michievous
 			} else {
-				guiText.text += letter;
+				GetComponent<GUIText>().text += letter;
 			}
 			if (letter == '\n') {
 				AudioPlayer.Instance.Play("typewriter-line-break-1");
 				playClipAfter++;
 			}
 			if (sound && playClipAfter-- == 0) {
-				audio.PlayOneShot (sound);
+				GetComponent<AudioSource>().PlayOneShot (sound);
 				playClipAfter = generator.Next(3); // ensure greater than 0
 			}
 			if (letter == '.' || letter == '!' || letter == ':') {

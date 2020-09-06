@@ -34,7 +34,7 @@ public class SwitchBlockScript : MonoBehaviour {
 				AudioPlayer.Instance.PlayAtPosition("circuit", this.transform.position);
 			}
 
-			BoxCollider2D box = collider2D as BoxCollider2D;
+			BoxCollider2D box = GetComponent<Collider2D>() as BoxCollider2D;
 			CircuitParams circuit = new CircuitParams();
 			CircuitScript.SendCircuitSignal(null, box, circuit);
 		}

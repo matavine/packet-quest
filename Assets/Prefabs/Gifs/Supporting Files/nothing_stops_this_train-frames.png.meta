@@ -1,32 +1,105 @@
 fileFormatVersion: 2
 guid: c7c489fca65574947833e9b798db7bab
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: nothing_stops_this_train-frames_0
+    21300002: nothing_stops_this_train-frames_1
+    21300004: nothing_stops_this_train-frames_2
+    21300006: nothing_stops_this_train-frames_3
+    21300008: nothing_stops_this_train-frames_4
+    21300010: nothing_stops_this_train-frames_5
+    21300012: nothing_stops_this_train-frames_6
+    21300014: nothing_stops_this_train-frames_7
+    21300016: nothing_stops_this_train-frames_8
+    21300018: nothing_stops_this_train-frames_9
+    21300020: nothing_stops_this_train-frames_10
+    21300022: nothing_stops_this_train-frames_11
+    21300024: nothing_stops_this_train-frames_12
+    21300026: nothing_stops_this_train-frames_13
+    21300028: nothing_stops_this_train-frames_14
+    21300030: nothing_stops_this_train-frames_15
+    21300032: nothing_stops_this_train-frames_16
+    21300034: nothing_stops_this_train-frames_17
+    21300036: nothing_stops_this_train-frames_18
+    21300038: nothing_stops_this_train-frames_19
+    21300040: nothing_stops_this_train-frames_20
+    21300042: nothing_stops_this_train-frames_21
+    21300044: nothing_stops_this_train-frames_22
+    21300046: nothing_stops_this_train-frames_23
+    21300048: nothing_stops_this_train-frames_24
+    21300050: nothing_stops_this_train-frames_25
+    21300052: nothing_stops_this_train-frames_26
+    21300054: nothing_stops_this_train-frames_27
+    21300056: nothing_stops_this_train-frames_28
+    21300058: nothing_stops_this_train-frames_29
+    21300060: nothing_stops_this_train-frames_30
+    21300062: nothing_stops_this_train-frames_31
+    21300064: nothing_stops_this_train-frames_32
+    21300066: nothing_stops_this_train-frames_33
+    21300068: nothing_stops_this_train-frames_34
+    21300070: nothing_stops_this_train-frames_35
+    21300072: nothing_stops_this_train-frames_36
+    21300074: nothing_stops_this_train-frames_37
+    21300076: nothing_stops_this_train-frames_38
+    21300078: nothing_stops_this_train-frames_39
+    21300080: nothing_stops_this_train-frames_40
+    21300082: nothing_stops_this_train-frames_41
+    21300084: nothing_stops_this_train-frames_42
+    21300086: nothing_stops_this_train-frames_43
+    21300088: nothing_stops_this_train-frames_44
+    21300090: nothing_stops_this_train-frames_45
+    21300092: nothing_stops_this_train-frames_46
+    21300094: nothing_stops_this_train-frames_47
+    21300096: nothing_stops_this_train-frames_48
+    21300098: nothing_stops_this_train-frames_49
+    21300100: nothing_stops_this_train-frames_50
+    21300102: nothing_stops_this_train-frames_51
+    21300104: nothing_stops_this_train-frames_52
+    21300106: nothing_stops_this_train-frames_53
+    21300108: nothing_stops_this_train-frames_54
+    21300110: nothing_stops_this_train-frames_55
+    21300112: nothing_stops_this_train-frames_56
+    21300114: nothing_stops_this_train-frames_57
+    21300116: nothing_stops_this_train-frames_58
+    21300118: nothing_stops_this_train-frames_59
+    21300120: nothing_stops_this_train-frames_60
+    21300122: nothing_stops_this_train-frames_61
+    21300124: nothing_stops_this_train-frames_62
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +107,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: nothing_stops_this_train-frames_0
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +156,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0856f0f5754c209e9b81649ffaa47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_1
       rect:
         serializedVersion: 2
         x: 400
@@ -63,7 +176,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea221c0c0bd34a19af91b06aaefc1ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_2
       rect:
         serializedVersion: 2
         x: 800
@@ -72,7 +196,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12221f3a09b8f4e4989b6e8d2a134523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_3
       rect:
         serializedVersion: 2
         x: 1200
@@ -81,7 +216,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34193af127bd141f5af0fd5de2c0e978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_4
       rect:
         serializedVersion: 2
         x: 1600
@@ -90,7 +236,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05911de2fe81946b2b314e6c937d4db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_5
       rect:
         serializedVersion: 2
         x: 2000
@@ -99,7 +256,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc025f47577fa4e50a1ce6a74362d479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_6
       rect:
         serializedVersion: 2
         x: 2400
@@ -108,7 +276,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf37f1a4ef744af89edba962aeb134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_7
       rect:
         serializedVersion: 2
         x: 2800
@@ -117,7 +296,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6352023d8eaaa4a87bdc11bbd3651683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_8
       rect:
         serializedVersion: 2
         x: 3200
@@ -126,7 +316,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f38c913265744838db9793fd53920e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_9
       rect:
         serializedVersion: 2
         x: 0
@@ -135,7 +336,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e8ab9b8ecaf431e8bd6229b8ae5589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_10
       rect:
         serializedVersion: 2
         x: 400
@@ -144,7 +356,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0adb009bbf7e474aad6908a6cf787f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_11
       rect:
         serializedVersion: 2
         x: 800
@@ -153,7 +376,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b8e5c3043704af5a2b19366d3b79d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_12
       rect:
         serializedVersion: 2
         x: 1200
@@ -162,7 +396,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334fb62d2a8c7494f9b395285d200cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_13
       rect:
         serializedVersion: 2
         x: 1600
@@ -171,7 +416,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c7f350517d94e2eaf5096035f9d35d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_14
       rect:
         serializedVersion: 2
         x: 2000
@@ -180,7 +436,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803e9e8d228a4f1d9f3c1016e6dc494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_15
       rect:
         serializedVersion: 2
         x: 2400
@@ -189,7 +456,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8c20afb93b40c6aaca26b66240549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_16
       rect:
         serializedVersion: 2
         x: 2800
@@ -198,7 +476,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c665bf5cba28546dba2cb4892d3cd945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_17
       rect:
         serializedVersion: 2
         x: 3200
@@ -207,7 +496,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718e1d809c7e4be1a29a3e8bbd80332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_18
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +516,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191338ee94d454ebaa7149deb7d277eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_19
       rect:
         serializedVersion: 2
         x: 400
@@ -225,7 +536,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3cb2ad74b524596a0f789041127ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_20
       rect:
         serializedVersion: 2
         x: 800
@@ -234,7 +556,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac68650f1c44edab9197e135af0728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_21
       rect:
         serializedVersion: 2
         x: 1200
@@ -243,7 +576,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01afdf0b96ee49bd909a376eddc3dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_22
       rect:
         serializedVersion: 2
         x: 1600
@@ -252,7 +596,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44f21f2bf6604defb7b2e4b6549a1e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_23
       rect:
         serializedVersion: 2
         x: 2000
@@ -261,7 +616,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421698708148b43daade95ef8cd1c930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_24
       rect:
         serializedVersion: 2
         x: 2400
@@ -270,7 +636,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d840d1afe37464ef08d706156c1ce94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_25
       rect:
         serializedVersion: 2
         x: 2800
@@ -279,7 +656,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc0bfe8e03e44869d6563dc4e8f5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_26
       rect:
         serializedVersion: 2
         x: 3200
@@ -288,7 +676,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dcfc0d6adfd477a96a2df13f0b7793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_27
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +696,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0c1c870651347a8a7f37c9d703f01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_28
       rect:
         serializedVersion: 2
         x: 400
@@ -306,7 +716,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5f3d783783c4edd83459520259cc3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_29
       rect:
         serializedVersion: 2
         x: 800
@@ -315,7 +736,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3646b7626834d789af91634caefad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_30
       rect:
         serializedVersion: 2
         x: 1200
@@ -324,7 +756,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0e84acf5a1e49458787c6b152fe054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_31
       rect:
         serializedVersion: 2
         x: 1600
@@ -333,7 +776,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a04f15f11ab4d73beadcc0b72268e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_32
       rect:
         serializedVersion: 2
         x: 2000
@@ -342,7 +796,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b336bb43e82943e397dbd9d6d589784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_33
       rect:
         serializedVersion: 2
         x: 2400
@@ -351,7 +816,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ad336691674720b124322ecc39e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_34
       rect:
         serializedVersion: 2
         x: 2800
@@ -360,7 +836,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852b8c706bec4570ac3d94363cc1885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_35
       rect:
         serializedVersion: 2
         x: 3200
@@ -369,7 +856,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5034d25916184688991535a31c66339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +876,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a5cd04802f409f9bd987838453470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_37
       rect:
         serializedVersion: 2
         x: 400
@@ -387,7 +896,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f76704aa90b6479f81ff12155dbe3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_38
       rect:
         serializedVersion: 2
         x: 800
@@ -396,7 +916,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6161ec8e26c9746689a85029cc8d6635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_39
       rect:
         serializedVersion: 2
         x: 1200
@@ -405,7 +936,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c4553193c2471d832277643e140c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_40
       rect:
         serializedVersion: 2
         x: 1600
@@ -414,7 +956,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e320bf1e7ec4490972f190373df9dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_41
       rect:
         serializedVersion: 2
         x: 2000
@@ -423,7 +976,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27540396667474f81d99d03e9f275b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_42
       rect:
         serializedVersion: 2
         x: 2400
@@ -432,7 +996,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e591396250ee04bc68afa46bb1d12359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_43
       rect:
         serializedVersion: 2
         x: 2800
@@ -441,7 +1016,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1539d88b2cb2b40d5af0333824ffc91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_44
       rect:
         serializedVersion: 2
         x: 3200
@@ -450,7 +1036,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad85e831425e4b96b5970def920e3e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_45
       rect:
         serializedVersion: 2
         x: 0
@@ -459,7 +1056,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ca3db7b93b14dc7bf322bf0eb31032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_46
       rect:
         serializedVersion: 2
         x: 400
@@ -468,7 +1076,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781966c35b3a405e9067e9de2d19c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_47
       rect:
         serializedVersion: 2
         x: 800
@@ -477,7 +1096,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637d1c1e9e2c45efb1081f171b48a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_48
       rect:
         serializedVersion: 2
         x: 1200
@@ -486,7 +1116,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f64784a36b4bbda4a05eaf0974026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_49
       rect:
         serializedVersion: 2
         x: 1600
@@ -495,7 +1136,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b016cf2be904bb492bd2455a2fc222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_50
       rect:
         serializedVersion: 2
         x: 2000
@@ -504,7 +1156,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b11acc409dd842379c4f1d9d6bcc5a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_51
       rect:
         serializedVersion: 2
         x: 2400
@@ -513,7 +1176,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f83f732039e49c9b61559bc00a2b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_52
       rect:
         serializedVersion: 2
         x: 2800
@@ -522,7 +1196,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca89b6475285473e823dbd109fbb589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_53
       rect:
         serializedVersion: 2
         x: 3200
@@ -531,7 +1216,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c19e0eb2f6e24852a65be1cd8dece5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_54
       rect:
         serializedVersion: 2
         x: 0
@@ -540,7 +1236,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b2b3ce2f3d425fb1420c20c95a914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_55
       rect:
         serializedVersion: 2
         x: 400
@@ -549,7 +1256,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c7ddca939be4809b09dedbee0a747c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_56
       rect:
         serializedVersion: 2
         x: 800
@@ -558,7 +1276,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f717e29bd244d79864e9678d9da383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_57
       rect:
         serializedVersion: 2
         x: 1200
@@ -567,7 +1296,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6677917847de412b8819e18dbbe2220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_58
       rect:
         serializedVersion: 2
         x: 1600
@@ -576,7 +1316,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13108163ed774a6b9424c8cdc8dc3eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_59
       rect:
         serializedVersion: 2
         x: 2000
@@ -585,7 +1336,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8052b425267846619b5a0ecffd90c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_60
       rect:
         serializedVersion: 2
         x: 2400
@@ -594,7 +1356,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb6e96790654cdbb87429c2c06bc93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_61
       rect:
         serializedVersion: 2
         x: 2800
@@ -603,7 +1376,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: nothing_stops_this_train-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edda0a01c7ce421e83da87cd63ce335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nothing_stops_this_train-frames_62
       rect:
         serializedVersion: 2
         x: 3200
@@ -612,5 +1396,27 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b864d6baf3ba4f0abba9f2ba63af5bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

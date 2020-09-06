@@ -8,7 +8,7 @@ public class TurretScript : MonoBehaviour {
 	
 	// Use this for initialization
 	void Start () {
-		renderer.material.color = Color.grey;
+		GetComponent<Renderer>().material.color = Color.grey;
 	}
 	
 	// Update is called once per frame
@@ -21,7 +21,7 @@ public class TurretScript : MonoBehaviour {
 			bullet.AddComponent<BulletScript>();
 			bullet.transform.position = transform.position;
 			bullet.transform.rotation = transform.rotation;
-			bullet.rigidbody.velocity = transform.TransformDirection(Vector3.down*speed);
+			bullet.GetComponent<Rigidbody>().velocity = transform.TransformDirection(Vector3.down*speed);
 			
 			timer = 0;
 		}

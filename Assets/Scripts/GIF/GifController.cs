@@ -58,7 +58,7 @@ public class GifController : MonoBehaviour {
 	void LateUpdate() {
 		if(m_gifPlaying) {
 			Vector3 bottomLeft = m_camera.ViewportToWorldPoint(new Vector3(0, 0, 10));
-			bottomLeft.y += m_currentGif.renderer.bounds.size.y;
+			bottomLeft.y += m_currentGif.GetComponent<Renderer>().bounds.size.y;
 			m_currentGif.transform.position = bottomLeft;
 		}
 	}

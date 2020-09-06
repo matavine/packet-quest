@@ -15,9 +15,9 @@ public class RunnerScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		var currSpeed = rigidbody2D.velocity;
+		var currSpeed = GetComponent<Rigidbody2D>().velocity;
 		if(touchedGround && currSpeed.magnitude < maxSpeed){
-			rigidbody2D.AddForce(new Vector2(acceleration,0));
+			GetComponent<Rigidbody2D>().AddForce(new Vector2(acceleration,0));
 		}
 		if (Input.GetKeyDown(KeyCode.LeftArrow)) {
 			if (playing) {

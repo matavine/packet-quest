@@ -13,7 +13,7 @@ public class FixedRateCameraScript : MonoBehaviour {
 	}
 
 	void Update () {
-		if (m_player.transform.position.x < this.transform.position.x - this.camera.orthographicSize * this.camera.aspect - lenience) {
+		if (m_player.transform.position.x < this.transform.position.x - this.GetComponent<Camera>().orthographicSize * this.GetComponent<Camera>().aspect - lenience) {
 			m_playerBehaviour.Kill(false); // don't show kill animation cause we wouldn't see it anyway
 			this.transform.Translate(m_player.transform.position.x - this.transform.position.x,
 			                         m_player.transform.position.y - this.transform.position.y,

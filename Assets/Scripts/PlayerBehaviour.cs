@@ -110,7 +110,7 @@ public class PlayerBehaviour : MonoBehaviour {
 		FieldInfo colliderFieldInfo = collisionType.GetField("m_Collider", BindingFlags.NonPublic | BindingFlags.Instance);
 
 		m_playerCollision = new Collision2D();
-		colliderFieldInfo.SetValue(m_playerCollision, collider2D);
+		colliderFieldInfo.SetValue(m_playerCollision, GetComponent<Collider2D>());
 		#endregion
 
 		m_lastTriggersHit = new HashSet<Collider2D>();
@@ -123,7 +123,7 @@ public class PlayerBehaviour : MonoBehaviour {
 		m_antiGravityIconOff = Resources.Load("UI/anti_gravity_icon_off") as Texture2D;
 
 		// Ensure that the particles render in front of the player.
-		particleSystem.renderer.sortingLayerName = "Foreground";
+		GetComponent<ParticleSystem>().GetComponent<Renderer>().sortingLayerName = "Foreground";
 	
 		// Spawn the player.
 		StartCoroutine(SpawnAnimation());
@@ -426,8 +426,8 @@ public class PlayerBehaviour : MonoBehaviour {
 		float distanceLeft = displacement.magnitude;
 
 		// Need to hit triggers to send OnTrigger events.
-		bool raycastsHitTriggers = Physics2D.raycastsHitTriggers;
-		Physics2D.raycastsHitTriggers = true;
+		bool raycastsHitTriggers = Physics2D.queriesHitTriggers;
+		Physics2D.queriesHitTriggers = true;
 
 		if (distanceLeft == 0f) {
 			ResolveCollisions(m_currTriggersHit, m_currCollidersHit);
@@ -470,7 +470,7 @@ public class PlayerBehaviour : MonoBehaviour {
 			}
 		}
 
-		Physics2D.raycastsHitTriggers = raycastsHitTriggers;
+		Physics2D.queriesHitTriggers = raycastsHitTriggers;
 //		SendCollisionEvents(m_currTriggersHit, m_currCollidersHit);
 	}
 
@@ -524,8 +524,8 @@ public class PlayerBehaviour : MonoBehaviour {
 	private void SetPlayerEnabled(bool enabled) {
 		// Disable player components for playing
 		// animations.
-		renderer.enabled = enabled;
-		collider2D.enabled = enabled;
+		GetComponent<Renderer>().enabled = enabled;
+		GetComponent<Collider2D>().enabled = enabled;
 		this.enabled = enabled;
 	}
 
@@ -564,10 +564,10 @@ public class PlayerBehaviour : MonoBehaviour {
 
 		AudioPlayer.Instance.PlayWithTransform("Death", this.transform, volume: 0.5f);
 
-		particleSystem.Play();
-		yield return new WaitForSeconds(particleSystem.duration);
-		particleSystem.Stop();
-		particleSystem.Clear();
+		GetComponent<ParticleSystem>().Play();
+		yield return new WaitForSeconds(GetComponent<ParticleSystem>().duration);
+		GetComponent<ParticleSystem>().Stop();
+		GetComponent<ParticleSystem>().Clear();
 
 		StartCoroutine(SpawnAnimation());
 	}
@@ -581,10 +581,10 @@ public class PlayerBehaviour : MonoBehaviour {
 
 		SetPlayerEnabled(false);
 
-		spawnPoint.particleSystem.Play();
-		yield return new WaitForSeconds(particleSystem.duration);
-		spawnPoint.particleSystem.Stop();
-		spawnPoint.particleSystem.Clear();
+		spawnPoint.GetComponent<ParticleSystem>().Play();
+		yield return new WaitForSeconds(GetComponent<ParticleSystem>().duration);
+		spawnPoint.GetComponent<ParticleSystem>().Stop();
+		spawnPoint.GetComponent<ParticleSystem>().Clear();
 
 		SetPlayerEnabled(true);
 
@@ -607,7 +607,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	}
 
 	private void ResolveCollisions(HashSet<Collider2D> triggersHit, HashSet<Collider2D> collidersHit) {
-		BoxCollider2D playerCollider = collider2D as BoxCollider2D;
+		BoxCollider2D playerCollider = GetComponent<Collider2D>() as BoxCollider2D;
 		float radius = Mathf.Max(playerCollider.size.x, playerCollider.size.y);
 		Collider2D[] colliders = Physics2D.OverlapCircleAll(new Vector2(transform.position.x, transform.position.y),
 		                                                    radius);
@@ -639,12 +639,12 @@ public class PlayerBehaviour : MonoBehaviour {
 	}
 
 	private bool GetIntersection(BoxCollider2D a, BoxCollider2D b, out Vector3 collisionOffset) {
-		Rect aBounds = new Rect(a.transform.position.x - (a.size.x / 2f) + a.center.x - COLLISION_SKIN_WIDTH,
-		                        a.transform.position.y - (a.size.y / 2f) + a.center.y - COLLISION_SKIN_WIDTH,
+		Rect aBounds = new Rect(a.transform.position.x - (a.size.x / 2f) + a.offset.x - COLLISION_SKIN_WIDTH,
+		                        a.transform.position.y - (a.size.y / 2f) + a.offset.y - COLLISION_SKIN_WIDTH,
 		                        a.size.x + (COLLISION_SKIN_WIDTH * 2), a.size.y + (COLLISION_SKIN_WIDTH * 2));
 
-		Rect bBounds = new Rect(b.transform.position.x - (b.size.x * b.gameObject.transform.localScale.x / 2f) + b.center.x,
-		                        b.transform.position.y - (b.size.y * b.gameObject.transform.localScale.y / 2f) + b.center.y,
+		Rect bBounds = new Rect(b.transform.position.x - (b.size.x * b.gameObject.transform.localScale.x / 2f) + b.offset.x,
+		                        b.transform.position.y - (b.size.y * b.gameObject.transform.localScale.y / 2f) + b.offset.y,
 		                        b.size.x * b.gameObject.transform.localScale.x, 
 		                        b.size.y * b.gameObject.transform.localScale.y);
 
@@ -677,7 +677,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	
 	private bool CheckRight() {
 		BoxCollider2D box = GetBoxCollider();
-		Vector3 rightSide = transform.position + new Vector3(box.center.x, box.center.y);
+		Vector3 rightSide = transform.position + new Vector3(box.offset.x, box.offset.y);
 
 		Vector3 topRight = rightSide + (new Vector3(box.size.x, box.size.y) / 2) + 
 							new Vector3(HORIZONTAL_RAY_OFFSET, -VERTICAL_RAY_OFFSET);
@@ -692,7 +692,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	
 	private bool CheckLeft() {
 		BoxCollider2D box = GetBoxCollider();
-		Vector3 leftSide = transform.position + new Vector3(box.center.x, box.center.y);
+		Vector3 leftSide = transform.position + new Vector3(box.offset.x, box.offset.y);
 		
 		Vector3 topLeft = leftSide - (new Vector3(box.size.x, -box.size.y) / 2) + 
 							new Vector3(-HORIZONTAL_RAY_OFFSET, -VERTICAL_RAY_OFFSET);
@@ -713,7 +713,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	private void GetLeftSideRay(out Vector2 rayStart, out Vector2 rayEnd) {
 		BoxCollider2D boxCollider = GetBoxCollider();
 		rayStart = new Vector2(boxCollider.transform.position.x, boxCollider.transform.position.y)
-					+ boxCollider.center
+					+ boxCollider.offset
 					- (boxCollider.size / 2)
 				    - new Vector2(GROUND_RAY_OFFSET, -GROUND_RAY_OFFSET);
 		rayEnd = rayStart + (Vector2.up * (boxCollider.size.y - GROUND_RAY_OFFSET * 2));
@@ -722,7 +722,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	private void GetRightSideRay(out Vector2 rayStart, out Vector2 rayEnd) {
 		BoxCollider2D boxCollider = GetBoxCollider();
 		rayStart = new Vector2(boxCollider.transform.position.x, boxCollider.transform.position.y)
-					+ boxCollider.center
+					+ boxCollider.offset
 					+ (boxCollider.size / 2)
 					- new Vector2(-GROUND_RAY_OFFSET, GROUND_RAY_OFFSET);
 		rayEnd = rayStart + (-Vector2.up * (boxCollider.size.y - GROUND_RAY_OFFSET * 2));
@@ -731,7 +731,7 @@ public class PlayerBehaviour : MonoBehaviour {
 	private void GetHeadRay(out Vector2 rayStart, out Vector2 rayEnd) {
 		BoxCollider2D boxCollider = GetBoxCollider();
 		rayStart = new Vector2(boxCollider.transform.position.x, boxCollider.transform.position.y) 
-					+ boxCollider.center
+					+ boxCollider.offset
 					- new Vector2(boxCollider.size.x, -boxCollider.size.y) / 2
 					- new Vector2(-GROUND_RAY_OFFSET, -GROUND_RAY_OFFSET);
 		
@@ -748,13 +748,13 @@ public class PlayerBehaviour : MonoBehaviour {
 	}
 
 	private BoxCollider2D GetBoxCollider() {
-		return (BoxCollider2D) collider2D;
+		return (BoxCollider2D) GetComponent<Collider2D>();
 	}
 
 	private void GetGroundRay(out Vector2 rayStart, out Vector2 rayEnd) {
 		BoxCollider2D boxCollider = GetBoxCollider();
 		rayStart = new Vector2(boxCollider.transform.position.x, boxCollider.transform.position.y) 
-				+ boxCollider.center
+				+ boxCollider.offset
 				- (boxCollider.size / 2) 
 				- new Vector2(-GROUND_RAY_OFFSET, GROUND_RAY_OFFSET);
 		

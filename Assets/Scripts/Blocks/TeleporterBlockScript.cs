@@ -36,13 +36,13 @@ public class TeleporterBlockScript : MonoBehaviour {
 		playerShell.transform.position = playerTrans.position;
 		playerTrans.parent = playerShell.transform;
 		player.enabled = false;
-		player.collider2D.enabled = false;
+		player.GetComponent<Collider2D>().enabled = false;
 
 		AudioPlayer.Instance.PlayWithTransform("teleport", player.transform);
 
 		anim.Play(m_teleportOutAnim.name, PlayMode.StopAll);
 		yield return new WaitForSeconds(m_teleportOutAnim.length);
-		player.renderer.enabled = false;
+		player.GetComponent<Renderer>().enabled = false;
 
 		Vector3 startPlayerPos = playerShell.transform.position;
 		Vector3 toDest = destination.transform.position - startPlayerPos;
@@ -59,7 +59,7 @@ public class TeleporterBlockScript : MonoBehaviour {
 			yield return null;
 		}
 
-		player.renderer.enabled = true;
+		player.GetComponent<Renderer>().enabled = true;
 		anim.Play(m_teleportInAnim.name, PlayMode.StopAll);
 		yield return new WaitForSeconds(m_teleportInAnim.length);
 
@@ -67,7 +67,7 @@ public class TeleporterBlockScript : MonoBehaviour {
 		playerTrans.localScale = new Vector3(Mathf.Sign(playerTrans.localScale.x), 1f, 1f);
 		player.ResetVelocity();
 		player.enabled = true;
-		player.collider2D.enabled = true;
+		player.GetComponent<Collider2D>().enabled = true;
 		m_teleportingPlayer = false;
 
 		Destroy(playerShell);

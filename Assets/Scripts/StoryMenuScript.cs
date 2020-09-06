@@ -54,7 +54,7 @@ public class StoryMenuScript : MonoBehaviour {
 
 		UIManager.Instance.AddMenu(m_skipTextButton);
 
-		guiText.pixelOffset = new Vector2(Screen.width/2, Screen.height/2);
+		GetComponent<GUIText>().pixelOffset = new Vector2(Screen.width/2, Screen.height/2);
 		StartCoroutine("TypeText");
 	}
 
@@ -63,7 +63,7 @@ public class StoryMenuScript : MonoBehaviour {
 			Application.LoadLevel("scene1");
 		} else if (menuItem.name == "Skip") {
 			StopCoroutine("TypeText");
-			guiText.text = m_textSections[m_textSection].Replace('@', '.');
+			GetComponent<GUIText>().text = m_textSections[m_textSection].Replace('@', '.');
 			UIManager.Instance.RemoveMenu(m_skipTextButton);
 			if (m_textSection == (m_textSections.Length - 1)) {
 				UIManager.Instance.AddMenu(m_startGameButton);
@@ -79,21 +79,21 @@ public class StoryMenuScript : MonoBehaviour {
 	}
 
 	IEnumerator TypeText () {
-		guiText.text = "";
+		GetComponent<GUIText>().text = "";
 		int playClipAfter = 0;
 		System.Random generator = new System.Random();
 		foreach (char letter in m_textSections[m_textSection]) {
 			if (letter == '@') {
-				guiText.text += '.'; // Used to ensure we don't pause for Dr. Michievous
+				GetComponent<GUIText>().text += '.'; // Used to ensure we don't pause for Dr. Michievous
 			} else {
-				guiText.text += letter;
+				GetComponent<GUIText>().text += letter;
 			}
 			if (letter == '\n') {
 				AudioPlayer.Instance.Play("typewriter-line-break-1");
 				playClipAfter++;
 			}
 			if (sound && playClipAfter-- == 0) {
-				audio.PlayOneShot (sound);
+				GetComponent<AudioSource>().PlayOneShot (sound);
 				playClipAfter = generator.Next(3); // ensure greater than 0
 			}
 			if (letter == '.' || letter == '!' || letter == ':') {

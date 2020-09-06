@@ -1,32 +1,108 @@
 fileFormatVersion: 2
 guid: 63ce2d44a3578bd40b838aec3bd2c396
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: breadcrumbs-frames_0
+    21300002: breadcrumbs-frames_1
+    21300004: breadcrumbs-frames_2
+    21300006: breadcrumbs-frames_3
+    21300008: breadcrumbs-frames_4
+    21300010: breadcrumbs-frames_5
+    21300012: breadcrumbs-frames_6
+    21300014: breadcrumbs-frames_7
+    21300016: breadcrumbs-frames_8
+    21300018: breadcrumbs-frames_9
+    21300020: breadcrumbs-frames_10
+    21300022: breadcrumbs-frames_11
+    21300024: breadcrumbs-frames_12
+    21300026: breadcrumbs-frames_13
+    21300028: breadcrumbs-frames_14
+    21300030: breadcrumbs-frames_15
+    21300032: breadcrumbs-frames_16
+    21300034: breadcrumbs-frames_17
+    21300036: breadcrumbs-frames_18
+    21300038: breadcrumbs-frames_19
+    21300040: breadcrumbs-frames_20
+    21300042: breadcrumbs-frames_21
+    21300044: breadcrumbs-frames_22
+    21300046: breadcrumbs-frames_23
+    21300048: breadcrumbs-frames_24
+    21300050: breadcrumbs-frames_25
+    21300052: breadcrumbs-frames_26
+    21300054: breadcrumbs-frames_27
+    21300056: breadcrumbs-frames_28
+    21300058: breadcrumbs-frames_29
+    21300060: breadcrumbs-frames_30
+    21300062: breadcrumbs-frames_31
+    21300064: breadcrumbs-frames_32
+    21300066: breadcrumbs-frames_33
+    21300068: breadcrumbs-frames_34
+    21300070: breadcrumbs-frames_35
+    21300072: breadcrumbs-frames_36
+    21300074: breadcrumbs-frames_37
+    21300076: breadcrumbs-frames_38
+    21300078: breadcrumbs-frames_39
+    21300080: breadcrumbs-frames_40
+    21300082: breadcrumbs-frames_41
+    21300084: breadcrumbs-frames_42
+    21300086: breadcrumbs-frames_43
+    21300088: breadcrumbs-frames_44
+    21300090: breadcrumbs-frames_45
+    21300092: breadcrumbs-frames_46
+    21300094: breadcrumbs-frames_47
+    21300096: breadcrumbs-frames_48
+    21300098: breadcrumbs-frames_49
+    21300100: breadcrumbs-frames_50
+    21300102: breadcrumbs-frames_51
+    21300104: breadcrumbs-frames_52
+    21300106: breadcrumbs-frames_53
+    21300108: breadcrumbs-frames_54
+    21300110: breadcrumbs-frames_55
+    21300112: breadcrumbs-frames_56
+    21300114: breadcrumbs-frames_57
+    21300116: breadcrumbs-frames_58
+    21300118: breadcrumbs-frames_59
+    21300120: breadcrumbs-frames_60
+    21300122: breadcrumbs-frames_61
+    21300124: breadcrumbs-frames_62
+    21300126: breadcrumbs-frames_63
+    21300128: breadcrumbs-frames_64
+    21300130: breadcrumbs-frames_65
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +110,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: breadcrumbs-frames_0
+    - serializedVersion: 2
+      name: breadcrumbs-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +159,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebf8af0ee92b44899d9ba2ac7433426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_1
       rect:
         serializedVersion: 2
         x: 352
@@ -63,7 +179,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db61f031780fb4dadad2bc4447d1b7cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_2
       rect:
         serializedVersion: 2
         x: 704
@@ -72,7 +199,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a4a90d449b47c5a3f0bf3e9b278a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_3
       rect:
         serializedVersion: 2
         x: 1056
@@ -81,7 +219,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3393cf64cf81a4c2fbceba2003ab9310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_4
       rect:
         serializedVersion: 2
         x: 1408
@@ -90,7 +239,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a52271a23a9342c495a8c4854bc5dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_5
       rect:
         serializedVersion: 2
         x: 1760
@@ -99,7 +259,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29587cfb601046b58ac35b5bf137aad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_6
       rect:
         serializedVersion: 2
         x: 2112
@@ -108,7 +279,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53226331c2a954e439d05981fdeaf42e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_7
       rect:
         serializedVersion: 2
         x: 2464
@@ -117,7 +299,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab2729d5152849c6a6325284e29be80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_8
       rect:
         serializedVersion: 2
         x: 2816
@@ -126,7 +319,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27201e562cc72421da6b458d043ce643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_9
       rect:
         serializedVersion: 2
         x: 3168
@@ -135,7 +339,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5987f77b3c948b1b3136d692dd6e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_10
       rect:
         serializedVersion: 2
         x: 3520
@@ -144,7 +359,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2290427c0126449bcb16f73086114219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_11
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +379,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3350c2ab95cfd4347805dc9a64f75004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_12
       rect:
         serializedVersion: 2
         x: 352
@@ -162,7 +399,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6f0dec44d54499a4c2053572045f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_13
       rect:
         serializedVersion: 2
         x: 704
@@ -171,7 +419,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743d25aa86c46482b942d4c6ad332c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_14
       rect:
         serializedVersion: 2
         x: 1056
@@ -180,7 +439,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a144697072322499593458d57692c4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_15
       rect:
         serializedVersion: 2
         x: 1408
@@ -189,7 +459,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5922b83da785e4b04ba1a7bd2c84c3b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_16
       rect:
         serializedVersion: 2
         x: 1760
@@ -198,7 +479,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5a9ddc396244f49a67dcfa0137228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_17
       rect:
         serializedVersion: 2
         x: 2112
@@ -207,7 +499,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221484468cfac4b41a3382183ac186ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_18
       rect:
         serializedVersion: 2
         x: 2464
@@ -216,7 +519,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a59c22782fa24bdfa0f0dabaab14161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_19
       rect:
         serializedVersion: 2
         x: 2816
@@ -225,7 +539,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd8e30ff05674b36a57ddc43d4ffd9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_20
       rect:
         serializedVersion: 2
         x: 3168
@@ -234,7 +559,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fa32229502d4b6c928ecdaf13b4da2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_21
       rect:
         serializedVersion: 2
         x: 3520
@@ -243,7 +579,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75938364c3bc0413b9c70d78a74ccdd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_22
       rect:
         serializedVersion: 2
         x: 0
@@ -252,7 +599,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371ff4ceab9974381b155d69b334ddef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_23
       rect:
         serializedVersion: 2
         x: 352
@@ -261,7 +619,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920b83f40968148b385b372597e5f7d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_24
       rect:
         serializedVersion: 2
         x: 704
@@ -270,7 +639,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9dfdf215cc44449409b0dbeca8f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_25
       rect:
         serializedVersion: 2
         x: 1056
@@ -279,7 +659,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be441b82ae4f24141bb3a3840636f1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_26
       rect:
         serializedVersion: 2
         x: 1408
@@ -288,7 +679,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbfc26e5b95345e8ab23e4bbe60013f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_27
       rect:
         serializedVersion: 2
         x: 1760
@@ -297,7 +699,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71b65a8cbe944db0b1b5a0346f7a3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_28
       rect:
         serializedVersion: 2
         x: 2112
@@ -306,7 +719,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35535979bb8cd4c649446d631eebb400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_29
       rect:
         serializedVersion: 2
         x: 2464
@@ -315,7 +739,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7505f035e6f472a9be3c0b2a22a3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_30
       rect:
         serializedVersion: 2
         x: 2816
@@ -324,7 +759,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05167c0be27143959bc7cfe982c1792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_31
       rect:
         serializedVersion: 2
         x: 3168
@@ -333,7 +779,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ae30193ff3e43d5af7ebdfad76b348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_32
       rect:
         serializedVersion: 2
         x: 3520
@@ -342,7 +799,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2a9ea0550f24c95b6f31622fe54166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_33
       rect:
         serializedVersion: 2
         x: 0
@@ -351,7 +819,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2a8c0fdf634aa480c8228f0d7d35a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_34
       rect:
         serializedVersion: 2
         x: 352
@@ -360,7 +839,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a2c58a415c7450e99b231be4da364f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_35
       rect:
         serializedVersion: 2
         x: 704
@@ -369,7 +859,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f324a651ba743d8bd03ab99ac75218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_36
       rect:
         serializedVersion: 2
         x: 1056
@@ -378,7 +879,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c1c92b1c9c40e497164ebeb022ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_37
       rect:
         serializedVersion: 2
         x: 1408
@@ -387,7 +899,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002095f0b5a0c422f9abbc7c60a9ac2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_38
       rect:
         serializedVersion: 2
         x: 1760
@@ -396,7 +919,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efe430eea0324b0ea301b1f614a0a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_39
       rect:
         serializedVersion: 2
         x: 2112
@@ -405,7 +939,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2601188ea548d7a4aad1e35e7b681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_40
       rect:
         serializedVersion: 2
         x: 2464
@@ -414,7 +959,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526787caef039498b85e962cb47bb8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_41
       rect:
         serializedVersion: 2
         x: 2816
@@ -423,7 +979,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f223162bc44e2eb01fbc9fc875650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_42
       rect:
         serializedVersion: 2
         x: 3168
@@ -432,7 +999,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e62306d33394017afde2f24ec73600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_43
       rect:
         serializedVersion: 2
         x: 3520
@@ -441,7 +1019,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cb316c8703d4cf7b83096b8c25d209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_44
       rect:
         serializedVersion: 2
         x: 0
@@ -450,7 +1039,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b57774855b41dc947ab04e3c2503f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_45
       rect:
         serializedVersion: 2
         x: 352
@@ -459,7 +1059,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d7722af3f5c4131b9b922294dcb867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_46
       rect:
         serializedVersion: 2
         x: 704
@@ -468,7 +1079,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43f7ed9adf9f4323af88b9fb059e376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_47
       rect:
         serializedVersion: 2
         x: 1056
@@ -477,7 +1099,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05be281741cbe4a058223baac522004c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_48
       rect:
         serializedVersion: 2
         x: 1408
@@ -486,7 +1119,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dcf5f7acdcd437cb9437f86f36bfdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_49
       rect:
         serializedVersion: 2
         x: 1760
@@ -495,7 +1139,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182723770198c4543beb8f60ffdd1732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_50
       rect:
         serializedVersion: 2
         x: 2112
@@ -504,7 +1159,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba4ba2cc8ae4c3cb1efcda465b6645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_51
       rect:
         serializedVersion: 2
         x: 2464
@@ -513,7 +1179,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f93c18b499e4adb8297b06bf6d1ef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_52
       rect:
         serializedVersion: 2
         x: 2816
@@ -522,7 +1199,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561b7482511304e2e893b4cbb4aa6f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_53
       rect:
         serializedVersion: 2
         x: 3168
@@ -531,7 +1219,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f201037c313240db9b1067a8d589150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_54
       rect:
         serializedVersion: 2
         x: 3520
@@ -540,7 +1239,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e622a10a2a9504f2587a5fd56f702665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_55
       rect:
         serializedVersion: 2
         x: 0
@@ -549,7 +1259,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92787c5598cd4b4193b4dabcee2afa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_56
       rect:
         serializedVersion: 2
         x: 352
@@ -558,7 +1279,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aaf366a167346bead0585048b87dd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_57
       rect:
         serializedVersion: 2
         x: 704
@@ -567,7 +1299,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3544733bb645d424a8c795661737c925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_58
       rect:
         serializedVersion: 2
         x: 1056
@@ -576,7 +1319,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b45870c51b21486cb18b32187ac5624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_59
       rect:
         serializedVersion: 2
         x: 1408
@@ -585,7 +1339,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72a67053c991449b89bb26b0460f0ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_60
       rect:
         serializedVersion: 2
         x: 1760
@@ -594,7 +1359,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc694ad67ae42058e72438a636d5ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_61
       rect:
         serializedVersion: 2
         x: 2112
@@ -603,7 +1379,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72773256ff81149daa3f578cfb90efb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_62
       rect:
         serializedVersion: 2
         x: 2464
@@ -612,7 +1399,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639b3be0764f4e619d71964bd237360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_63
       rect:
         serializedVersion: 2
         x: 2816
@@ -621,7 +1419,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11465d41f8e4cfa821a206ae52e244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_64
       rect:
         serializedVersion: 2
         x: 3168
@@ -630,7 +1439,18 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: breadcrumbs-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e32913368a444a8dc88c85446702c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: breadcrumbs-frames_65
       rect:
         serializedVersion: 2
         x: 3520
@@ -639,5 +1459,27 @@ TextureImporter:
         height: 326
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d0e958dc0c642bab13efcbc604ecce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

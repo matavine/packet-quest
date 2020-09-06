@@ -1,32 +1,105 @@
 fileFormatVersion: 2
 guid: 1e97e8fa8ed4b884892bf0c30f5fced0
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: cat_jump_fail-frames_0
+    21300002: cat_jump_fail-frames_1
+    21300004: cat_jump_fail-frames_2
+    21300006: cat_jump_fail-frames_3
+    21300008: cat_jump_fail-frames_4
+    21300010: cat_jump_fail-frames_5
+    21300012: cat_jump_fail-frames_6
+    21300014: cat_jump_fail-frames_7
+    21300016: cat_jump_fail-frames_8
+    21300018: cat_jump_fail-frames_9
+    21300020: cat_jump_fail-frames_10
+    21300022: cat_jump_fail-frames_11
+    21300024: cat_jump_fail-frames_12
+    21300026: cat_jump_fail-frames_13
+    21300028: cat_jump_fail-frames_14
+    21300030: cat_jump_fail-frames_15
+    21300032: cat_jump_fail-frames_16
+    21300034: cat_jump_fail-frames_17
+    21300036: cat_jump_fail-frames_18
+    21300038: cat_jump_fail-frames_19
+    21300040: cat_jump_fail-frames_20
+    21300042: cat_jump_fail-frames_21
+    21300044: cat_jump_fail-frames_22
+    21300046: cat_jump_fail-frames_23
+    21300048: cat_jump_fail-frames_24
+    21300050: cat_jump_fail-frames_25
+    21300052: cat_jump_fail-frames_26
+    21300054: cat_jump_fail-frames_27
+    21300056: cat_jump_fail-frames_28
+    21300058: cat_jump_fail-frames_29
+    21300060: cat_jump_fail-frames_30
+    21300062: cat_jump_fail-frames_31
+    21300064: cat_jump_fail-frames_32
+    21300066: cat_jump_fail-frames_33
+    21300068: cat_jump_fail-frames_34
+    21300070: cat_jump_fail-frames_35
+    21300072: cat_jump_fail-frames_36
+    21300074: cat_jump_fail-frames_37
+    21300076: cat_jump_fail-frames_38
+    21300078: cat_jump_fail-frames_39
+    21300080: cat_jump_fail-frames_40
+    21300082: cat_jump_fail-frames_41
+    21300084: cat_jump_fail-frames_42
+    21300086: cat_jump_fail-frames_43
+    21300088: cat_jump_fail-frames_44
+    21300090: cat_jump_fail-frames_45
+    21300092: cat_jump_fail-frames_46
+    21300094: cat_jump_fail-frames_47
+    21300096: cat_jump_fail-frames_48
+    21300098: cat_jump_fail-frames_49
+    21300100: cat_jump_fail-frames_50
+    21300102: cat_jump_fail-frames_51
+    21300104: cat_jump_fail-frames_52
+    21300106: cat_jump_fail-frames_53
+    21300108: cat_jump_fail-frames_54
+    21300110: cat_jump_fail-frames_55
+    21300112: cat_jump_fail-frames_56
+    21300114: cat_jump_fail-frames_57
+    21300116: cat_jump_fail-frames_58
+    21300118: cat_jump_fail-frames_59
+    21300120: cat_jump_fail-frames_60
+    21300122: cat_jump_fail-frames_61
+    21300124: cat_jump_fail-frames_62
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +107,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: cat_jump_fail-frames_0
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +156,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424361d51d08b4d24ac7ec6dc675153a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_1
       rect:
         serializedVersion: 2
         x: 420
@@ -63,7 +176,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0ba2bf0f46944a2a5c405e48cb64c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_2
       rect:
         serializedVersion: 2
         x: 840
@@ -72,7 +196,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88065a808d0a645d5a171b50fb12dbf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_3
       rect:
         serializedVersion: 2
         x: 1260
@@ -81,7 +216,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e4b20fbec1e480b9074639e13ed313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_4
       rect:
         serializedVersion: 2
         x: 1680
@@ -90,7 +236,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5734bd0543d4577a14886508d8ef94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_5
       rect:
         serializedVersion: 2
         x: 2100
@@ -99,7 +256,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6511ee1de94594a743d76936abd6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_6
       rect:
         serializedVersion: 2
         x: 2520
@@ -108,7 +276,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d079a8330ea642e390c70e697596244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_7
       rect:
         serializedVersion: 2
         x: 2940
@@ -117,7 +296,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ed35aff38a946e9ae59d780f1a5eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_8
       rect:
         serializedVersion: 2
         x: 3360
@@ -126,7 +316,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ebd7c90de9b46759d675233cc55ef4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_9
       rect:
         serializedVersion: 2
         x: 0
@@ -135,7 +336,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8a3a669470e4da6a5094aa6fd92f31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_10
       rect:
         serializedVersion: 2
         x: 420
@@ -144,7 +356,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fce814d9dfd642baab3af888a683d36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_11
       rect:
         serializedVersion: 2
         x: 840
@@ -153,7 +376,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4cff02c88604b82be8d8a5b2075254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_12
       rect:
         serializedVersion: 2
         x: 1260
@@ -162,7 +396,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a4f65a27a9e4eb2b767114582961bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_13
       rect:
         serializedVersion: 2
         x: 1680
@@ -171,7 +416,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4d771808774bcd83ca80a13862045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_14
       rect:
         serializedVersion: 2
         x: 2100
@@ -180,7 +436,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a85fae1e36d40df932dc28d3fa4b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_15
       rect:
         serializedVersion: 2
         x: 2520
@@ -189,7 +456,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a11dcb49f7749a5ada8909ba52f287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_16
       rect:
         serializedVersion: 2
         x: 2940
@@ -198,7 +476,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65327700b9b1f4bf5975947c427f01c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_17
       rect:
         serializedVersion: 2
         x: 3360
@@ -207,7 +496,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1138f491937f4480a02eb2f88b155fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_18
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +516,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80d71f6943ad4b39954a804847bbc8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_19
       rect:
         serializedVersion: 2
         x: 420
@@ -225,7 +536,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b0742ff869e480e90d6361e6072327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_20
       rect:
         serializedVersion: 2
         x: 840
@@ -234,7 +556,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dfe5874c4ac475293fa314e50030b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_21
       rect:
         serializedVersion: 2
         x: 1260
@@ -243,7 +576,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e07708d69183449e843717c4b4716d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_22
       rect:
         serializedVersion: 2
         x: 1680
@@ -252,7 +596,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137f024e574b04f68afa6e2cc0178c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_23
       rect:
         serializedVersion: 2
         x: 2100
@@ -261,7 +616,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fb990cc77c8483b8e640e54a4cc2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_24
       rect:
         serializedVersion: 2
         x: 2520
@@ -270,7 +636,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9c74d3eaeb45b6a5eee29406b38a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_25
       rect:
         serializedVersion: 2
         x: 2940
@@ -279,7 +656,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc52a522550084cecb0c07972a09c308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_26
       rect:
         serializedVersion: 2
         x: 3360
@@ -288,7 +676,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c1c62ae3d3408dab08a27f3ce0f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_27
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +696,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d7b989346994ddfbc3994d99ee8001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_28
       rect:
         serializedVersion: 2
         x: 420
@@ -306,7 +716,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f50b60f2c3bd42b39c1392562e6c10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_29
       rect:
         serializedVersion: 2
         x: 840
@@ -315,7 +736,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51ca956b6a394553a9dfc6192db3a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_30
       rect:
         serializedVersion: 2
         x: 1260
@@ -324,7 +756,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c833f868b664a12b707d1a4b289caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_31
       rect:
         serializedVersion: 2
         x: 1680
@@ -333,7 +776,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f4d705468f347b09c71c29fc3a64fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_32
       rect:
         serializedVersion: 2
         x: 2100
@@ -342,7 +796,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7aaf269c3ac4b18a537eba8dcd979c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_33
       rect:
         serializedVersion: 2
         x: 2520
@@ -351,7 +816,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e473558ad11a4483922c183eadad364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_34
       rect:
         serializedVersion: 2
         x: 2940
@@ -360,7 +836,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5260465e6059d4c33ad62171bce040bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_35
       rect:
         serializedVersion: 2
         x: 3360
@@ -369,7 +856,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d11cf34aab406fad760a2c2673be2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +876,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae49896eec1344727bf2e958eb98560c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_37
       rect:
         serializedVersion: 2
         x: 420
@@ -387,7 +896,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9692b7092b1db45cd8366a1568834dce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_38
       rect:
         serializedVersion: 2
         x: 840
@@ -396,7 +916,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00770683bd04647f98020b0083fe814a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_39
       rect:
         serializedVersion: 2
         x: 1260
@@ -405,7 +936,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978a774071004ceea8628a8ece1ab4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_40
       rect:
         serializedVersion: 2
         x: 1680
@@ -414,7 +956,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109af418b93154de7b152a5ad5c0989f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_41
       rect:
         serializedVersion: 2
         x: 2100
@@ -423,7 +976,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4803bcedc890432a8c8b753efa24ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_42
       rect:
         serializedVersion: 2
         x: 2520
@@ -432,7 +996,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755028425270e4734bb7fde7eb4e1436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_43
       rect:
         serializedVersion: 2
         x: 2940
@@ -441,7 +1016,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7595b0539c54c498a1b605a7c44123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_44
       rect:
         serializedVersion: 2
         x: 3360
@@ -450,7 +1036,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41a60b941f1347f08b6234dda096237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_45
       rect:
         serializedVersion: 2
         x: 0
@@ -459,7 +1056,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213c46da4e0e64c9c9e93d8fae5d228c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_46
       rect:
         serializedVersion: 2
         x: 420
@@ -468,7 +1076,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb595b0d85a4919b9de69e422ba115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_47
       rect:
         serializedVersion: 2
         x: 840
@@ -477,7 +1096,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c46063a9a78a4b21ab9905f6bd67f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_48
       rect:
         serializedVersion: 2
         x: 1260
@@ -486,7 +1116,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae324b03ebc5b4a619977e9aa6a2264c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_49
       rect:
         serializedVersion: 2
         x: 1680
@@ -495,7 +1136,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2497cb901e1d14da1be90570042cdbfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_50
       rect:
         serializedVersion: 2
         x: 2100
@@ -504,7 +1156,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b4b8ca3f6e40af95caacf37717d21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_51
       rect:
         serializedVersion: 2
         x: 2520
@@ -513,7 +1176,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e63a16748d746339ca065ce22b1532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_52
       rect:
         serializedVersion: 2
         x: 2940
@@ -522,7 +1196,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df405fa5c94f549c1948e9db94984f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_53
       rect:
         serializedVersion: 2
         x: 3360
@@ -531,7 +1216,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aceae59e11094c2cb1afa2167a1eb06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_54
       rect:
         serializedVersion: 2
         x: 0
@@ -540,7 +1236,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9637e03075b2464b8110a9978073c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_55
       rect:
         serializedVersion: 2
         x: 420
@@ -549,7 +1256,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9443ed5b4ee704c6ca17e71d8266a342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_56
       rect:
         serializedVersion: 2
         x: 840
@@ -558,7 +1276,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7223daa3aa44c91ab5414680aa2ae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_57
       rect:
         serializedVersion: 2
         x: 1260
@@ -567,7 +1296,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305cfbac67d4bd4b4d181975fa4032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_58
       rect:
         serializedVersion: 2
         x: 1680
@@ -576,7 +1316,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1a5447e23ed4e4fa46a44b75330cae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_59
       rect:
         serializedVersion: 2
         x: 2100
@@ -585,7 +1336,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8406ad8db91234931a41ef4b7535bdf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_60
       rect:
         serializedVersion: 2
         x: 2520
@@ -594,7 +1356,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a7c9d8bbfe41c2a9aeb502f4f5b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_61
       rect:
         serializedVersion: 2
         x: 2940
@@ -603,7 +1376,18 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_jump_fail-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef08225cb71c041aeb720e29efed927d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_jump_fail-frames_62
       rect:
         serializedVersion: 2
         x: 3360
@@ -612,5 +1396,27 @@ TextureImporter:
         height: 262
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c0107cb45f2438984b0c4307229533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

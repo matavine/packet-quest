@@ -1,32 +1,87 @@
 fileFormatVersion: 2
 guid: 70d3cd09dbb867c48825d99e80a5d9ef
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: confusion_and_disgust-frames_0
+    21300002: confusion_and_disgust-frames_1
+    21300004: confusion_and_disgust-frames_2
+    21300006: confusion_and_disgust-frames_3
+    21300008: confusion_and_disgust-frames_4
+    21300010: confusion_and_disgust-frames_5
+    21300012: confusion_and_disgust-frames_6
+    21300014: confusion_and_disgust-frames_7
+    21300016: confusion_and_disgust-frames_8
+    21300018: confusion_and_disgust-frames_9
+    21300020: confusion_and_disgust-frames_10
+    21300022: confusion_and_disgust-frames_11
+    21300024: confusion_and_disgust-frames_12
+    21300026: confusion_and_disgust-frames_13
+    21300028: confusion_and_disgust-frames_14
+    21300030: confusion_and_disgust-frames_15
+    21300032: confusion_and_disgust-frames_16
+    21300034: confusion_and_disgust-frames_17
+    21300036: confusion_and_disgust-frames_18
+    21300038: confusion_and_disgust-frames_19
+    21300040: confusion_and_disgust-frames_20
+    21300042: confusion_and_disgust-frames_21
+    21300044: confusion_and_disgust-frames_22
+    21300046: confusion_and_disgust-frames_23
+    21300048: confusion_and_disgust-frames_24
+    21300050: confusion_and_disgust-frames_25
+    21300052: confusion_and_disgust-frames_26
+    21300054: confusion_and_disgust-frames_27
+    21300056: confusion_and_disgust-frames_28
+    21300058: confusion_and_disgust-frames_29
+    21300060: confusion_and_disgust-frames_30
+    21300062: confusion_and_disgust-frames_31
+    21300064: confusion_and_disgust-frames_32
+    21300066: confusion_and_disgust-frames_33
+    21300068: confusion_and_disgust-frames_34
+    21300070: confusion_and_disgust-frames_35
+    21300072: confusion_and_disgust-frames_36
+    21300074: confusion_and_disgust-frames_37
+    21300076: confusion_and_disgust-frames_38
+    21300078: confusion_and_disgust-frames_39
+    21300080: confusion_and_disgust-frames_40
+    21300082: confusion_and_disgust-frames_41
+    21300084: confusion_and_disgust-frames_42
+    21300086: confusion_and_disgust-frames_43
+    21300088: confusion_and_disgust-frames_44
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +89,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: confusion_and_disgust-frames_0
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +138,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c9096ac4f7c4672bfbd4bbb0b98e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_1
       rect:
         serializedVersion: 2
         x: 400
@@ -63,7 +158,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee7f82ed285d42079ed7f125abec9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_2
       rect:
         serializedVersion: 2
         x: 800
@@ -72,7 +178,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695e08a7d3f184f6ba603fd87f3c7047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_3
       rect:
         serializedVersion: 2
         x: 1200
@@ -81,7 +198,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be1ceb3a13b440cab06e786848f8162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_4
       rect:
         serializedVersion: 2
         x: 1600
@@ -90,7 +218,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba645ef6268854326af24b83ca0c2349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_5
       rect:
         serializedVersion: 2
         x: 2000
@@ -99,7 +238,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e29cdc1d8764672a0c838329041f66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_6
       rect:
         serializedVersion: 2
         x: 2400
@@ -108,7 +258,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac1ddba98044547afe3c10e4dd3569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_7
       rect:
         serializedVersion: 2
         x: 2800
@@ -117,7 +278,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407cc4022dc9d4f42942569bf6438114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_8
       rect:
         serializedVersion: 2
         x: 3200
@@ -126,7 +298,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1cfc708ec374dfcbecb6efc6448bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_9
       rect:
         serializedVersion: 2
         x: 0
@@ -135,7 +318,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ed6d43d94704066a878828b5cbaaae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_10
       rect:
         serializedVersion: 2
         x: 400
@@ -144,7 +338,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396bea14939a4101a16c101d5f99695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_11
       rect:
         serializedVersion: 2
         x: 800
@@ -153,7 +358,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737e35f94737a4d30818067da195a9c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_12
       rect:
         serializedVersion: 2
         x: 1200
@@ -162,7 +378,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e04bf40432a4ed8a63b91ba4ceb05d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_13
       rect:
         serializedVersion: 2
         x: 1600
@@ -171,7 +398,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c124c118f6fdf4e25bea423a6e25cac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_14
       rect:
         serializedVersion: 2
         x: 2000
@@ -180,7 +418,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c829fbe1cb1d4abbada55fb20515991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_15
       rect:
         serializedVersion: 2
         x: 2400
@@ -189,7 +438,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02bf9d62c654d4358b5f409d012a1311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_16
       rect:
         serializedVersion: 2
         x: 2800
@@ -198,7 +458,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaa6992e9b4e41969f3afa7e23bd3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_17
       rect:
         serializedVersion: 2
         x: 3200
@@ -207,7 +478,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0201bb6e5ce19441fa5515ca11974c8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_18
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +498,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538f13a180204478cb8bac5a1c202511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_19
       rect:
         serializedVersion: 2
         x: 400
@@ -225,7 +518,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f37c38bdda41fdb4ee2d2f682aa52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_20
       rect:
         serializedVersion: 2
         x: 800
@@ -234,7 +538,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7acddbce42a1461abb5fe79f4d085c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_21
       rect:
         serializedVersion: 2
         x: 1200
@@ -243,7 +558,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25a13c325464374ab5efd9ec07ea6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_22
       rect:
         serializedVersion: 2
         x: 1600
@@ -252,7 +578,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ea35b6c907a46feafae46b55ef86a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_23
       rect:
         serializedVersion: 2
         x: 2000
@@ -261,7 +598,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d900d5f085045298bcfaea1c7c05fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_24
       rect:
         serializedVersion: 2
         x: 2400
@@ -270,7 +618,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe13e61f7bad4fb9aa2429307f9b21e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_25
       rect:
         serializedVersion: 2
         x: 2800
@@ -279,7 +638,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2800eb688518643a083dfb247bd48e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_26
       rect:
         serializedVersion: 2
         x: 3200
@@ -288,7 +658,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4314b135b9ee428a891315c5a53232b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_27
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +678,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73648a6dde1254684a95317c68c7e20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_28
       rect:
         serializedVersion: 2
         x: 400
@@ -306,7 +698,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43355b846a1964f72ba7f3d56a1e0b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_29
       rect:
         serializedVersion: 2
         x: 800
@@ -315,7 +718,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae76b9d72ba44798a607e2307da237a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_30
       rect:
         serializedVersion: 2
         x: 1200
@@ -324,7 +738,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218ab68b640bc43b0b50c78cdcabeb61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_31
       rect:
         serializedVersion: 2
         x: 1600
@@ -333,7 +758,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504756d1a1f6f48e1b6022001d6aa2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_32
       rect:
         serializedVersion: 2
         x: 2000
@@ -342,7 +778,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41bba17ff31040afb9987270c69fba8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_33
       rect:
         serializedVersion: 2
         x: 2400
@@ -351,7 +798,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e295a622d22c64ea9ae859d207bc7e84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_34
       rect:
         serializedVersion: 2
         x: 2800
@@ -360,7 +818,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc39a22372f9494c96434ca2c63b441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_35
       rect:
         serializedVersion: 2
         x: 3200
@@ -369,7 +838,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4261898ddfa8c431791cda1029b57ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +858,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7312c0af8443240209122144b5333f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_37
       rect:
         serializedVersion: 2
         x: 400
@@ -387,7 +878,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e835ff1d32e44de8e6123488787bdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_38
       rect:
         serializedVersion: 2
         x: 800
@@ -396,7 +898,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007a41fbe43a04fb990a8df2f9a16179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_39
       rect:
         serializedVersion: 2
         x: 1200
@@ -405,7 +918,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d0efff2de8b4ca2bd9a1e73d983909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_40
       rect:
         serializedVersion: 2
         x: 1600
@@ -414,7 +938,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7ae3040df8d411bb430603d082195d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_41
       rect:
         serializedVersion: 2
         x: 2000
@@ -423,7 +958,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905870b3cadc8449a93c9de41cf965b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_42
       rect:
         serializedVersion: 2
         x: 2400
@@ -432,7 +978,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5c74f104c0346819e31cc9f8e277b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_43
       rect:
         serializedVersion: 2
         x: 2800
@@ -441,7 +998,18 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: confusion_and_disgust-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c48be481f88452c8a1b697f8079a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: confusion_and_disgust-frames_44
       rect:
         serializedVersion: 2
         x: 3200
@@ -450,5 +1018,27 @@ TextureImporter:
         height: 226
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc47314854f4d319d9ac99631b0204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

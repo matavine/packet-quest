@@ -1,32 +1,64 @@
 fileFormatVersion: 2
 guid: 87942fe93720006498413a585f8aa458
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: i_lied-frames_0
+    21300002: i_lied-frames_1
+    21300004: i_lied-frames_2
+    21300006: i_lied-frames_3
+    21300008: i_lied-frames_4
+    21300010: i_lied-frames_5
+    21300012: i_lied-frames_6
+    21300014: i_lied-frames_7
+    21300016: i_lied-frames_8
+    21300018: i_lied-frames_9
+    21300020: i_lied-frames_10
+    21300022: i_lied-frames_11
+    21300024: i_lied-frames_12
+    21300026: i_lied-frames_13
+    21300028: i_lied-frames_14
+    21300030: i_lied-frames_15
+    21300032: i_lied-frames_16
+    21300034: i_lied-frames_17
+    21300036: i_lied-frames_18
+    21300038: i_lied-frames_19
+    21300040: i_lied-frames_20
+    21300042: i_lied-frames_21
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +66,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: i_lied-frames_0
+    - serializedVersion: 2
+      name: i_lied-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +115,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7de4418ae544b7fb56a665fa2319b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_1
       rect:
         serializedVersion: 2
         x: 360
@@ -63,7 +135,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d0f5847dedb4252a8ee86ceaeab346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_2
       rect:
         serializedVersion: 2
         x: 720
@@ -72,7 +155,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08065ee503fcd40898c73601322577a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_3
       rect:
         serializedVersion: 2
         x: 1080
@@ -81,7 +175,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1bd5e3af0e647c1ac5ff7be21749db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_4
       rect:
         serializedVersion: 2
         x: 1440
@@ -90,7 +195,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4aec2af7e510463babf90df348f31a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_5
       rect:
         serializedVersion: 2
         x: 1800
@@ -99,7 +215,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350f153e8e8e425dbd10b4aba688388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_6
       rect:
         serializedVersion: 2
         x: 2160
@@ -108,7 +235,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8c473616a54f4693209068be3f62d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_7
       rect:
         serializedVersion: 2
         x: 2520
@@ -117,7 +255,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7ea113fed74a95b1400c271057199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_8
       rect:
         serializedVersion: 2
         x: 2880
@@ -126,7 +275,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591085ecc89e5443b9f5871d376c3e6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_9
       rect:
         serializedVersion: 2
         x: 3240
@@ -135,7 +295,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab3558be9a94661929e16371347673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_10
       rect:
         serializedVersion: 2
         x: 3600
@@ -144,7 +315,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0960efcaf50db4876b5ae891f6d548e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_11
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +335,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e89ef2363f42679eb75621bd54039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_12
       rect:
         serializedVersion: 2
         x: 360
@@ -162,7 +355,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1bc2672ccb64ceb956df96ef8069e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_13
       rect:
         serializedVersion: 2
         x: 720
@@ -171,7 +375,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c755922c52e3443ca9d6877fd573c99b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_14
       rect:
         serializedVersion: 2
         x: 1080
@@ -180,7 +395,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6420e9aca104181ad1fe5963dec3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_15
       rect:
         serializedVersion: 2
         x: 1440
@@ -189,7 +415,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b404e1443b3fa439ab737a242013eb5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_16
       rect:
         serializedVersion: 2
         x: 1800
@@ -198,7 +435,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafc6818a29b547d689c9e0e228c0dac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_17
       rect:
         serializedVersion: 2
         x: 2160
@@ -207,7 +455,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c17dc4efd544fda309816e1429fdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_18
       rect:
         serializedVersion: 2
         x: 2520
@@ -216,7 +475,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3baaa3a164c446fa206c801431eb2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_19
       rect:
         serializedVersion: 2
         x: 2880
@@ -225,7 +495,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be56e007cc14ae1a2e1b8b09c98f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_20
       rect:
         serializedVersion: 2
         x: 3240
@@ -234,7 +515,18 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: i_lied-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32f10d408d14973b558e49bf042f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: i_lied-frames_21
       rect:
         serializedVersion: 2
         x: 3600
@@ -243,5 +535,27 @@ TextureImporter:
         height: 225
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba796d1eec54b408da8b1f749b9aef79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

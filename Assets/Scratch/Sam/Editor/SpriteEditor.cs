@@ -34,11 +34,11 @@ public class SpriteEditor : EditorWindow {
 	void CreateSprite() {
 		GameObject sprite = (GameObject) Instantiate(m_spriteObj, m_spritePos, Quaternion.Euler(m_angle));
 		sprite.name = m_name;
-		Material material = new Material(sprite.renderer.sharedMaterial);
+		Material material = new Material(sprite.GetComponent<Renderer>().sharedMaterial);
 		material.color = new Color(1,1,1,1);
 		material.mainTexture = m_image;
 		material.shader = m_shader;
-		sprite.renderer.sharedMaterial = material;
+		sprite.GetComponent<Renderer>().sharedMaterial = material;
 		
 		AnimatedTexture animatedTexture = (AnimatedTexture)sprite.GetComponent(typeof(AnimatedTexture));
 		animatedTexture._columns = m_cols;

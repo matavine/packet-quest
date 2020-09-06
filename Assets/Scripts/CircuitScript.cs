@@ -17,7 +17,7 @@ public class CircuitScript : MonoBehaviour {
 	public static float propogationDelay = 0.01f;
 
 	public void Start() {
-		renderer.material.color = circuitEnabled ? onColor : offColor;
+		GetComponent<Renderer>().material.color = circuitEnabled ? onColor : offColor;
 	}
 
 	public void SignalCircuit(CircuitParams circuit) {
@@ -30,10 +30,10 @@ public class CircuitScript : MonoBehaviour {
 	public IEnumerator SendSignalRoutine(CircuitParams circuit) {
 		yield return new WaitForSeconds(propogationDelay);
 
-		SendCircuitSignal(gameObject, (BoxCollider2D)collider2D, circuit);
+		SendCircuitSignal(gameObject, (BoxCollider2D)GetComponent<Collider2D>(), circuit);
 		
 		circuitEnabled = !circuitEnabled;
-		renderer.material.color = circuitEnabled ? onColor : offColor;
+		GetComponent<Renderer>().material.color = circuitEnabled ? onColor : offColor;
 	}
 
 	public static void SendCircuitSignal(GameObject source, BoxCollider2D sourceCollider, CircuitParams circuit) {
@@ -43,14 +43,14 @@ public class CircuitScript : MonoBehaviour {
 		Vector2 down = pos - new Vector2(0, sourceCollider.size.y);
 		Vector2 left = pos - new Vector2(sourceCollider.size.x, 0);
 
-		bool hitTriggers = Physics2D.raycastsHitTriggers;
-		Physics2D.raycastsHitTriggers = true;
+		bool hitTriggers = Physics2D.queriesHitTriggers;
+		Physics2D.queriesHitTriggers = true;
 		List<Collider2D> colliders = new List<Collider2D>();
 		colliders.AddRange(Physics2D.OverlapPointAll(up));
 		colliders.AddRange(Physics2D.OverlapPointAll(right));
 		colliders.AddRange(Physics2D.OverlapPointAll(down));
 		colliders.AddRange(Physics2D.OverlapPointAll(left));
-		Physics2D.raycastsHitTriggers = hitTriggers;
+		Physics2D.queriesHitTriggers = hitTriggers;
 
 		if (source) {
 			circuit.PowerLine.Add(source);

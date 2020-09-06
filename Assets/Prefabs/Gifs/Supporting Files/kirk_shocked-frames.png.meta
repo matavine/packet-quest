@@ -1,32 +1,90 @@
 fileFormatVersion: 2
 guid: 7e82ba7156780534db3954801e1f5c5d
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: kirk_shocked-frames_0
+    21300002: kirk_shocked-frames_1
+    21300004: kirk_shocked-frames_2
+    21300006: kirk_shocked-frames_3
+    21300008: kirk_shocked-frames_4
+    21300010: kirk_shocked-frames_5
+    21300012: kirk_shocked-frames_6
+    21300014: kirk_shocked-frames_7
+    21300016: kirk_shocked-frames_8
+    21300018: kirk_shocked-frames_9
+    21300020: kirk_shocked-frames_10
+    21300022: kirk_shocked-frames_11
+    21300024: kirk_shocked-frames_12
+    21300026: kirk_shocked-frames_13
+    21300028: kirk_shocked-frames_14
+    21300030: kirk_shocked-frames_15
+    21300032: kirk_shocked-frames_16
+    21300034: kirk_shocked-frames_17
+    21300036: kirk_shocked-frames_18
+    21300038: kirk_shocked-frames_19
+    21300040: kirk_shocked-frames_20
+    21300042: kirk_shocked-frames_21
+    21300044: kirk_shocked-frames_22
+    21300046: kirk_shocked-frames_23
+    21300048: kirk_shocked-frames_24
+    21300050: kirk_shocked-frames_25
+    21300052: kirk_shocked-frames_26
+    21300054: kirk_shocked-frames_27
+    21300056: kirk_shocked-frames_28
+    21300058: kirk_shocked-frames_29
+    21300060: kirk_shocked-frames_30
+    21300062: kirk_shocked-frames_31
+    21300064: kirk_shocked-frames_32
+    21300066: kirk_shocked-frames_33
+    21300068: kirk_shocked-frames_34
+    21300070: kirk_shocked-frames_35
+    21300072: kirk_shocked-frames_36
+    21300074: kirk_shocked-frames_37
+    21300076: kirk_shocked-frames_38
+    21300078: kirk_shocked-frames_39
+    21300080: kirk_shocked-frames_40
+    21300082: kirk_shocked-frames_41
+    21300084: kirk_shocked-frames_42
+    21300086: kirk_shocked-frames_43
+    21300088: kirk_shocked-frames_44
+    21300090: kirk_shocked-frames_45
+    21300092: kirk_shocked-frames_46
+    21300094: kirk_shocked-frames_47
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +92,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: kirk_shocked-frames_0
+    - serializedVersion: 2
+      name: kirk_shocked-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +141,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cfdcff3d20746ac8b9a0e16c2ca57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_1
       rect:
         serializedVersion: 2
         x: 245
@@ -63,7 +161,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3343fc5ca22142d48b2d8fffda24367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_2
       rect:
         serializedVersion: 2
         x: 490
@@ -72,7 +181,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc3adf416134464a319efa0785c48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_3
       rect:
         serializedVersion: 2
         x: 735
@@ -81,7 +201,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c090eacf4c874fa0855c49322d6a4b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_4
       rect:
         serializedVersion: 2
         x: 980
@@ -90,7 +221,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf628b1b913b466aa86a6e048bdb4ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_5
       rect:
         serializedVersion: 2
         x: 1225
@@ -99,7 +241,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a0ff7927a2c4ea7ae8fd2ee9b72ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_6
       rect:
         serializedVersion: 2
         x: 1470
@@ -108,7 +261,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b7064ece7af4985997db9de35ec12b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_7
       rect:
         serializedVersion: 2
         x: 1715
@@ -117,7 +281,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4864691a3b203483ea1d0d30bfa0f21b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_8
       rect:
         serializedVersion: 2
         x: 1960
@@ -126,7 +301,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0278b52be36490e89a89eabf3944fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_9
       rect:
         serializedVersion: 2
         x: 2205
@@ -135,7 +321,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82edddb3253784eeb9b16228081ea2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_10
       rect:
         serializedVersion: 2
         x: 2450
@@ -144,7 +341,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec966f956bc4e463e8d33b5af5207859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_11
       rect:
         serializedVersion: 2
         x: 2695
@@ -153,7 +361,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa58783ef9764376bc4a4daffef382b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_12
       rect:
         serializedVersion: 2
         x: 2940
@@ -162,7 +381,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f832581090f6448be8e87e98bfe1e3c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_13
       rect:
         serializedVersion: 2
         x: 3185
@@ -171,7 +401,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a4419bf9414e89882e23e69698398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_14
       rect:
         serializedVersion: 2
         x: 3430
@@ -180,7 +421,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9450e40b81646f3b3408b792d4d4d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_15
       rect:
         serializedVersion: 2
         x: 3675
@@ -189,7 +441,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3683a1ad936d4998904ecaec1062763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +461,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e608c353c4d74690b4ee3b4d2b898ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_17
       rect:
         serializedVersion: 2
         x: 245
@@ -207,7 +481,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b75930b947e4a36bb3137b5381055f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_18
       rect:
         serializedVersion: 2
         x: 490
@@ -216,7 +501,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf32920ee5f2455fba1f83e9fa1bc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_19
       rect:
         serializedVersion: 2
         x: 735
@@ -225,7 +521,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386415cbff7e24aa5b24ab14524e093f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_20
       rect:
         serializedVersion: 2
         x: 980
@@ -234,7 +541,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d74477ee8ec4d94b9546a1eb6c6618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_21
       rect:
         serializedVersion: 2
         x: 1225
@@ -243,7 +561,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9911f0c0ae35424abc45ce1e35d0880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_22
       rect:
         serializedVersion: 2
         x: 1470
@@ -252,7 +581,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb27f2f3de931469ca865b63f280636c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_23
       rect:
         serializedVersion: 2
         x: 1715
@@ -261,7 +601,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1960006650d46b099e43d6e442a289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_24
       rect:
         serializedVersion: 2
         x: 1960
@@ -270,7 +621,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d5b5eeeacb242d18a646c08d10d2b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_25
       rect:
         serializedVersion: 2
         x: 2205
@@ -279,7 +641,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76edcb33827db4fdba47565eb20157d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_26
       rect:
         serializedVersion: 2
         x: 2450
@@ -288,7 +661,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549a1ee7f4474c7ab2947ffde8ce5d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_27
       rect:
         serializedVersion: 2
         x: 2695
@@ -297,7 +681,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39968f9ac72d347929ab1e29711338dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_28
       rect:
         serializedVersion: 2
         x: 2940
@@ -306,7 +701,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4290019f4a964dfabfab56a014d0afe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_29
       rect:
         serializedVersion: 2
         x: 3185
@@ -315,7 +721,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd5732a38be4d9a91cf4561bbab0df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_30
       rect:
         serializedVersion: 2
         x: 3430
@@ -324,7 +741,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50eb5232da27456c881e6dd9894fbd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_31
       rect:
         serializedVersion: 2
         x: 3675
@@ -333,7 +761,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073a5f9b252d449faaabd6b13e254fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_32
       rect:
         serializedVersion: 2
         x: 0
@@ -342,7 +781,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62839f94f01114abf9f7d9284b876444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_33
       rect:
         serializedVersion: 2
         x: 245
@@ -351,7 +801,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3bb51757b3467fb4f8a53e74d1c96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_34
       rect:
         serializedVersion: 2
         x: 490
@@ -360,7 +821,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a293b85ad54929ae388da0998d3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_35
       rect:
         serializedVersion: 2
         x: 735
@@ -369,7 +841,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1818ed00f2241088d24892e0973546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_36
       rect:
         serializedVersion: 2
         x: 980
@@ -378,7 +861,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4144db9db364d0dbec0b631944d573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_37
       rect:
         serializedVersion: 2
         x: 1225
@@ -387,7 +881,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd28fa711f1b143549ec3b362cfae3bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_38
       rect:
         serializedVersion: 2
         x: 1470
@@ -396,7 +901,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c1e338e51964b29b3da50b3b340450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_39
       rect:
         serializedVersion: 2
         x: 1715
@@ -405,7 +921,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3bd44978df4bdbb714630e44c50a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_40
       rect:
         serializedVersion: 2
         x: 1960
@@ -414,7 +941,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffeba1fb434a4f089471c5761368551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_41
       rect:
         serializedVersion: 2
         x: 2205
@@ -423,7 +961,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954bb8fd553ea4d5f88ca6ad8d6597bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_42
       rect:
         serializedVersion: 2
         x: 2450
@@ -432,7 +981,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17dd38bf6b834dc8b477269b093d490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_43
       rect:
         serializedVersion: 2
         x: 2695
@@ -441,7 +1001,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed91c281481748c6ae3b07619a31586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_44
       rect:
         serializedVersion: 2
         x: 2940
@@ -450,7 +1021,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25ee52f01f31448b80844ede124b457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_45
       rect:
         serializedVersion: 2
         x: 3185
@@ -459,7 +1041,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f444c9b9133f49708f0fe4e580186ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_46
       rect:
         serializedVersion: 2
         x: 3430
@@ -468,7 +1061,18 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: kirk_shocked-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf1a4f695bb4f62b83c704cdcebc9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirk_shocked-frames_47
       rect:
         serializedVersion: 2
         x: 3675
@@ -477,5 +1081,27 @@ TextureImporter:
         height: 184
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb412301f4dd0464d8ad4016de62d892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

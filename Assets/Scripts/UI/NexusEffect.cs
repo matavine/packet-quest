@@ -62,7 +62,7 @@ public class NexusEffect : MonoBehaviour {
 		public NexusBeam(float scale, float width) {
 			quad = GameObject.CreatePrimitive(PrimitiveType.Quad);
 			quad.SetActive(false);
-			quad.renderer.material = new Material(Shader.Find(BEAM_SHADER));
+			quad.GetComponent<Renderer>().material = new Material(Shader.Find(BEAM_SHADER));
 			quad.transform.localScale = new Vector3(scale, scale, 1.0f);
 			quad.transform.position = Vector3.zero;
 			this.width = width;
@@ -79,7 +79,7 @@ public class NexusEffect : MonoBehaviour {
 		}
 
 		public void SetColor(Color color) {
-			quad.renderer.material.color = color;
+			quad.GetComponent<Renderer>().material.color = color;
 			trail.SetColors(new Color(color.r, color.g, color.b, TRAIL_ALPHA), Color.clear);
 		}
 
@@ -159,7 +159,7 @@ public class NexusEffect : MonoBehaviour {
 	}
 
 	private Vector2 GetCameraExtents() {
-		return new Vector2(camera.orthographicSize * camera.aspect, camera.orthographicSize);
+		return new Vector2(GetComponent<Camera>().orthographicSize * GetComponent<Camera>().aspect, GetComponent<Camera>().orthographicSize);
 	}
 
 	private bool IsOutOfCameraBounds(NexusBeam beam) {
@@ -167,13 +167,13 @@ public class NexusEffect : MonoBehaviour {
 		float xLimit = cameraExtents.x + SCREEN_OFFSET_BUFFER + width;
 		float yLimit = cameraExtents.y + SCREEN_OFFSET_BUFFER + width;
 
-		Vector3 cameraToBeam = beam.quad.transform.position - camera.transform.position;
+		Vector3 cameraToBeam = beam.quad.transform.position - GetComponent<Camera>().transform.position;
 		return (Mathf.Abs(cameraToBeam.x) >= xLimit || Mathf.Abs(cameraToBeam.y) >= yLimit);
 	}
 
 	private Vector3 GetRandomStartingPos(CameraSide side) {
 		Vector2 cameraExtents = GetCameraExtents();
-		Vector3 cameraPos = new Vector3(camera.transform.position.x, camera.transform.position.y, 0);
+		Vector3 cameraPos = new Vector3(GetComponent<Camera>().transform.position.x, GetComponent<Camera>().transform.position.y, 0);
 		
 		float randXPos = Random.Range(-cameraExtents.x, cameraExtents.x) * CAMERA_BOUNDS_THRESHOLD;
 		float randYPos = Random.Range(-cameraExtents.y, cameraExtents.y) * CAMERA_BOUNDS_THRESHOLD;

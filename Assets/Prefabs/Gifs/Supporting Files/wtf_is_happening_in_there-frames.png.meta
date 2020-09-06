@@ -1,32 +1,120 @@
 fileFormatVersion: 2
 guid: d6fd0334f492ea641b93f799c314997f
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: wft_is_happening_in_there-frames_0
+    21300002: wft_is_happening_in_there-frames_1
+    21300004: wft_is_happening_in_there-frames_2
+    21300006: wft_is_happening_in_there-frames_3
+    21300008: wft_is_happening_in_there-frames_4
+    21300010: wft_is_happening_in_there-frames_5
+    21300012: wft_is_happening_in_there-frames_6
+    21300014: wft_is_happening_in_there-frames_7
+    21300016: wft_is_happening_in_there-frames_8
+    21300018: wft_is_happening_in_there-frames_9
+    21300020: wft_is_happening_in_there-frames_10
+    21300022: wft_is_happening_in_there-frames_11
+    21300024: wft_is_happening_in_there-frames_12
+    21300026: wft_is_happening_in_there-frames_13
+    21300028: wft_is_happening_in_there-frames_14
+    21300030: wft_is_happening_in_there-frames_15
+    21300032: wft_is_happening_in_there-frames_16
+    21300034: wft_is_happening_in_there-frames_17
+    21300036: wft_is_happening_in_there-frames_18
+    21300038: wft_is_happening_in_there-frames_19
+    21300040: wft_is_happening_in_there-frames_20
+    21300042: wft_is_happening_in_there-frames_21
+    21300044: wft_is_happening_in_there-frames_22
+    21300046: wft_is_happening_in_there-frames_23
+    21300048: wft_is_happening_in_there-frames_24
+    21300050: wft_is_happening_in_there-frames_25
+    21300052: wft_is_happening_in_there-frames_26
+    21300054: wft_is_happening_in_there-frames_27
+    21300056: wft_is_happening_in_there-frames_28
+    21300058: wft_is_happening_in_there-frames_29
+    21300060: wft_is_happening_in_there-frames_30
+    21300062: wft_is_happening_in_there-frames_31
+    21300064: wft_is_happening_in_there-frames_32
+    21300066: wft_is_happening_in_there-frames_33
+    21300068: wft_is_happening_in_there-frames_34
+    21300070: wft_is_happening_in_there-frames_35
+    21300072: wft_is_happening_in_there-frames_36
+    21300074: wft_is_happening_in_there-frames_37
+    21300076: wft_is_happening_in_there-frames_38
+    21300078: wft_is_happening_in_there-frames_39
+    21300080: wft_is_happening_in_there-frames_40
+    21300082: wft_is_happening_in_there-frames_41
+    21300084: wft_is_happening_in_there-frames_42
+    21300086: wft_is_happening_in_there-frames_43
+    21300088: wft_is_happening_in_there-frames_44
+    21300090: wft_is_happening_in_there-frames_45
+    21300092: wft_is_happening_in_there-frames_46
+    21300094: wft_is_happening_in_there-frames_47
+    21300096: wft_is_happening_in_there-frames_48
+    21300098: wft_is_happening_in_there-frames_49
+    21300100: wft_is_happening_in_there-frames_50
+    21300102: wft_is_happening_in_there-frames_51
+    21300104: wft_is_happening_in_there-frames_52
+    21300106: wft_is_happening_in_there-frames_53
+    21300108: wft_is_happening_in_there-frames_54
+    21300110: wft_is_happening_in_there-frames_55
+    21300112: wft_is_happening_in_there-frames_56
+    21300114: wft_is_happening_in_there-frames_57
+    21300116: wft_is_happening_in_there-frames_58
+    21300118: wft_is_happening_in_there-frames_59
+    21300120: wft_is_happening_in_there-frames_60
+    21300122: wft_is_happening_in_there-frames_61
+    21300124: wft_is_happening_in_there-frames_62
+    21300126: wft_is_happening_in_there-frames_63
+    21300128: wft_is_happening_in_there-frames_64
+    21300130: wft_is_happening_in_there-frames_65
+    21300132: wft_is_happening_in_there-frames_66
+    21300134: wft_is_happening_in_there-frames_67
+    21300136: wft_is_happening_in_there-frames_68
+    21300138: wft_is_happening_in_there-frames_69
+    21300140: wft_is_happening_in_there-frames_70
+    21300142: wft_is_happening_in_there-frames_71
+    21300144: wft_is_happening_in_there-frames_72
+    21300146: wft_is_happening_in_there-frames_73
+    21300148: wft_is_happening_in_there-frames_74
+    21300150: wft_is_happening_in_there-frames_75
+    21300152: wft_is_happening_in_there-frames_76
+    21300154: wft_is_happening_in_there-frames_77
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +122,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: wft_is_happening_in_there-frames_0
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +171,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061db38bcbe3648ab9a0d3c3b8212fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_1
       rect:
         serializedVersion: 2
         x: 300
@@ -63,7 +191,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a083d778a03944fdfab457d79778208c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_2
       rect:
         serializedVersion: 2
         x: 600
@@ -72,7 +211,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b0bf7f0bcf34f5eabe23cf0e460c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_3
       rect:
         serializedVersion: 2
         x: 900
@@ -81,7 +231,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5ecf73932f2481aa6329a7336757e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_4
       rect:
         serializedVersion: 2
         x: 1200
@@ -90,7 +251,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6693e4bae80c4a91a4d2b18d513d08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_5
       rect:
         serializedVersion: 2
         x: 1500
@@ -99,7 +271,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0abcc7c55bfe4daa9caf9876fc38ecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_6
       rect:
         serializedVersion: 2
         x: 1800
@@ -108,7 +291,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d8d6622de614941ae1eb0e1fa6ed87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_7
       rect:
         serializedVersion: 2
         x: 2100
@@ -117,7 +311,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083a72ca4e6604b768cd1e66ea673fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_8
       rect:
         serializedVersion: 2
         x: 2400
@@ -126,7 +331,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde183b13c50c47d6a3e6f4a0670bb48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_9
       rect:
         serializedVersion: 2
         x: 2700
@@ -135,7 +351,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8773cac0e5b4efebcea87810ae2b7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_10
       rect:
         serializedVersion: 2
         x: 3000
@@ -144,7 +371,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f9fd5e16b2441faae3f8b14ece1d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_11
       rect:
         serializedVersion: 2
         x: 3300
@@ -153,7 +391,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbc46b764b8e415dbf330c8475c5742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_12
       rect:
         serializedVersion: 2
         x: 3600
@@ -162,7 +411,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ae38bdb4bde4df4adbd890094e6989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_13
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +431,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fcd442506b34c3b85885b6c7c0eda8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_14
       rect:
         serializedVersion: 2
         x: 300
@@ -180,7 +451,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97bfa47615ed4278b698c4347d006fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_15
       rect:
         serializedVersion: 2
         x: 600
@@ -189,7 +471,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6942182d589464bbb1c90a99d4384b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_16
       rect:
         serializedVersion: 2
         x: 900
@@ -198,7 +491,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35131a7ac6e40436cafedd0559ba6951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_17
       rect:
         serializedVersion: 2
         x: 1200
@@ -207,7 +511,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f49fc25798476a9434da14344ffb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_18
       rect:
         serializedVersion: 2
         x: 1500
@@ -216,7 +531,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452809a837e0949ffb6c0d52f59c8a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_19
       rect:
         serializedVersion: 2
         x: 1800
@@ -225,7 +551,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea4c4552c5474f03b7894bd51a35d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_20
       rect:
         serializedVersion: 2
         x: 2100
@@ -234,7 +571,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eeaef114ff844b4cade47a27bd32570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_21
       rect:
         serializedVersion: 2
         x: 2400
@@ -243,7 +591,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b43f0d3db7418d9e479a14655f7ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_22
       rect:
         serializedVersion: 2
         x: 2700
@@ -252,7 +611,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973af96319d24c90bb8b44f68a3b8ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_23
       rect:
         serializedVersion: 2
         x: 3000
@@ -261,7 +631,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c99fcfff0707463e9de2a7a1a042b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_24
       rect:
         serializedVersion: 2
         x: 3300
@@ -270,7 +651,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7793c35991faa44a3b529ca557d2195c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_25
       rect:
         serializedVersion: 2
         x: 3600
@@ -279,7 +671,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d93ab3b7ff14064a547331091454e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_26
       rect:
         serializedVersion: 2
         x: 0
@@ -288,7 +691,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c69ded30e304711948b54cc1cb5418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_27
       rect:
         serializedVersion: 2
         x: 300
@@ -297,7 +711,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f06c86b4805402e96525b10bc16090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_28
       rect:
         serializedVersion: 2
         x: 600
@@ -306,7 +731,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb5d1aab9ec4f46bbf81e78ed9e716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_29
       rect:
         serializedVersion: 2
         x: 900
@@ -315,7 +751,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00546585dbf8d47ef9080bcf65324daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_30
       rect:
         serializedVersion: 2
         x: 1200
@@ -324,7 +771,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad90a6b693254c02a52a655bea21504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_31
       rect:
         serializedVersion: 2
         x: 1500
@@ -333,7 +791,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d30545fb7e4fecaf79997224c4b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_32
       rect:
         serializedVersion: 2
         x: 1800
@@ -342,7 +811,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069c568447a14acab46312e58cccfdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_33
       rect:
         serializedVersion: 2
         x: 2100
@@ -351,7 +831,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746592e61e1294e5c84ca18cf6bbe6e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_34
       rect:
         serializedVersion: 2
         x: 2400
@@ -360,7 +851,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7628a6202824761b2a843ead49560a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_35
       rect:
         serializedVersion: 2
         x: 2700
@@ -369,7 +871,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee300dc000de47aeafa312c0bb68cf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_36
       rect:
         serializedVersion: 2
         x: 3000
@@ -378,7 +891,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c0b0a13678c41018e3f96ea899b74f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_37
       rect:
         serializedVersion: 2
         x: 3300
@@ -387,7 +911,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810576f6bffcf4de59ef2a8ce79be3ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_38
       rect:
         serializedVersion: 2
         x: 3600
@@ -396,7 +931,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0f16a9d81154043acdf06ed3f78a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_39
       rect:
         serializedVersion: 2
         x: 0
@@ -405,7 +951,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca801d7f179d4d5f9d0c7fc27c55c0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_40
       rect:
         serializedVersion: 2
         x: 300
@@ -414,7 +971,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df1124a0744a44f89cd30618110fbf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_41
       rect:
         serializedVersion: 2
         x: 600
@@ -423,7 +991,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76699e5612d34dd7964995c7f23c2e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_42
       rect:
         serializedVersion: 2
         x: 900
@@ -432,7 +1011,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc211092d144a4fb199f8a04ec0b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_43
       rect:
         serializedVersion: 2
         x: 1200
@@ -441,7 +1031,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1b5cf564b7468ab975e4b50a3e847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_44
       rect:
         serializedVersion: 2
         x: 1500
@@ -450,7 +1051,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a813865c414e0380dc97ce0d01803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_45
       rect:
         serializedVersion: 2
         x: 1800
@@ -459,7 +1071,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94510a1c05bca4f00b5a0a752a2ede53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_46
       rect:
         serializedVersion: 2
         x: 2100
@@ -468,7 +1091,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4eb0935989640a58e84c14dbdd4133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_47
       rect:
         serializedVersion: 2
         x: 2400
@@ -477,7 +1111,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f2c2d8e5db942818b20b9759d74ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_48
       rect:
         serializedVersion: 2
         x: 2700
@@ -486,7 +1131,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f23dc7e59ce4b00b27a8d9a8c8312f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_49
       rect:
         serializedVersion: 2
         x: 3000
@@ -495,7 +1151,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab559f3a4307f41d3ab5ee77502bcbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_50
       rect:
         serializedVersion: 2
         x: 3300
@@ -504,7 +1171,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e966eeaa51b4f7095f98970891d268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_51
       rect:
         serializedVersion: 2
         x: 3600
@@ -513,7 +1191,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c43149dd7c754c29a557fadddcbf4f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_52
       rect:
         serializedVersion: 2
         x: 0
@@ -522,7 +1211,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f440e8011ff4df5abae2f1230039e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_53
       rect:
         serializedVersion: 2
         x: 300
@@ -531,7 +1231,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924052ba972634067a3454e9a1585bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_54
       rect:
         serializedVersion: 2
         x: 600
@@ -540,7 +1251,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a659ffeb54acd44a6a8fdeb675320a16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_55
       rect:
         serializedVersion: 2
         x: 900
@@ -549,7 +1271,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c458a13fc48b4771a93b96bb9d74dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_56
       rect:
         serializedVersion: 2
         x: 1200
@@ -558,7 +1291,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b1afc76bb0481b811af9ab72ab65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_57
       rect:
         serializedVersion: 2
         x: 1500
@@ -567,7 +1311,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995077b05cde44705a47b5683f01652e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_58
       rect:
         serializedVersion: 2
         x: 1800
@@ -576,7 +1331,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec17d77f8b3e4bb8a342e15a69b2158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_59
       rect:
         serializedVersion: 2
         x: 2100
@@ -585,7 +1351,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a55284c185348abacebb8823b9a5ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_60
       rect:
         serializedVersion: 2
         x: 2400
@@ -594,7 +1371,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29e91b54a3a1409f9c049338aad6b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_61
       rect:
         serializedVersion: 2
         x: 2700
@@ -603,7 +1391,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f04230a456244e3bbf460c2a5bc908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_62
       rect:
         serializedVersion: 2
         x: 3000
@@ -612,7 +1411,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2a177de278d402ca987800c71a28d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_63
       rect:
         serializedVersion: 2
         x: 3300
@@ -621,7 +1431,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec71f0e48a0d437fbcf06330baf347e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_64
       rect:
         serializedVersion: 2
         x: 3600
@@ -630,7 +1451,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323256df7b1b47f08c7660c0edc5580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_65
       rect:
         serializedVersion: 2
         x: 0
@@ -639,7 +1471,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b311325517f4782b6f1a3a3c266fc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_66
       rect:
         serializedVersion: 2
         x: 300
@@ -648,7 +1491,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb873862377a84693a463a723c9b323e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_67
       rect:
         serializedVersion: 2
         x: 600
@@ -657,7 +1511,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f32611dc776f4e9c8a3dc8b443c6c8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_68
       rect:
         serializedVersion: 2
         x: 900
@@ -666,7 +1531,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bbf281f8c74fd9b34ebfa76c6522c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_69
       rect:
         serializedVersion: 2
         x: 1200
@@ -675,7 +1551,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680abe11c39ba429b9b4cff585809892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_70
       rect:
         serializedVersion: 2
         x: 1500
@@ -684,7 +1571,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b44fdd35b404a08ac80c3d076ffdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_71
       rect:
         serializedVersion: 2
         x: 1800
@@ -693,7 +1591,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f1b1ff742b24e69b95961f186c9b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_72
       rect:
         serializedVersion: 2
         x: 2100
@@ -702,7 +1611,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea3de34bcd4409ea10de90d82a4408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_73
       rect:
         serializedVersion: 2
         x: 2400
@@ -711,7 +1631,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b31e8427ec2d44bea493c68a0e06703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_74
       rect:
         serializedVersion: 2
         x: 2700
@@ -720,7 +1651,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58720b3630554a7bb93bee02a537325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_75
       rect:
         serializedVersion: 2
         x: 3000
@@ -729,7 +1671,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3569c3891c25d4b9aaf6f7666d1319d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_76
       rect:
         serializedVersion: 2
         x: 3300
@@ -738,7 +1691,18 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: wft_is_happening_in_there-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c25cafe51d9b476db6dd1a70d78e85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wft_is_happening_in_there-frames_77
       rect:
         serializedVersion: 2
         x: 3600
@@ -747,5 +1711,27 @@ TextureImporter:
         height: 264
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f150c21e65f4fa3a2081a4d68bc126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

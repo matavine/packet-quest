@@ -1,32 +1,106 @@
 fileFormatVersion: 2
 guid: d7c60d75f48feec4fa5888800bfcf2a4
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: jaguars_fan-frames_0
+    21300002: jaguars_fan-frames_1
+    21300004: jaguars_fan-frames_2
+    21300006: jaguars_fan-frames_3
+    21300008: jaguars_fan-frames_4
+    21300010: jaguars_fan-frames_5
+    21300012: jaguars_fan-frames_6
+    21300014: jaguars_fan-frames_7
+    21300016: jaguars_fan-frames_8
+    21300018: jaguars_fan-frames_9
+    21300020: jaguars_fan-frames_10
+    21300022: jaguars_fan-frames_11
+    21300024: jaguars_fan-frames_12
+    21300026: jaguars_fan-frames_13
+    21300028: jaguars_fan-frames_14
+    21300030: jaguars_fan-frames_15
+    21300032: jaguars_fan-frames_16
+    21300034: jaguars_fan-frames_17
+    21300036: jaguars_fan-frames_18
+    21300038: jaguars_fan-frames_19
+    21300040: jaguars_fan-frames_20
+    21300042: jaguars_fan-frames_21
+    21300044: jaguars_fan-frames_22
+    21300046: jaguars_fan-frames_23
+    21300048: jaguars_fan-frames_24
+    21300050: jaguars_fan-frames_25
+    21300052: jaguars_fan-frames_26
+    21300054: jaguars_fan-frames_27
+    21300056: jaguars_fan-frames_28
+    21300058: jaguars_fan-frames_29
+    21300060: jaguars_fan-frames_30
+    21300062: jaguars_fan-frames_31
+    21300064: jaguars_fan-frames_32
+    21300066: jaguars_fan-frames_33
+    21300068: jaguars_fan-frames_34
+    21300070: jaguars_fan-frames_35
+    21300072: jaguars_fan-frames_36
+    21300074: jaguars_fan-frames_37
+    21300076: jaguars_fan-frames_38
+    21300078: jaguars_fan-frames_39
+    21300080: jaguars_fan-frames_40
+    21300082: jaguars_fan-frames_41
+    21300084: jaguars_fan-frames_42
+    21300086: jaguars_fan-frames_43
+    21300088: jaguars_fan-frames_44
+    21300090: jaguars_fan-frames_45
+    21300092: jaguars_fan-frames_46
+    21300094: jaguars_fan-frames_47
+    21300096: jaguars_fan-frames_48
+    21300098: jaguars_fan-frames_49
+    21300100: jaguars_fan-frames_50
+    21300102: jaguars_fan-frames_51
+    21300104: jaguars_fan-frames_52
+    21300106: jaguars_fan-frames_53
+    21300108: jaguars_fan-frames_54
+    21300110: jaguars_fan-frames_55
+    21300112: jaguars_fan-frames_56
+    21300114: jaguars_fan-frames_57
+    21300116: jaguars_fan-frames_58
+    21300118: jaguars_fan-frames_59
+    21300120: jaguars_fan-frames_60
+    21300122: jaguars_fan-frames_61
+    21300124: jaguars_fan-frames_62
+    21300126: jaguars_fan-frames_63
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +108,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: jaguars_fan-frames_0
+    - serializedVersion: 2
+      name: jaguars_fan-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +157,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63467193ef3894cd5bf42756ffac150b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_1
       rect:
         serializedVersion: 2
         x: 236
@@ -63,7 +177,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5d2d410fdd44e41a7fea80e418a703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_2
       rect:
         serializedVersion: 2
         x: 472
@@ -72,7 +197,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c13e9e0336048018b44293f452a37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_3
       rect:
         serializedVersion: 2
         x: 708
@@ -81,7 +217,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2829f742b0cfa45918ce85d6f114c9d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_4
       rect:
         serializedVersion: 2
         x: 944
@@ -90,7 +237,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5977bd1181d4efaa7888daa2377223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_5
       rect:
         serializedVersion: 2
         x: 1180
@@ -99,7 +257,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6aedc337eb24361ae5b0b1891e41fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_6
       rect:
         serializedVersion: 2
         x: 1416
@@ -108,7 +277,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2134ef49f44c5585774727692cf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_7
       rect:
         serializedVersion: 2
         x: 1652
@@ -117,7 +297,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fc13c892bbb4eaba3b4ddbdaf9240a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_8
       rect:
         serializedVersion: 2
         x: 1888
@@ -126,7 +317,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cd64a684f734b0ca915d7f69d3943f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_9
       rect:
         serializedVersion: 2
         x: 2124
@@ -135,7 +337,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69e1bbcae1f4332b4dbed6f9ee4d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_10
       rect:
         serializedVersion: 2
         x: 2360
@@ -144,7 +357,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa702cd0196a74d45ab1f5a4ff840f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_11
       rect:
         serializedVersion: 2
         x: 2596
@@ -153,7 +377,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344afdb9c86414399a7b9d37a033393d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_12
       rect:
         serializedVersion: 2
         x: 2832
@@ -162,7 +397,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98cbf033444643febd136456b6afb5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_13
       rect:
         serializedVersion: 2
         x: 3068
@@ -171,7 +417,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7661bff8f1d4aef884dcd7e54a3bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_14
       rect:
         serializedVersion: 2
         x: 3304
@@ -180,7 +437,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498672bd75758456ba5d05722bdbd98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_15
       rect:
         serializedVersion: 2
         x: 3540
@@ -189,7 +457,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dce7bbe6afc4b86bce5c166bd24ef0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +477,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6eb728ac55340fc94e0a9468cbd395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_17
       rect:
         serializedVersion: 2
         x: 236
@@ -207,7 +497,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1ce9cd3b7a84dafb5911c4bdfbab3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_18
       rect:
         serializedVersion: 2
         x: 472
@@ -216,7 +517,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cd6d716e73d4148bac12cd49457f62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_19
       rect:
         serializedVersion: 2
         x: 708
@@ -225,7 +537,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fd80a41ca794eb0aca47b238ac15f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_20
       rect:
         serializedVersion: 2
         x: 944
@@ -234,7 +557,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6e95689fd294c0cbb33cecb9a9858a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_21
       rect:
         serializedVersion: 2
         x: 1180
@@ -243,7 +577,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f6bc6de3e0744dc9bcab46549661fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_22
       rect:
         serializedVersion: 2
         x: 1416
@@ -252,7 +597,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49296e147d22f41a2bc4606e51f7d2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_23
       rect:
         serializedVersion: 2
         x: 1652
@@ -261,7 +617,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df858411ee6334ce99304b22287335b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_24
       rect:
         serializedVersion: 2
         x: 1888
@@ -270,7 +637,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab01edd74ee40548ab69ab20f24f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_25
       rect:
         serializedVersion: 2
         x: 2124
@@ -279,7 +657,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc29b4f81b44ab885fbf5163873f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_26
       rect:
         serializedVersion: 2
         x: 2360
@@ -288,7 +677,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16d92e902cb942c2be22380d231ca46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_27
       rect:
         serializedVersion: 2
         x: 2596
@@ -297,7 +697,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdc6f1ac748a41a68efd26f66e78567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_28
       rect:
         serializedVersion: 2
         x: 2832
@@ -306,7 +717,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb545bfa7a04c748dbf1bfd3ea0607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_29
       rect:
         serializedVersion: 2
         x: 3068
@@ -315,7 +737,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c466bdeb4235b42c4b6e114e5332dea6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_30
       rect:
         serializedVersion: 2
         x: 3304
@@ -324,7 +757,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d308cf99fc39e4508b70f7329cc1b497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_31
       rect:
         serializedVersion: 2
         x: 3540
@@ -333,7 +777,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4528a39e22b1c4902921a1fbbd86948d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_32
       rect:
         serializedVersion: 2
         x: 0
@@ -342,7 +797,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2bac003a0a2423496bbb50eaef8a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_33
       rect:
         serializedVersion: 2
         x: 236
@@ -351,7 +817,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8343ab99dc904426daeede844672caca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_34
       rect:
         serializedVersion: 2
         x: 472
@@ -360,7 +837,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbb8e3780d44cf2bb9b4f6c4aaef28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_35
       rect:
         serializedVersion: 2
         x: 708
@@ -369,7 +857,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93618a6d0165f4b5f92efae9392213d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_36
       rect:
         serializedVersion: 2
         x: 944
@@ -378,7 +877,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c9f3828789444729655c46861dec5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_37
       rect:
         serializedVersion: 2
         x: 1180
@@ -387,7 +897,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc4853e521d4cacb073890188cb4c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_38
       rect:
         serializedVersion: 2
         x: 1416
@@ -396,7 +917,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a14c7a0dc0c4c6989cc097bc833527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_39
       rect:
         serializedVersion: 2
         x: 1652
@@ -405,7 +937,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e85e3cac93854b12b04f55bee1e35ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_40
       rect:
         serializedVersion: 2
         x: 1888
@@ -414,7 +957,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df426dc65214e4884dfad509b834d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_41
       rect:
         serializedVersion: 2
         x: 2124
@@ -423,7 +977,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65beeee422544006babb2f36f2ac826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_42
       rect:
         serializedVersion: 2
         x: 2360
@@ -432,7 +997,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e55e9c3405d4f19a49a112ed59db40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_43
       rect:
         serializedVersion: 2
         x: 2596
@@ -441,7 +1017,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56f4741773a542a79c2fc47123278fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_44
       rect:
         serializedVersion: 2
         x: 2832
@@ -450,7 +1037,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ea546b33e9e4c8085a857d8d113cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_45
       rect:
         serializedVersion: 2
         x: 3068
@@ -459,7 +1057,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633bace23f07e43dab050a21b7f74f7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_46
       rect:
         serializedVersion: 2
         x: 3304
@@ -468,7 +1077,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05def579545542bfb1aa9359b018bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_47
       rect:
         serializedVersion: 2
         x: 3540
@@ -477,7 +1097,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9683b8a898d0b4e278005602355680cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_48
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +1117,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae23954898a4928a7b5dfd7fc33c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_49
       rect:
         serializedVersion: 2
         x: 236
@@ -495,7 +1137,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555caca383f5c45baa8dd7be3be3aafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_50
       rect:
         serializedVersion: 2
         x: 472
@@ -504,7 +1157,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10737dd8f9ca447acb0a4cbcc905e00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_51
       rect:
         serializedVersion: 2
         x: 708
@@ -513,7 +1177,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a7ed1c3e5794921a037e91f578899b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_52
       rect:
         serializedVersion: 2
         x: 944
@@ -522,7 +1197,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86d8366181d4ef8920ba8833a503a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_53
       rect:
         serializedVersion: 2
         x: 1180
@@ -531,7 +1217,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27ec01509184c5c848f99864741624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_54
       rect:
         serializedVersion: 2
         x: 1416
@@ -540,7 +1237,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b701eb208847d593eebbe8aee11cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_55
       rect:
         serializedVersion: 2
         x: 1652
@@ -549,7 +1257,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a2e90f33a3d4d59beeb6d0c9721a84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_56
       rect:
         serializedVersion: 2
         x: 1888
@@ -558,7 +1277,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7266a2fcb2ac4d18b2c64a891b60cdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_57
       rect:
         serializedVersion: 2
         x: 2124
@@ -567,7 +1297,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db34608c192b44e4bae2e532654659fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_58
       rect:
         serializedVersion: 2
         x: 2360
@@ -576,7 +1317,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eedee00e66f44c8fa5f384d6df176b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_59
       rect:
         serializedVersion: 2
         x: 2596
@@ -585,7 +1337,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444007ca99aa7466daeaff7d222747fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_60
       rect:
         serializedVersion: 2
         x: 2832
@@ -594,7 +1357,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b1c86b026c243bdb9ed4c7919db087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_61
       rect:
         serializedVersion: 2
         x: 3068
@@ -603,7 +1377,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481b0fa95f7f54f47aa086068724a6b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_62
       rect:
         serializedVersion: 2
         x: 3304
@@ -612,7 +1397,18 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: jaguars_fan-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e20fbc5b9b04719a3cf168d2895649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jaguars_fan-frames_63
       rect:
         serializedVersion: 2
         x: 3540
@@ -621,5 +1417,27 @@ TextureImporter:
         height: 224
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda99ff205bc453097d660f2d085e04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

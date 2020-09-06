@@ -1,32 +1,81 @@
 fileFormatVersion: 2
 guid: 18ed34dd33e936c4a8b1605d9210994a
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: little_kid_confused-frames_0
+    21300002: little_kid_confused-frames_1
+    21300004: little_kid_confused-frames_2
+    21300006: little_kid_confused-frames_3
+    21300008: little_kid_confused-frames_4
+    21300010: little_kid_confused-frames_5
+    21300012: little_kid_confused-frames_6
+    21300014: little_kid_confused-frames_7
+    21300016: little_kid_confused-frames_8
+    21300018: little_kid_confused-frames_9
+    21300020: little_kid_confused-frames_10
+    21300022: little_kid_confused-frames_11
+    21300024: little_kid_confused-frames_12
+    21300026: little_kid_confused-frames_13
+    21300028: little_kid_confused-frames_14
+    21300030: little_kid_confused-frames_15
+    21300032: little_kid_confused-frames_16
+    21300034: little_kid_confused-frames_17
+    21300036: little_kid_confused-frames_18
+    21300038: little_kid_confused-frames_19
+    21300040: little_kid_confused-frames_20
+    21300042: little_kid_confused-frames_21
+    21300044: little_kid_confused-frames_22
+    21300046: little_kid_confused-frames_23
+    21300048: little_kid_confused-frames_24
+    21300050: little_kid_confused-frames_25
+    21300052: little_kid_confused-frames_26
+    21300054: little_kid_confused-frames_27
+    21300056: little_kid_confused-frames_28
+    21300058: little_kid_confused-frames_29
+    21300060: little_kid_confused-frames_30
+    21300062: little_kid_confused-frames_31
+    21300064: little_kid_confused-frames_32
+    21300066: little_kid_confused-frames_33
+    21300068: little_kid_confused-frames_34
+    21300070: little_kid_confused-frames_35
+    21300072: little_kid_confused-frames_36
+    21300074: little_kid_confused-frames_37
+    21300076: little_kid_confused-frames_38
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +83,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: little_kid_confused-frames_0
+    - serializedVersion: 2
+      name: little_kid_confused-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +132,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a5cb721467f4ba5b51370bcf043d98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_1
       rect:
         serializedVersion: 2
         x: 300
@@ -63,7 +152,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57b4c7665b674d26956da9a94bf8432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_2
       rect:
         serializedVersion: 2
         x: 600
@@ -72,7 +172,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e432e977e1aaf468ab172c38b18bb1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_3
       rect:
         serializedVersion: 2
         x: 900
@@ -81,7 +192,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774947626e8a64351975a1088f1d9515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_4
       rect:
         serializedVersion: 2
         x: 1200
@@ -90,7 +212,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ca7c2cbc78a4f66b9aa44762c60a0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_5
       rect:
         serializedVersion: 2
         x: 1500
@@ -99,7 +232,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb17c5192bd3473283f0acf1a45e8f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_6
       rect:
         serializedVersion: 2
         x: 1800
@@ -108,7 +252,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577ee37ad16c34d288f3f94a64a68c20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_7
       rect:
         serializedVersion: 2
         x: 2100
@@ -117,7 +272,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa17405fbc71424090bd9095621dd02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_8
       rect:
         serializedVersion: 2
         x: 2400
@@ -126,7 +292,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f7fd03977d4a91864192b9c6da60e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_9
       rect:
         serializedVersion: 2
         x: 2700
@@ -135,7 +312,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0300500cd401e417fadcc9fc3990ad59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_10
       rect:
         serializedVersion: 2
         x: 3000
@@ -144,7 +332,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0060e6cd160934edebc40abf2a3b648d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_11
       rect:
         serializedVersion: 2
         x: 3300
@@ -153,7 +352,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b08236759f64c5c9d555297c3a07e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_12
       rect:
         serializedVersion: 2
         x: 3600
@@ -162,7 +372,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd14dec0600484e3cac8a08c82536d11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_13
       rect:
         serializedVersion: 2
         x: 0
@@ -171,7 +392,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3de9cd0b3c649b0bcb6a4d86e598bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_14
       rect:
         serializedVersion: 2
         x: 300
@@ -180,7 +412,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b61cebcfb584a5bbc5711e02aedacf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_15
       rect:
         serializedVersion: 2
         x: 600
@@ -189,7 +432,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45618af11044245922d151076b2f28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_16
       rect:
         serializedVersion: 2
         x: 900
@@ -198,7 +452,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eabc30756cc4f45b918069f3a2994a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_17
       rect:
         serializedVersion: 2
         x: 1200
@@ -207,7 +472,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7def8213e40f849e2aa96538460859eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_18
       rect:
         serializedVersion: 2
         x: 1500
@@ -216,7 +492,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62a5c2ce27f42488601a2a7ee04bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_19
       rect:
         serializedVersion: 2
         x: 1800
@@ -225,7 +512,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8171a5b27914dca9a542e1dba3d8ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_20
       rect:
         serializedVersion: 2
         x: 2100
@@ -234,7 +532,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaad3c3a62104d94aa6efe2c03cf119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_21
       rect:
         serializedVersion: 2
         x: 2400
@@ -243,7 +552,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d596484dd6184c6e89a23459dc8132a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_22
       rect:
         serializedVersion: 2
         x: 2700
@@ -252,7 +572,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051fd8e2edef44d6cb36737af8f583d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_23
       rect:
         serializedVersion: 2
         x: 3000
@@ -261,7 +592,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ceb5831d0446e48e5e8b442e09e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_24
       rect:
         serializedVersion: 2
         x: 3300
@@ -270,7 +612,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffe6143754754305b27cd4c61e85f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_25
       rect:
         serializedVersion: 2
         x: 3600
@@ -279,7 +632,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95182a5ed1cf04a8aa00264649e415f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_26
       rect:
         serializedVersion: 2
         x: 0
@@ -288,7 +652,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea043bc49ee456cbc4df02c9df73d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_27
       rect:
         serializedVersion: 2
         x: 300
@@ -297,7 +672,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c621a983539744efaf13d75a7ee5ad9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_28
       rect:
         serializedVersion: 2
         x: 600
@@ -306,7 +692,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4d742b7c9bf439192185d20d1a6687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_29
       rect:
         serializedVersion: 2
         x: 900
@@ -315,7 +712,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed37a3f3a8ca4d6dad3d067966514d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_30
       rect:
         serializedVersion: 2
         x: 1200
@@ -324,7 +732,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee7c5d0542724ac2adcae63591e3843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_31
       rect:
         serializedVersion: 2
         x: 1500
@@ -333,7 +752,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f70978542344d81a4e4d5502f68fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_32
       rect:
         serializedVersion: 2
         x: 1800
@@ -342,7 +772,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a92e60ef1de45bdb2924bb699c5de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_33
       rect:
         serializedVersion: 2
         x: 2100
@@ -351,7 +792,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe0637bfef734366b70ffc07723ee89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_34
       rect:
         serializedVersion: 2
         x: 2400
@@ -360,7 +812,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fc7ba64b0b84cb2a8548b34c29e73b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_35
       rect:
         serializedVersion: 2
         x: 2700
@@ -369,7 +832,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05804622a2cc5496b8bb718e3a288ca3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_36
       rect:
         serializedVersion: 2
         x: 3000
@@ -378,7 +852,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e29f35333cc4573a613e8c93ee05a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_37
       rect:
         serializedVersion: 2
         x: 3300
@@ -387,7 +872,18 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: little_kid_confused-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a391c0aa5e6fa4974a3b695abc379ded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: little_kid_confused-frames_38
       rect:
         serializedVersion: 2
         x: 3600
@@ -396,5 +892,27 @@ TextureImporter:
         height: 204
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab8573d5700c4418bbd70db7481adbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

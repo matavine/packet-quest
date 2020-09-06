@@ -1,32 +1,74 @@
 fileFormatVersion: 2
 guid: 2ee535e793b7d8640bee5a698d26c0b1
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: that_escalated_quickly-frames_0
+    21300002: that_escalated_quickly-frames_1
+    21300004: that_escalated_quickly-frames_2
+    21300006: that_escalated_quickly-frames_3
+    21300008: that_escalated_quickly-frames_4
+    21300010: that_escalated_quickly-frames_5
+    21300012: that_escalated_quickly-frames_6
+    21300014: that_escalated_quickly-frames_7
+    21300016: that_escalated_quickly-frames_8
+    21300018: that_escalated_quickly-frames_9
+    21300020: that_escalated_quickly-frames_10
+    21300022: that_escalated_quickly-frames_11
+    21300024: that_escalated_quickly-frames_12
+    21300026: that_escalated_quickly-frames_13
+    21300028: that_escalated_quickly-frames_14
+    21300030: that_escalated_quickly-frames_15
+    21300032: that_escalated_quickly-frames_16
+    21300034: that_escalated_quickly-frames_17
+    21300036: that_escalated_quickly-frames_18
+    21300038: that_escalated_quickly-frames_19
+    21300040: that_escalated_quickly-frames_20
+    21300042: that_escalated_quickly-frames_21
+    21300044: that_escalated_quickly-frames_22
+    21300046: that_escalated_quickly-frames_23
+    21300048: that_escalated_quickly-frames_24
+    21300050: that_escalated_quickly-frames_25
+    21300052: that_escalated_quickly-frames_26
+    21300054: that_escalated_quickly-frames_27
+    21300056: that_escalated_quickly-frames_28
+    21300058: that_escalated_quickly-frames_29
+    21300060: that_escalated_quickly-frames_30
+    21300062: that_escalated_quickly-frames_31
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +76,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: that_escalated_quickly-frames_0
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +125,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d4fc3f2ce6d4d499e995d309f54c58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_1
       rect:
         serializedVersion: 2
         x: 500
@@ -63,7 +145,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0820a551a363445890ccf1fee99f966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_2
       rect:
         serializedVersion: 2
         x: 1000
@@ -72,7 +165,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a05aad0d9ef4e67ba213b99ea20104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_3
       rect:
         serializedVersion: 2
         x: 1500
@@ -81,7 +185,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f14a28d45ee847fea558789ccd74074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_4
       rect:
         serializedVersion: 2
         x: 2000
@@ -90,7 +205,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4038f0f72d4d5f885f0cc93db5781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_5
       rect:
         serializedVersion: 2
         x: 2500
@@ -99,7 +225,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f55df64e36094bfab4398735cb0cd63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_6
       rect:
         serializedVersion: 2
         x: 3000
@@ -108,7 +245,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e5d5ffa9a0b4af292514b43f1defd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_7
       rect:
         serializedVersion: 2
         x: 3500
@@ -117,7 +265,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accab9b3a9b0d4f9e8e146ecd35968b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_8
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +285,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a690ee29a2489b9726864be2c9a9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_9
       rect:
         serializedVersion: 2
         x: 500
@@ -135,7 +305,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab6f19caa314e8b8080434a1481517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_10
       rect:
         serializedVersion: 2
         x: 1000
@@ -144,7 +325,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5d8e10c99fb434a8fee25aafb9bab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_11
       rect:
         serializedVersion: 2
         x: 1500
@@ -153,7 +345,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf8fd4286bcd4580bf2a8cc85068bf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_12
       rect:
         serializedVersion: 2
         x: 2000
@@ -162,7 +365,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aca5396b2ee43dd9a2c7c93da86f7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_13
       rect:
         serializedVersion: 2
         x: 2500
@@ -171,7 +385,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a52683088134fcb9a9d45dfce44c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_14
       rect:
         serializedVersion: 2
         x: 3000
@@ -180,7 +405,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0500847cdb06148efac088a155525cc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_15
       rect:
         serializedVersion: 2
         x: 3500
@@ -189,7 +425,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6770e4141c1742d793f7b8cbeea154b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +445,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaf3dc69056d4a709a6894c3cef38cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_17
       rect:
         serializedVersion: 2
         x: 500
@@ -207,7 +465,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473f93eeca5884626b10f10bb29ee48c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_18
       rect:
         serializedVersion: 2
         x: 1000
@@ -216,7 +485,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb615e1c6ffd48e7a751f1ab9aa64de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_19
       rect:
         serializedVersion: 2
         x: 1500
@@ -225,7 +505,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6747d6cc6b5140e0beba7833fa52832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_20
       rect:
         serializedVersion: 2
         x: 2000
@@ -234,7 +525,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71f80049f8c47c2b7fbbf09673d1bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_21
       rect:
         serializedVersion: 2
         x: 2500
@@ -243,7 +545,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f46f57323b394fdba94326532460ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_22
       rect:
         serializedVersion: 2
         x: 3000
@@ -252,7 +565,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb36705484ac4152a6643ac69c1f416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_23
       rect:
         serializedVersion: 2
         x: 3500
@@ -261,7 +585,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e07f98b2f93e4ee88370d7bb4f21550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +605,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129613488035e4b3b914f7c769afde65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_25
       rect:
         serializedVersion: 2
         x: 500
@@ -279,7 +625,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894788e4482384d0dbe82b0718df0836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_26
       rect:
         serializedVersion: 2
         x: 1000
@@ -288,7 +645,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1545bb490b4218a0a05bb0120c272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_27
       rect:
         serializedVersion: 2
         x: 1500
@@ -297,7 +665,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e75d0fe7e7e646dbabd4d7f9b1baf26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_28
       rect:
         serializedVersion: 2
         x: 2000
@@ -306,7 +685,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a82346eda8d4ab7a6c198041f6e230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_29
       rect:
         serializedVersion: 2
         x: 2500
@@ -315,7 +705,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8f33ff387ad411b867ed98cda8d47f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_30
       rect:
         serializedVersion: 2
         x: 3000
@@ -324,7 +725,18 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: that_escalated_quickly-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9444e3f606948432f832f44f6f2d0b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: that_escalated_quickly-frames_31
       rect:
         serializedVersion: 2
         x: 3500
@@ -333,5 +745,27 @@ TextureImporter:
         height: 281
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1396e4b4481e40349ec9ffe44fab14b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

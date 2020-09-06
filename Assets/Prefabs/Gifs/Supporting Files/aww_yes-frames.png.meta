@@ -1,32 +1,126 @@
 fileFormatVersion: 2
 guid: a5e68c355fcf18a4b81edceb01bed405
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: aww_yes-frames_0
+    21300002: aww_yes-frames_1
+    21300004: aww_yes-frames_2
+    21300006: aww_yes-frames_3
+    21300008: aww_yes-frames_4
+    21300010: aww_yes-frames_5
+    21300012: aww_yes-frames_6
+    21300014: aww_yes-frames_7
+    21300016: aww_yes-frames_8
+    21300018: aww_yes-frames_9
+    21300020: aww_yes-frames_10
+    21300022: aww_yes-frames_11
+    21300024: aww_yes-frames_12
+    21300026: aww_yes-frames_13
+    21300028: aww_yes-frames_14
+    21300030: aww_yes-frames_15
+    21300032: aww_yes-frames_16
+    21300034: aww_yes-frames_17
+    21300036: aww_yes-frames_18
+    21300038: aww_yes-frames_19
+    21300040: aww_yes-frames_20
+    21300042: aww_yes-frames_21
+    21300044: aww_yes-frames_22
+    21300046: aww_yes-frames_23
+    21300048: aww_yes-frames_24
+    21300050: aww_yes-frames_25
+    21300052: aww_yes-frames_26
+    21300054: aww_yes-frames_27
+    21300056: aww_yes-frames_28
+    21300058: aww_yes-frames_29
+    21300060: aww_yes-frames_30
+    21300062: aww_yes-frames_31
+    21300064: aww_yes-frames_32
+    21300066: aww_yes-frames_33
+    21300068: aww_yes-frames_34
+    21300070: aww_yes-frames_35
+    21300072: aww_yes-frames_36
+    21300074: aww_yes-frames_37
+    21300076: aww_yes-frames_38
+    21300078: aww_yes-frames_39
+    21300080: aww_yes-frames_40
+    21300082: aww_yes-frames_41
+    21300084: aww_yes-frames_42
+    21300086: aww_yes-frames_43
+    21300088: aww_yes-frames_44
+    21300090: aww_yes-frames_45
+    21300092: aww_yes-frames_46
+    21300094: aww_yes-frames_47
+    21300096: aww_yes-frames_48
+    21300098: aww_yes-frames_49
+    21300100: aww_yes-frames_50
+    21300102: aww_yes-frames_51
+    21300104: aww_yes-frames_52
+    21300106: aww_yes-frames_53
+    21300108: aww_yes-frames_54
+    21300110: aww_yes-frames_55
+    21300112: aww_yes-frames_56
+    21300114: aww_yes-frames_57
+    21300116: aww_yes-frames_58
+    21300118: aww_yes-frames_59
+    21300120: aww_yes-frames_60
+    21300122: aww_yes-frames_61
+    21300124: aww_yes-frames_62
+    21300126: aww_yes-frames_63
+    21300128: aww_yes-frames_64
+    21300130: aww_yes-frames_65
+    21300132: aww_yes-frames_66
+    21300134: aww_yes-frames_67
+    21300136: aww_yes-frames_68
+    21300138: aww_yes-frames_69
+    21300140: aww_yes-frames_70
+    21300142: aww_yes-frames_71
+    21300144: aww_yes-frames_72
+    21300146: aww_yes-frames_73
+    21300148: aww_yes-frames_74
+    21300150: aww_yes-frames_75
+    21300152: aww_yes-frames_76
+    21300154: aww_yes-frames_77
+    21300156: aww_yes-frames_78
+    21300158: aww_yes-frames_79
+    21300160: aww_yes-frames_80
+    21300162: aww_yes-frames_81
+    21300164: aww_yes-frames_82
+    21300166: aww_yes-frames_83
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +128,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: aww_yes-frames_0
+    - serializedVersion: 2
+      name: aww_yes-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +177,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dbc5af647284bda8c26dba9ba23eec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_1
       rect:
         serializedVersion: 2
         x: 331
@@ -63,7 +197,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092558b1eb92f4e7aa78e5209804770f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_2
       rect:
         serializedVersion: 2
         x: 662
@@ -72,7 +217,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dc626f328014926931b6f74c869926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_3
       rect:
         serializedVersion: 2
         x: 993
@@ -81,7 +237,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a3d3a770c3143fa8456156a05850f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_4
       rect:
         serializedVersion: 2
         x: 1324
@@ -90,7 +257,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eb4ec60194e4f39b6bb485067654b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_5
       rect:
         serializedVersion: 2
         x: 1655
@@ -99,7 +277,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048f3a42ddae34549bcef775e80292e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_6
       rect:
         serializedVersion: 2
         x: 1986
@@ -108,7 +297,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7670bdfb2b0e8425e92e875aad141015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_7
       rect:
         serializedVersion: 2
         x: 2317
@@ -117,7 +317,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa24c82d568934cb3a408bdb82503364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_8
       rect:
         serializedVersion: 2
         x: 2648
@@ -126,7 +337,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c9c7198772437cbd453c42ecf7ffe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_9
       rect:
         serializedVersion: 2
         x: 2979
@@ -135,7 +357,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754fa81c3af4e4fe68a6aa09365b47d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_10
       rect:
         serializedVersion: 2
         x: 3310
@@ -144,7 +377,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6929947bf8c224f919ec764f62f88307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_11
       rect:
         serializedVersion: 2
         x: 3641
@@ -153,7 +397,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785fa2ef11f094a87a2326ca39cb07f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_12
       rect:
         serializedVersion: 2
         x: 0
@@ -162,7 +417,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f59ed9f6b64cc5aa043224860032e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_13
       rect:
         serializedVersion: 2
         x: 331
@@ -171,7 +437,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2fc19108b424c01abc04548dac04d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_14
       rect:
         serializedVersion: 2
         x: 662
@@ -180,7 +457,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a472e3bcecdc40d88cb4c4b31b4bc48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_15
       rect:
         serializedVersion: 2
         x: 993
@@ -189,7 +477,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdfb672e99cf43c09e764340b6620a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_16
       rect:
         serializedVersion: 2
         x: 1324
@@ -198,7 +497,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419cae6d5c6484a5f8d809b53d6c468a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_17
       rect:
         serializedVersion: 2
         x: 1655
@@ -207,7 +517,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541952ccc36d4fc2bcfb8c5e43a01c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_18
       rect:
         serializedVersion: 2
         x: 1986
@@ -216,7 +537,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50eb77180ba0489dbc0f32e5429df4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_19
       rect:
         serializedVersion: 2
         x: 2317
@@ -225,7 +557,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2226e820248614227ba38afc15f28e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_20
       rect:
         serializedVersion: 2
         x: 2648
@@ -234,7 +577,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0d724e140aa4a89a390719058288cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_21
       rect:
         serializedVersion: 2
         x: 2979
@@ -243,7 +597,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a0b67b41db41478d9c1ed98e78d2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_22
       rect:
         serializedVersion: 2
         x: 3310
@@ -252,7 +617,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9d6fb6e653344ebba6efa1bb16fd86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_23
       rect:
         serializedVersion: 2
         x: 3641
@@ -261,7 +637,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948aa00f14b9f4493bcc7807e2bdb61c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +657,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da133d668111644f7b3432e53ae2b731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_25
       rect:
         serializedVersion: 2
         x: 331
@@ -279,7 +677,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707416ce1b8c744af90d3647ed46c8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_26
       rect:
         serializedVersion: 2
         x: 662
@@ -288,7 +697,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9202d8daf715483a8293b6504ac4f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_27
       rect:
         serializedVersion: 2
         x: 993
@@ -297,7 +717,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565bbd6a2951741e88ae9dab86b12a11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_28
       rect:
         serializedVersion: 2
         x: 1324
@@ -306,7 +737,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436ef8657843b418bafcf188c6e3fdc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_29
       rect:
         serializedVersion: 2
         x: 1655
@@ -315,7 +757,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3474f36ca17848ee80f275cea70a5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_30
       rect:
         serializedVersion: 2
         x: 1986
@@ -324,7 +777,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38863aa0937e74fd7bb6e5b723a8a1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_31
       rect:
         serializedVersion: 2
         x: 2317
@@ -333,7 +797,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7b555b79d84f89a88d45f5c03d67d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_32
       rect:
         serializedVersion: 2
         x: 2648
@@ -342,7 +817,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7151742ad99478db26ea110ad433eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_33
       rect:
         serializedVersion: 2
         x: 2979
@@ -351,7 +837,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2cadd4f2b1a4fd1ad71128e2c2a061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_34
       rect:
         serializedVersion: 2
         x: 3310
@@ -360,7 +857,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702340b4a1cc549c78594a13860bbd71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_35
       rect:
         serializedVersion: 2
         x: 3641
@@ -369,7 +877,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca60ee56366b14aec9f1e14540010b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_36
       rect:
         serializedVersion: 2
         x: 0
@@ -378,7 +897,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af864249ea54c359bacb92538df8c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_37
       rect:
         serializedVersion: 2
         x: 331
@@ -387,7 +917,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352f053af3bd540be89e47279c20a138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_38
       rect:
         serializedVersion: 2
         x: 662
@@ -396,7 +937,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea8a2ec8fb4c4a88a3633ee507f3153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_39
       rect:
         serializedVersion: 2
         x: 993
@@ -405,7 +957,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ade7d18dc5f64a2ababe3b3a32a1fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_40
       rect:
         serializedVersion: 2
         x: 1324
@@ -414,7 +977,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef167ce383114ee98074415f2b3e26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_41
       rect:
         serializedVersion: 2
         x: 1655
@@ -423,7 +997,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301e63c928cd458f9822934526b9569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_42
       rect:
         serializedVersion: 2
         x: 1986
@@ -432,7 +1017,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ee3b3677244dd5b79ac1ef2f3da4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_43
       rect:
         serializedVersion: 2
         x: 2317
@@ -441,7 +1037,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574e91ee697b4b70810f7caceb016dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_44
       rect:
         serializedVersion: 2
         x: 2648
@@ -450,7 +1057,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a930dc935b2f84e5183e7148ef0eecb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_45
       rect:
         serializedVersion: 2
         x: 2979
@@ -459,7 +1077,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b35a4f3a53d44908f8ae47e314a728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_46
       rect:
         serializedVersion: 2
         x: 3310
@@ -468,7 +1097,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203c95f8016b4601939d25d30068a1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_47
       rect:
         serializedVersion: 2
         x: 3641
@@ -477,7 +1117,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ab7af3be9d14eeebed82f65e5ab70c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_48
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +1137,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1512df1a6f644a9d9f6549240fa9ef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_49
       rect:
         serializedVersion: 2
         x: 331
@@ -495,7 +1157,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d2e1bbd0d9b4bc2afb1f7aff338ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_50
       rect:
         serializedVersion: 2
         x: 662
@@ -504,7 +1177,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd1ba10f4a54ac880d91834d835d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_51
       rect:
         serializedVersion: 2
         x: 993
@@ -513,7 +1197,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203337f03001d4adfb0f852a60320f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_52
       rect:
         serializedVersion: 2
         x: 1324
@@ -522,7 +1217,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8a0759a97ea4b96bca2a5b2a1e082f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_53
       rect:
         serializedVersion: 2
         x: 1655
@@ -531,7 +1237,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030b48a1435a47dea19fa381513cd57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_54
       rect:
         serializedVersion: 2
         x: 1986
@@ -540,7 +1257,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba1512fb14d249b6ab3bee07bf5a9b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_55
       rect:
         serializedVersion: 2
         x: 2317
@@ -549,7 +1277,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8dcc8c1e8ff4b17907174fac05930e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_56
       rect:
         serializedVersion: 2
         x: 2648
@@ -558,7 +1297,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174efd38947ec4c9f9d3366e3d0d5ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_57
       rect:
         serializedVersion: 2
         x: 2979
@@ -567,7 +1317,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36a968f40be42ed8196bf31ea3806e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_58
       rect:
         serializedVersion: 2
         x: 3310
@@ -576,7 +1337,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12b3b7e9dc24c1fa12d5590d6ac3a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_59
       rect:
         serializedVersion: 2
         x: 3641
@@ -585,7 +1357,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fdc5ed117004d1db8d463e2845cbd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_60
       rect:
         serializedVersion: 2
         x: 0
@@ -594,7 +1377,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b2db86f4dd4027aa0699b7e698710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_61
       rect:
         serializedVersion: 2
         x: 331
@@ -603,7 +1397,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa80858f3495945398d512a05cd75dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_62
       rect:
         serializedVersion: 2
         x: 662
@@ -612,7 +1417,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485f6c803ad54274bb5f34b738570d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_63
       rect:
         serializedVersion: 2
         x: 993
@@ -621,7 +1437,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23623dc2c85447db749674442de50e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_64
       rect:
         serializedVersion: 2
         x: 1324
@@ -630,7 +1457,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3955862de6bc4ee1b9bc98e6883984c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_65
       rect:
         serializedVersion: 2
         x: 1655
@@ -639,7 +1477,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8069f966aa0db4c789c354f675d8b69c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_66
       rect:
         serializedVersion: 2
         x: 1986
@@ -648,7 +1497,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9eeb7b77754c1281ed95f4d8ec1f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_67
       rect:
         serializedVersion: 2
         x: 2317
@@ -657,7 +1517,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037bd9e32ddb24750be47f9f9c2086b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_68
       rect:
         serializedVersion: 2
         x: 2648
@@ -666,7 +1537,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab7ddf90cdbc4ae4924feeafd444a33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_69
       rect:
         serializedVersion: 2
         x: 2979
@@ -675,7 +1557,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8238c4a6b6d471a825e740369c7de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_70
       rect:
         serializedVersion: 2
         x: 3310
@@ -684,7 +1577,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3565ca3bf7e4c5d8fcf20eb6bbda55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_71
       rect:
         serializedVersion: 2
         x: 3641
@@ -693,7 +1597,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fc4d665b184adaac0e2dc0c707db8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_72
       rect:
         serializedVersion: 2
         x: 0
@@ -702,7 +1617,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c453449a53ba44cd6b095d6af0e27c43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_73
       rect:
         serializedVersion: 2
         x: 331
@@ -711,7 +1637,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f97cc4010e45e0ad537f9be4dbb24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_74
       rect:
         serializedVersion: 2
         x: 662
@@ -720,7 +1657,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f951efa50034ea0a8440e9359a1d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_75
       rect:
         serializedVersion: 2
         x: 993
@@ -729,7 +1677,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792bccfb6a42b4fbaa4c8cbc259b226c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_76
       rect:
         serializedVersion: 2
         x: 1324
@@ -738,7 +1697,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbe2cda22b384886ba9d24c5a203077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_77
       rect:
         serializedVersion: 2
         x: 1655
@@ -747,7 +1717,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d1179eaa83848ecb3c94edaecec72d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_78
       rect:
         serializedVersion: 2
         x: 1986
@@ -756,7 +1737,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e191f5d659496c96708237b64b594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_79
       rect:
         serializedVersion: 2
         x: 2317
@@ -765,7 +1757,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f9522f220e4c22b6815d2d8589a2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_80
       rect:
         serializedVersion: 2
         x: 2648
@@ -774,7 +1777,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79e6f0fb0bd3448280147162dec0919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_81
       rect:
         serializedVersion: 2
         x: 2979
@@ -783,7 +1797,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78262f312313448e1be8ed541b0af80e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_82
       rect:
         serializedVersion: 2
         x: 3310
@@ -792,7 +1817,18 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: aww_yes-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439e4752623984158a73f63b46e2b116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aww_yes-frames_83
       rect:
         serializedVersion: 2
         x: 3641
@@ -801,5 +1837,27 @@ TextureImporter:
         height: 197
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3f07481992f4c379dcfbabe7f28c28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

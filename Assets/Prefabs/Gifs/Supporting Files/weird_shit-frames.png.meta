@@ -1,32 +1,130 @@
 fileFormatVersion: 2
 guid: 8afeb30d299905a42adcef68271b13d7
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: weird_shit-frames_0
+    21300002: weird_shit-frames_1
+    21300004: weird_shit-frames_2
+    21300006: weird_shit-frames_3
+    21300008: weird_shit-frames_4
+    21300010: weird_shit-frames_5
+    21300012: weird_shit-frames_6
+    21300014: weird_shit-frames_7
+    21300016: weird_shit-frames_8
+    21300018: weird_shit-frames_9
+    21300020: weird_shit-frames_10
+    21300022: weird_shit-frames_11
+    21300024: weird_shit-frames_12
+    21300026: weird_shit-frames_13
+    21300028: weird_shit-frames_14
+    21300030: weird_shit-frames_15
+    21300032: weird_shit-frames_16
+    21300034: weird_shit-frames_17
+    21300036: weird_shit-frames_18
+    21300038: weird_shit-frames_19
+    21300040: weird_shit-frames_20
+    21300042: weird_shit-frames_21
+    21300044: weird_shit-frames_22
+    21300046: weird_shit-frames_23
+    21300048: weird_shit-frames_24
+    21300050: weird_shit-frames_25
+    21300052: weird_shit-frames_26
+    21300054: weird_shit-frames_27
+    21300056: weird_shit-frames_28
+    21300058: weird_shit-frames_29
+    21300060: weird_shit-frames_30
+    21300062: weird_shit-frames_31
+    21300064: weird_shit-frames_32
+    21300066: weird_shit-frames_33
+    21300068: weird_shit-frames_34
+    21300070: weird_shit-frames_35
+    21300072: weird_shit-frames_36
+    21300074: weird_shit-frames_37
+    21300076: weird_shit-frames_38
+    21300078: weird_shit-frames_39
+    21300080: weird_shit-frames_40
+    21300082: weird_shit-frames_41
+    21300084: weird_shit-frames_42
+    21300086: weird_shit-frames_43
+    21300088: weird_shit-frames_44
+    21300090: weird_shit-frames_45
+    21300092: weird_shit-frames_46
+    21300094: weird_shit-frames_47
+    21300096: weird_shit-frames_48
+    21300098: weird_shit-frames_49
+    21300100: weird_shit-frames_50
+    21300102: weird_shit-frames_51
+    21300104: weird_shit-frames_52
+    21300106: weird_shit-frames_53
+    21300108: weird_shit-frames_54
+    21300110: weird_shit-frames_55
+    21300112: weird_shit-frames_56
+    21300114: weird_shit-frames_57
+    21300116: weird_shit-frames_58
+    21300118: weird_shit-frames_59
+    21300120: weird_shit-frames_60
+    21300122: weird_shit-frames_61
+    21300124: weird_shit-frames_62
+    21300126: weird_shit-frames_63
+    21300128: weird_shit-frames_64
+    21300130: weird_shit-frames_65
+    21300132: weird_shit-frames_66
+    21300134: weird_shit-frames_67
+    21300136: weird_shit-frames_68
+    21300138: weird_shit-frames_69
+    21300140: weird_shit-frames_70
+    21300142: weird_shit-frames_71
+    21300144: weird_shit-frames_72
+    21300146: weird_shit-frames_73
+    21300148: weird_shit-frames_74
+    21300150: weird_shit-frames_75
+    21300152: weird_shit-frames_76
+    21300154: weird_shit-frames_77
+    21300156: weird_shit-frames_78
+    21300158: weird_shit-frames_79
+    21300160: weird_shit-frames_80
+    21300162: weird_shit-frames_81
+    21300164: weird_shit-frames_82
+    21300166: weird_shit-frames_83
+    21300168: weird_shit-frames_84
+    21300170: weird_shit-frames_85
+    21300172: weird_shit-frames_86
+    21300174: weird_shit-frames_87
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +132,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: weird_shit-frames_0
+    - serializedVersion: 2
+      name: weird_shit-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +181,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a71b46f06514edfa149fbec62daf79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_1
       rect:
         serializedVersion: 2
         x: 450
@@ -63,7 +201,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389d134e5e43849dfa37fbdf55146245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_2
       rect:
         serializedVersion: 2
         x: 900
@@ -72,7 +221,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed406c7d00663406ca9bb0a9aa9edda7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_3
       rect:
         serializedVersion: 2
         x: 1350
@@ -81,7 +241,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee9846f3372440cabbec31f02a452a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_4
       rect:
         serializedVersion: 2
         x: 1800
@@ -90,7 +261,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5bf49ebfaff411b9085f46aa101ad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_5
       rect:
         serializedVersion: 2
         x: 2250
@@ -99,7 +281,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4383eba653ff449c6a04e8a288d03170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_6
       rect:
         serializedVersion: 2
         x: 2700
@@ -108,7 +301,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ff52aa526b8496db2b71ea294097b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_7
       rect:
         serializedVersion: 2
         x: 3150
@@ -117,7 +321,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11fed276dc541b4a62eb49a580201d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_8
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +341,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065a34da764b9445790dd78fe9d08574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_9
       rect:
         serializedVersion: 2
         x: 450
@@ -135,7 +361,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b520ea90e164f441bb8cd11366b9905c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_10
       rect:
         serializedVersion: 2
         x: 900
@@ -144,7 +381,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348d7b832678493296c2944ac188c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_11
       rect:
         serializedVersion: 2
         x: 1350
@@ -153,7 +401,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415389fd7da884aa4a32d598338693b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_12
       rect:
         serializedVersion: 2
         x: 1800
@@ -162,7 +421,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad068d174a4f45b5bc66d6d2d33e340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_13
       rect:
         serializedVersion: 2
         x: 2250
@@ -171,7 +441,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c958b151b7ec4042984b5c55b604e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_14
       rect:
         serializedVersion: 2
         x: 2700
@@ -180,7 +461,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a8179db7bdf46ffbe10cf57efaf6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_15
       rect:
         serializedVersion: 2
         x: 3150
@@ -189,7 +481,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d529e07a7d4b04b59c8b6b254f115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +501,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf13684a2428a4c18aa0814a761528ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_17
       rect:
         serializedVersion: 2
         x: 450
@@ -207,7 +521,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f80934fd42e4897887dfbb7d4f05e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_18
       rect:
         serializedVersion: 2
         x: 900
@@ -216,7 +541,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f987db198d1d34d8fbadf5d0a185c044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_19
       rect:
         serializedVersion: 2
         x: 1350
@@ -225,7 +561,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da861fd9214e8486f8ebdf466505e908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_20
       rect:
         serializedVersion: 2
         x: 1800
@@ -234,7 +581,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042b05f60022b48f38a5ebb3cd6e3d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_21
       rect:
         serializedVersion: 2
         x: 2250
@@ -243,7 +601,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66134ffdde204369b480a9bd68cf121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_22
       rect:
         serializedVersion: 2
         x: 2700
@@ -252,7 +621,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2d2bbf9f002406f86e821d6e01886b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_23
       rect:
         serializedVersion: 2
         x: 3150
@@ -261,7 +641,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79842b21412334398a56da23272c212a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +661,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ef45a7718004bdebe53d30797ee184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_25
       rect:
         serializedVersion: 2
         x: 450
@@ -279,7 +681,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb6ea28f38b4aeab38a0b45bbeae72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_26
       rect:
         serializedVersion: 2
         x: 900
@@ -288,7 +701,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9ef0c7bac39425aadb73c4ff5b081d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_27
       rect:
         serializedVersion: 2
         x: 1350
@@ -297,7 +721,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486c240e18d641c2bdbe977f857eca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_28
       rect:
         serializedVersion: 2
         x: 1800
@@ -306,7 +741,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b9876829b2d4392b03e2e114f35d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_29
       rect:
         serializedVersion: 2
         x: 2250
@@ -315,7 +761,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31cd8c3bd8a4a889071c5d52b79175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_30
       rect:
         serializedVersion: 2
         x: 2700
@@ -324,7 +781,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2432f983cb1443d8e2945c58465115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_31
       rect:
         serializedVersion: 2
         x: 3150
@@ -333,7 +801,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d5a504cb965471aab265ae797a9662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_32
       rect:
         serializedVersion: 2
         x: 0
@@ -342,7 +821,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41acda3ca61e458582a103527a60340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_33
       rect:
         serializedVersion: 2
         x: 450
@@ -351,7 +841,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82ad7dfabb424e03823c55f5a6ac06a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_34
       rect:
         serializedVersion: 2
         x: 900
@@ -360,7 +861,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b847d7c918d704fbb92c08a851f30b6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_35
       rect:
         serializedVersion: 2
         x: 1350
@@ -369,7 +881,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41681b61cf8db49458f9e6b42bcfebd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_36
       rect:
         serializedVersion: 2
         x: 1800
@@ -378,7 +901,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daab353bab7e543159b3baacab125b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_37
       rect:
         serializedVersion: 2
         x: 2250
@@ -387,7 +921,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979c75b16158d41ae84e046f0e06dae6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_38
       rect:
         serializedVersion: 2
         x: 2700
@@ -396,7 +941,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10df45709e444b55bea625e414028d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_39
       rect:
         serializedVersion: 2
         x: 3150
@@ -405,7 +961,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f73a32c3d57f4ca3a94c46761731384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_40
       rect:
         serializedVersion: 2
         x: 0
@@ -414,7 +981,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1766ff14cc34c89a008b2a40aa0634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_41
       rect:
         serializedVersion: 2
         x: 450
@@ -423,7 +1001,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8d0b258b94f4c6eab6ab574073bed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_42
       rect:
         serializedVersion: 2
         x: 900
@@ -432,7 +1021,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6896dcf9894bae8077c00c7f43962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_43
       rect:
         serializedVersion: 2
         x: 1350
@@ -441,7 +1041,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953cd300a5bb64241a913a5f2cc3bb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_44
       rect:
         serializedVersion: 2
         x: 1800
@@ -450,7 +1061,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9099820812b2349cf95b194678d376a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_45
       rect:
         serializedVersion: 2
         x: 2250
@@ -459,7 +1081,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e30d868cf65643d19602896afaa9d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_46
       rect:
         serializedVersion: 2
         x: 2700
@@ -468,7 +1101,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784a838fc5ae147a3abe7735c7978ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_47
       rect:
         serializedVersion: 2
         x: 3150
@@ -477,7 +1121,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0603e18145e74e4483730064b001192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_48
       rect:
         serializedVersion: 2
         x: 0
@@ -486,7 +1141,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93762a87d068d4ef39c9104732e10cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_49
       rect:
         serializedVersion: 2
         x: 450
@@ -495,7 +1161,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd082e811db5847e38bdd670fb20d312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_50
       rect:
         serializedVersion: 2
         x: 900
@@ -504,7 +1181,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91f8eb918ef44a5d932a1dc2523e412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_51
       rect:
         serializedVersion: 2
         x: 1350
@@ -513,7 +1201,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8113002dcbbc441ecb4452180723c5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_52
       rect:
         serializedVersion: 2
         x: 1800
@@ -522,7 +1221,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be6fba178614065b1de347dcc065d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_53
       rect:
         serializedVersion: 2
         x: 2250
@@ -531,7 +1241,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532512c24f7fa4dcda5fbb01e21ca806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_54
       rect:
         serializedVersion: 2
         x: 2700
@@ -540,7 +1261,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc335770e881747a688c004b02367481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_55
       rect:
         serializedVersion: 2
         x: 3150
@@ -549,7 +1281,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2551fd5d09453455cb633dc5632de209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_56
       rect:
         serializedVersion: 2
         x: 0
@@ -558,7 +1301,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24869f8a75b054d469d654fd7830a0b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_57
       rect:
         serializedVersion: 2
         x: 450
@@ -567,7 +1321,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf3b6710f87f439294275a2d5a25251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_58
       rect:
         serializedVersion: 2
         x: 900
@@ -576,7 +1341,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b6e650b84e54c69bffb817510cf00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_59
       rect:
         serializedVersion: 2
         x: 1350
@@ -585,7 +1361,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0ecfaadf3e043ee80f2e6109b166ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_60
       rect:
         serializedVersion: 2
         x: 1800
@@ -594,7 +1381,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155dad65786ee488e97a1da0b398ecfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_61
       rect:
         serializedVersion: 2
         x: 2250
@@ -603,7 +1401,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7511c37c0944bbfa6291b5285355d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_62
       rect:
         serializedVersion: 2
         x: 2700
@@ -612,7 +1421,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5202d77c9dd634f2693d4ff25dd75a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_63
       rect:
         serializedVersion: 2
         x: 3150
@@ -621,7 +1441,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62204528fce744bb8b1ba0e6be200840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_64
       rect:
         serializedVersion: 2
         x: 0
@@ -630,7 +1461,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635dcda4a641548b18abde717a345256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_65
       rect:
         serializedVersion: 2
         x: 450
@@ -639,7 +1481,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab385ecaf2054a4ba0822f63d181dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_66
       rect:
         serializedVersion: 2
         x: 900
@@ -648,7 +1501,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561632f0a10e34138b313e72e0e6d038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_67
       rect:
         serializedVersion: 2
         x: 1350
@@ -657,7 +1521,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c218f999b1bb24d228fec74b018399cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_68
       rect:
         serializedVersion: 2
         x: 1800
@@ -666,7 +1541,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3138cbbbd3ceb416cae9cc3792e62780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_69
       rect:
         serializedVersion: 2
         x: 2250
@@ -675,7 +1561,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6d0a79480f24da4a3c81cd0320bc43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_70
       rect:
         serializedVersion: 2
         x: 2700
@@ -684,7 +1581,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143b54a892ab0450c8a570d82ece852e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_71
       rect:
         serializedVersion: 2
         x: 3150
@@ -693,7 +1601,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2f2e299536248609de7b30c43a7e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_72
       rect:
         serializedVersion: 2
         x: 0
@@ -702,7 +1621,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3822b26ef549143b2b320bf717d89f6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_73
       rect:
         serializedVersion: 2
         x: 450
@@ -711,7 +1641,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb91a4daa79ae46c888f54e2a5a380e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_74
       rect:
         serializedVersion: 2
         x: 900
@@ -720,7 +1661,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bbcc0ff7c24752a77e1504e15bef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_75
       rect:
         serializedVersion: 2
         x: 1350
@@ -729,7 +1681,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38111d0ab08f4ded86c936b1a44f751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_76
       rect:
         serializedVersion: 2
         x: 1800
@@ -738,7 +1701,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b487c2a67fdab418cae15746bbf159b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_77
       rect:
         serializedVersion: 2
         x: 2250
@@ -747,7 +1721,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35e964cb52c2433785bfe36b280770b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_78
       rect:
         serializedVersion: 2
         x: 2700
@@ -756,7 +1741,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e48e571e7c4f4dc4b429fc139b8a500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_79
       rect:
         serializedVersion: 2
         x: 3150
@@ -765,7 +1761,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2944c1190d99f4800ba6e6e098643d22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_80
       rect:
         serializedVersion: 2
         x: 0
@@ -774,7 +1781,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d62cd9936164f8c849bb1f309a656b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_81
       rect:
         serializedVersion: 2
         x: 450
@@ -783,7 +1801,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ba9b935d94b47a8b6c8ddbc87a24f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_82
       rect:
         serializedVersion: 2
         x: 900
@@ -792,7 +1821,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13af16a365abe49619f90c40529d94ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_83
       rect:
         serializedVersion: 2
         x: 1350
@@ -801,7 +1841,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377bb19c70d0f4b3b8f581e120b5b614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_84
       rect:
         serializedVersion: 2
         x: 1800
@@ -810,7 +1861,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110982ba4ef294b8ab3164b70a115b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_85
       rect:
         serializedVersion: 2
         x: 2250
@@ -819,7 +1881,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8968a2d3217584ceea88e35694a377cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_86
       rect:
         serializedVersion: 2
         x: 2700
@@ -828,7 +1901,18 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: weird_shit-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cc6985d82ce43b08590e574c89e27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: weird_shit-frames_87
       rect:
         serializedVersion: 2
         x: 3150
@@ -837,5 +1921,27 @@ TextureImporter:
         height: 253
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c88592dbdf4e44ba12323d0652b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

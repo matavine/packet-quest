@@ -1,32 +1,74 @@
 fileFormatVersion: 2
 guid: de46c6803044d6a4d82cc6dc3dc2924c
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: mark_wahlberg_confused-frames_0
+    21300002: mark_wahlberg_confused-frames_1
+    21300004: mark_wahlberg_confused-frames_2
+    21300006: mark_wahlberg_confused-frames_3
+    21300008: mark_wahlberg_confused-frames_4
+    21300010: mark_wahlberg_confused-frames_5
+    21300012: mark_wahlberg_confused-frames_6
+    21300014: mark_wahlberg_confused-frames_7
+    21300016: mark_wahlberg_confused-frames_8
+    21300018: mark_wahlberg_confused-frames_9
+    21300020: mark_wahlberg_confused-frames_10
+    21300022: mark_wahlberg_confused-frames_11
+    21300024: mark_wahlberg_confused-frames_12
+    21300026: mark_wahlberg_confused-frames_13
+    21300028: mark_wahlberg_confused-frames_14
+    21300030: mark_wahlberg_confused-frames_15
+    21300032: mark_wahlberg_confused-frames_16
+    21300034: mark_wahlberg_confused-frames_17
+    21300036: mark_wahlberg_confused-frames_18
+    21300038: mark_wahlberg_confused-frames_19
+    21300040: mark_wahlberg_confused-frames_20
+    21300042: mark_wahlberg_confused-frames_21
+    21300044: mark_wahlberg_confused-frames_22
+    21300046: mark_wahlberg_confused-frames_23
+    21300048: mark_wahlberg_confused-frames_24
+    21300050: mark_wahlberg_confused-frames_25
+    21300052: mark_wahlberg_confused-frames_26
+    21300054: mark_wahlberg_confused-frames_27
+    21300056: mark_wahlberg_confused-frames_28
+    21300058: mark_wahlberg_confused-frames_29
+    21300060: mark_wahlberg_confused-frames_30
+    21300062: mark_wahlberg_confused-frames_31
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +76,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: mark_wahlberg_confused-frames_0
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +125,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528aace4817a48b2ba4a2313124f9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_1
       rect:
         serializedVersion: 2
         x: 477
@@ -63,7 +145,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd80c6d59954347b1138f7ab8dedf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_2
       rect:
         serializedVersion: 2
         x: 954
@@ -72,7 +165,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9f56fb66b69440187e6338d624db4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_3
       rect:
         serializedVersion: 2
         x: 1431
@@ -81,7 +185,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36d7275c55a3446caffedb5cf9d3de7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_4
       rect:
         serializedVersion: 2
         x: 1908
@@ -90,7 +205,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f88a18d5ff34b959929340af85d2c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_5
       rect:
         serializedVersion: 2
         x: 2385
@@ -99,7 +225,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc815ead3622a452d89ad3b8bf6fc6ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_6
       rect:
         serializedVersion: 2
         x: 2862
@@ -108,7 +245,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9c302d2388146029da11871c2f80f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_7
       rect:
         serializedVersion: 2
         x: 3339
@@ -117,7 +265,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e18fc084594d309a01e6394437a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_8
       rect:
         serializedVersion: 2
         x: 0
@@ -126,7 +285,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a43462a5f84e6ca447e265d89023a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_9
       rect:
         serializedVersion: 2
         x: 477
@@ -135,7 +305,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90352564c55f646c9b073302cab186c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_10
       rect:
         serializedVersion: 2
         x: 954
@@ -144,7 +325,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5ef89b8c90b43b6af4d931027339f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_11
       rect:
         serializedVersion: 2
         x: 1431
@@ -153,7 +345,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcfaf1ebd2da47649236c61f3e26cc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_12
       rect:
         serializedVersion: 2
         x: 1908
@@ -162,7 +365,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185a2b952c6140b58c68984639d5a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_13
       rect:
         serializedVersion: 2
         x: 2385
@@ -171,7 +385,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050c66deb0e494fe29b2d3b9a05b337f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_14
       rect:
         serializedVersion: 2
         x: 2862
@@ -180,7 +405,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f35fdc13cc147f2bcbc7cf69541d93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_15
       rect:
         serializedVersion: 2
         x: 3339
@@ -189,7 +425,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c7b628916240faa6a354d2a8701b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_16
       rect:
         serializedVersion: 2
         x: 0
@@ -198,7 +445,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed035186d0d764c8fbe05672a5cf6733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_17
       rect:
         serializedVersion: 2
         x: 477
@@ -207,7 +465,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f4c50a59f5469b88e39f29f892616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_18
       rect:
         serializedVersion: 2
         x: 954
@@ -216,7 +485,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a347251696d74e1bbf0582f338655ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_19
       rect:
         serializedVersion: 2
         x: 1431
@@ -225,7 +505,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69cc7ac8451e4b52858b891f833f187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_20
       rect:
         serializedVersion: 2
         x: 1908
@@ -234,7 +525,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace207c8adb7c4bce9ec129967841a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_21
       rect:
         serializedVersion: 2
         x: 2385
@@ -243,7 +545,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed81c46d2acb45ec81af9c830e1a291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_22
       rect:
         serializedVersion: 2
         x: 2862
@@ -252,7 +565,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eebcf8d469e459fb28ee41e3ee3ec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_23
       rect:
         serializedVersion: 2
         x: 3339
@@ -261,7 +585,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2546dab516aa4441180cff2057493c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_24
       rect:
         serializedVersion: 2
         x: 0
@@ -270,7 +605,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f963af09187f4204a79ee5ec2cbe454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_25
       rect:
         serializedVersion: 2
         x: 477
@@ -279,7 +625,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ef7396dd13b44dd920e90b3f78f639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_26
       rect:
         serializedVersion: 2
         x: 954
@@ -288,7 +645,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb8455f33aaa42b7bbc9fbcc3b56d1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_27
       rect:
         serializedVersion: 2
         x: 1431
@@ -297,7 +665,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a347bb488f4d7466a89a3b149b00eb88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_28
       rect:
         serializedVersion: 2
         x: 1908
@@ -306,7 +685,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71a32c74a134aaea8671b0f719e5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_29
       rect:
         serializedVersion: 2
         x: 2385
@@ -315,7 +705,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9fd548e6fca4db6896c37094d0f3d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_30
       rect:
         serializedVersion: 2
         x: 2862
@@ -324,7 +725,18 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: mark_wahlberg_confused-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7114717d588403e8479acedc10238b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mark_wahlberg_confused-frames_31
       rect:
         serializedVersion: 2
         x: 3339
@@ -333,5 +745,27 @@ TextureImporter:
         height: 252
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38192f87d81df4b54833831380a6cff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

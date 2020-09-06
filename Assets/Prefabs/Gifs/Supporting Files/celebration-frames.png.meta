@@ -1,32 +1,78 @@
 fileFormatVersion: 2
 guid: aa37a454eddfdaf40983ec028a566649
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: celebration-frames_0
+    21300002: celebration-frames_1
+    21300004: celebration-frames_2
+    21300006: celebration-frames_3
+    21300008: celebration-frames_4
+    21300010: celebration-frames_5
+    21300012: celebration-frames_6
+    21300014: celebration-frames_7
+    21300016: celebration-frames_8
+    21300018: celebration-frames_9
+    21300020: celebration-frames_10
+    21300022: celebration-frames_11
+    21300024: celebration-frames_12
+    21300026: celebration-frames_13
+    21300028: celebration-frames_14
+    21300030: celebration-frames_15
+    21300032: celebration-frames_16
+    21300034: celebration-frames_17
+    21300036: celebration-frames_18
+    21300038: celebration-frames_19
+    21300040: celebration-frames_20
+    21300042: celebration-frames_21
+    21300044: celebration-frames_22
+    21300046: celebration-frames_23
+    21300048: celebration-frames_24
+    21300050: celebration-frames_25
+    21300052: celebration-frames_26
+    21300054: celebration-frames_27
+    21300056: celebration-frames_28
+    21300058: celebration-frames_29
+    21300060: celebration-frames_30
+    21300062: celebration-frames_31
+    21300064: celebration-frames_32
+    21300066: celebration-frames_33
+    21300068: celebration-frames_34
+    21300070: celebration-frames_35
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -1
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +80,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: celebration-frames_0
+    - serializedVersion: 2
+      name: celebration-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +129,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c0c9bf1233c42a1ab8540ec25978da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_1
       rect:
         serializedVersion: 2
         x: 400
@@ -63,7 +149,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d707d24050f974bfebc9d8d60a0b3813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_2
       rect:
         serializedVersion: 2
         x: 800
@@ -72,7 +169,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8779bd65c54e9baaca30547e08c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_3
       rect:
         serializedVersion: 2
         x: 1200
@@ -81,7 +189,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76a77c46d464f3b84db6fb01601fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_4
       rect:
         serializedVersion: 2
         x: 1600
@@ -90,7 +209,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d82bbbe32c9646cea05c09b26852eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_5
       rect:
         serializedVersion: 2
         x: 2000
@@ -99,7 +229,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e246e1f9134164d059e41418e6dcbd06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_6
       rect:
         serializedVersion: 2
         x: 2400
@@ -108,7 +249,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f489c50fce9284eb1b7b2d16a276f970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_7
       rect:
         serializedVersion: 2
         x: 2800
@@ -117,7 +269,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec4175fa7f3c4a0c910bad805ec4639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_8
       rect:
         serializedVersion: 2
         x: 3200
@@ -126,7 +289,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764e7775f1a94482992c7565f499ec30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_9
       rect:
         serializedVersion: 2
         x: 0
@@ -135,7 +309,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482626586fc0a41dba64b0949c75c041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_10
       rect:
         serializedVersion: 2
         x: 400
@@ -144,7 +329,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6182c44f7cc74e5da6bb6f165026ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_11
       rect:
         serializedVersion: 2
         x: 800
@@ -153,7 +349,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff491b349ff547b882e9f2869630bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_12
       rect:
         serializedVersion: 2
         x: 1200
@@ -162,7 +369,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1257583e7265f41ed865d638619a33bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_13
       rect:
         serializedVersion: 2
         x: 1600
@@ -171,7 +389,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed081a0cb73d47219b7f94638d668f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_14
       rect:
         serializedVersion: 2
         x: 2000
@@ -180,7 +409,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f192c3aac042eba4bb2fc3bb3e41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_15
       rect:
         serializedVersion: 2
         x: 2400
@@ -189,7 +429,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4933d8bb6c7d04ef899cb2bba1c71b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_16
       rect:
         serializedVersion: 2
         x: 2800
@@ -198,7 +449,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07cd2f0e898f417ba84e3f5a3a5d675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_17
       rect:
         serializedVersion: 2
         x: 3200
@@ -207,7 +469,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701013f46c692440bb15654879fa794b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_18
       rect:
         serializedVersion: 2
         x: 0
@@ -216,7 +489,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1435c2ae77d7c4e0f9a953d9773b5eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_19
       rect:
         serializedVersion: 2
         x: 400
@@ -225,7 +509,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb877dcfe0c574f20842a71fec00421b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_20
       rect:
         serializedVersion: 2
         x: 800
@@ -234,7 +529,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d08404fceb4049b7ba4bb6da48f9f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_21
       rect:
         serializedVersion: 2
         x: 1200
@@ -243,7 +549,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e5a5f743954849b242a62ab0f50ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_22
       rect:
         serializedVersion: 2
         x: 1600
@@ -252,7 +569,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d85287b6094cb98e2f56fae1dcdcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_23
       rect:
         serializedVersion: 2
         x: 2000
@@ -261,7 +589,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c768764d8224810b4b3b14524e56ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_24
       rect:
         serializedVersion: 2
         x: 2400
@@ -270,7 +609,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dcabdc2773f4cfab098e8a139aaa66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_25
       rect:
         serializedVersion: 2
         x: 2800
@@ -279,7 +629,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c7647e344344f2aafc80f241f97767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_26
       rect:
         serializedVersion: 2
         x: 3200
@@ -288,7 +649,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e367dfb1f17f41feb3c70b9f8e989b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_27
       rect:
         serializedVersion: 2
         x: 0
@@ -297,7 +669,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dff5c1d2c5b408eaeca1c6003c8bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_28
       rect:
         serializedVersion: 2
         x: 400
@@ -306,7 +689,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c5fe9b500943579d5b19010cd30c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_29
       rect:
         serializedVersion: 2
         x: 800
@@ -315,7 +709,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a0a528eba9453683cfb3f02f359da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_30
       rect:
         serializedVersion: 2
         x: 1200
@@ -324,7 +729,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099f22998e295494c858332e5bba8b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_31
       rect:
         serializedVersion: 2
         x: 1600
@@ -333,7 +749,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e218351567679485fbdebb2247bd612b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_32
       rect:
         serializedVersion: 2
         x: 2000
@@ -342,7 +769,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70864dd5cf92e42588cad6ee354c82cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_33
       rect:
         serializedVersion: 2
         x: 2400
@@ -351,7 +789,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca21f297d5043109bade6c42977a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_34
       rect:
         serializedVersion: 2
         x: 2800
@@ -360,7 +809,18 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: celebration-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb26691ee2a84b37b8a3c0038665c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celebration-frames_35
       rect:
         serializedVersion: 2
         x: 3200
@@ -369,5 +829,27 @@ TextureImporter:
         height: 202
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e65a85fa8d043e68bd4e2b5284c806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

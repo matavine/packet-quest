@@ -20,17 +20,17 @@ public class LauncherBlockScript : MonoBehaviour {
 		horizontal = (launchVector.y == 0)? true : false;
 
 		if(horizontal) {
-			particleSystem.startLifetime = Mathf.Abs((-launchVector.x) / Physics2D.gravity.magnitude);
-			if(Mathf.Abs(particleSystem.startLifetime * launchVector.x) > maxParticleDistance) {
-				particleSystem.startLifetime = Mathf.Abs(maxParticleDistance / launchVector.x);
+			GetComponent<ParticleSystem>().startLifetime = Mathf.Abs((-launchVector.x) / Physics2D.gravity.magnitude);
+			if(Mathf.Abs(GetComponent<ParticleSystem>().startLifetime * launchVector.x) > maxParticleDistance) {
+				GetComponent<ParticleSystem>().startLifetime = Mathf.Abs(maxParticleDistance / launchVector.x);
 			}
 		}
 		else {
-			particleSystem.startLifetime = Mathf.Abs((-launchVector.y) / Physics2D.gravity.magnitude);
+			GetComponent<ParticleSystem>().startLifetime = Mathf.Abs((-launchVector.y) / Physics2D.gravity.magnitude);
 			float speed = Mathf.Sqrt(Mathf.Pow(launchVector.x, 2) + Mathf.Pow(launchVector.y, 2));
-			float distance = speed * particleSystem.startLifetime;
+			float distance = speed * GetComponent<ParticleSystem>().startLifetime;
 			if(distance > maxParticleDistance) {
-				particleSystem.startLifetime = Mathf.Abs(maxParticleDistance / speed);
+				GetComponent<ParticleSystem>().startLifetime = Mathf.Abs(maxParticleDistance / speed);
 			}
 		}
 
@@ -74,19 +74,19 @@ public class LauncherBlockScript : MonoBehaviour {
 	}
 
 	public void LateUpdate() {
-		ParticleSystem.Particle[] particles = new ParticleSystem.Particle[particleSystem.particleCount+1];
-		int numParticles = particleSystem.GetParticles(particles);
+		ParticleSystem.Particle[] particles = new ParticleSystem.Particle[GetComponent<ParticleSystem>().particleCount+1];
+		int numParticles = GetComponent<ParticleSystem>().GetParticles(particles);
 
 		for(int i=0; i<numParticles; i++) {
 			if(horizontal) {
 				particles[i].velocity = new Vector3(launchVector.x, 0, 0);
 			}
 			else {
-				float yVelocity = ((particles[i].startLifetime - particles[i].lifetime) * -Physics2D.gravity.magnitude) + launchVector.y;
+				float yVelocity = ((particles[i].startLifetime - particles[i].remainingLifetime) * -Physics2D.gravity.magnitude) + launchVector.y;
 				particles[i].velocity = new Vector3(launchVector.x, yVelocity, 0);
 			}
 		}
 
-		particleSystem.SetParticles(particles, numParticles);
+		GetComponent<ParticleSystem>().SetParticles(particles, numParticles);
 	}
 }

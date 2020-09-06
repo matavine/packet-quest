@@ -58,7 +58,7 @@ public class AnimatedTexture : MonoBehaviour {
             _isPlaying = false;
         }
         // Make sure the renderer is enabled
-        renderer.enabled = true;
+        GetComponent<Renderer>().enabled = true;
  
         //Because of the way textures calculate the y value, we need to start at the max y value
         _index = _columns;
@@ -74,25 +74,25 @@ public class AnimatedTexture : MonoBehaviour {
             // First check our material instance, if we already have a material instance
             // and we want to create a new one, we need to clean up the old one
             if (_hasMaterialInstance)
-                Object.Destroy(renderer.sharedMaterial);
+                Object.Destroy(GetComponent<Renderer>().sharedMaterial);
  
             // create the new material
             _materialInstance = new Material(newMaterial);
  
             // Assign it to the renderer
-            renderer.sharedMaterial = _materialInstance;
+            GetComponent<Renderer>().sharedMaterial = _materialInstance;
  
             // Set the flag
             _hasMaterialInstance = true;
         }
         else // if we dont have create a new instance, just assign the texture
-            renderer.sharedMaterial = newMaterial;        
+            GetComponent<Renderer>().sharedMaterial = newMaterial;        
  
         // We need to recalc the texture size (since different material = possible different texture)
         CalcTextureSize();
  
         // Assign the new texture size
-        renderer.sharedMaterial.SetTextureScale("_MainTex", _textureSize);
+        GetComponent<Renderer>().sharedMaterial.SetTextureScale("_MainTex", _textureSize);
     }
  
     private void Awake()
@@ -102,7 +102,7 @@ public class AnimatedTexture : MonoBehaviour {
             _voidEventCallbackList = new List<VoidEvent>();
  
         //Create the material instance, if needed. else, just use this function to recalc the texture size
-        ChangeMaterial(renderer.sharedMaterial, _newMaterialInstance);
+        ChangeMaterial(GetComponent<Renderer>().sharedMaterial, _newMaterialInstance);
     }
  
     private void OnDestroy()
@@ -110,7 +110,7 @@ public class AnimatedTexture : MonoBehaviour {
         // If we wanted new material instances, we need to destroy the material
         if (_hasMaterialInstance)
         {
-            Object.Destroy(renderer.sharedMaterial);
+            Object.Destroy(GetComponent<Renderer>().sharedMaterial);
             _hasMaterialInstance = false;
         }
     }
@@ -170,7 +170,7 @@ public class AnimatedTexture : MonoBehaviour {
                             HandleCallbacks(_voidEventCallbackList);
  
                         if (_disableUponCompletion)
-                            gameObject.renderer.enabled = false;
+                            gameObject.GetComponent<Renderer>().enabled = false;
  
                         // turn off the isplaying flag
                         _isPlaying = false;
@@ -214,7 +214,7 @@ public class AnimatedTexture : MonoBehaviour {
         offset.y += _offset.y;
  
         // Update the material
-        renderer.sharedMaterial.SetTextureOffset("_MainTex", offset);
+        GetComponent<Renderer>().sharedMaterial.SetTextureOffset("_MainTex", offset);
     }
 
 }

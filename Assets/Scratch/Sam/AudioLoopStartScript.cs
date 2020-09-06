@@ -6,9 +6,9 @@ public class AudioLoopStartScript : MonoBehaviour {
 	
 	void Update() {
 		// Once the initial clip has finished, loop loopClip indefinitely
-		if (!audio.isPlaying) {
-			audio.clip = loopClip;
-			audio.Play();
+		if (!GetComponent<AudioSource>().isPlaying) {
+			GetComponent<AudioSource>().clip = loopClip;
+			GetComponent<AudioSource>().Play();
 		}
 	}
 	

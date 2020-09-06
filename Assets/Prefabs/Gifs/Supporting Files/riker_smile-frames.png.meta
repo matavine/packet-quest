@@ -1,32 +1,117 @@
 fileFormatVersion: 2
 guid: 780960177dd5af84aad4f08b6553ca65
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: riker_smile-frames_0
+    21300002: riker_smile-frames_1
+    21300004: riker_smile-frames_2
+    21300006: riker_smile-frames_3
+    21300008: riker_smile-frames_4
+    21300010: riker_smile-frames_5
+    21300012: riker_smile-frames_6
+    21300014: riker_smile-frames_7
+    21300016: riker_smile-frames_8
+    21300018: riker_smile-frames_9
+    21300020: riker_smile-frames_10
+    21300022: riker_smile-frames_11
+    21300024: riker_smile-frames_12
+    21300026: riker_smile-frames_13
+    21300028: riker_smile-frames_14
+    21300030: riker_smile-frames_15
+    21300032: riker_smile-frames_16
+    21300034: riker_smile-frames_17
+    21300036: riker_smile-frames_18
+    21300038: riker_smile-frames_19
+    21300040: riker_smile-frames_20
+    21300042: riker_smile-frames_21
+    21300044: riker_smile-frames_22
+    21300046: riker_smile-frames_23
+    21300048: riker_smile-frames_24
+    21300050: riker_smile-frames_25
+    21300052: riker_smile-frames_26
+    21300054: riker_smile-frames_27
+    21300056: riker_smile-frames_28
+    21300058: riker_smile-frames_29
+    21300060: riker_smile-frames_30
+    21300062: riker_smile-frames_31
+    21300064: riker_smile-frames_32
+    21300066: riker_smile-frames_33
+    21300068: riker_smile-frames_34
+    21300070: riker_smile-frames_35
+    21300072: riker_smile-frames_36
+    21300074: riker_smile-frames_37
+    21300076: riker_smile-frames_38
+    21300078: riker_smile-frames_39
+    21300080: riker_smile-frames_40
+    21300082: riker_smile-frames_41
+    21300084: riker_smile-frames_42
+    21300086: riker_smile-frames_43
+    21300088: riker_smile-frames_44
+    21300090: riker_smile-frames_45
+    21300092: riker_smile-frames_46
+    21300094: riker_smile-frames_47
+    21300096: riker_smile-frames_48
+    21300098: riker_smile-frames_49
+    21300100: riker_smile-frames_50
+    21300102: riker_smile-frames_51
+    21300104: riker_smile-frames_52
+    21300106: riker_smile-frames_53
+    21300108: riker_smile-frames_54
+    21300110: riker_smile-frames_55
+    21300112: riker_smile-frames_56
+    21300114: riker_smile-frames_57
+    21300116: riker_smile-frames_58
+    21300118: riker_smile-frames_59
+    21300120: riker_smile-frames_60
+    21300122: riker_smile-frames_61
+    21300124: riker_smile-frames_62
+    21300126: riker_smile-frames_63
+    21300128: riker_smile-frames_64
+    21300130: riker_smile-frames_65
+    21300132: riker_smile-frames_66
+    21300134: riker_smile-frames_67
+    21300136: riker_smile-frames_68
+    21300138: riker_smile-frames_69
+    21300140: riker_smile-frames_70
+    21300142: riker_smile-frames_71
+    21300144: riker_smile-frames_72
+    21300146: riker_smile-frames_73
+    21300148: riker_smile-frames_74
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +119,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: riker_smile-frames_0
+    - serializedVersion: 2
+      name: riker_smile-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +168,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b3e7eb00dc245f2bc4ff11502ec2c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_1
       rect:
         serializedVersion: 2
         x: 250
@@ -63,7 +188,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6428c8804c01a46df991478315e6b1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_2
       rect:
         serializedVersion: 2
         x: 500
@@ -72,7 +208,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22cc7a7f86e4490baec7b30caacd049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_3
       rect:
         serializedVersion: 2
         x: 750
@@ -81,7 +228,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd100d9549c1c4d8f8b36b4c8338e696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_4
       rect:
         serializedVersion: 2
         x: 1000
@@ -90,7 +248,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475f7c67915d94d10a6a10a13f3de017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_5
       rect:
         serializedVersion: 2
         x: 1250
@@ -99,7 +268,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0756c166c1e3a42549163714a875cbbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_6
       rect:
         serializedVersion: 2
         x: 1500
@@ -108,7 +288,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25c4cacc36b4b23aae13f5848d9acc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_7
       rect:
         serializedVersion: 2
         x: 1750
@@ -117,7 +308,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54addea818f114609b076a6fbbd0045a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_8
       rect:
         serializedVersion: 2
         x: 2000
@@ -126,7 +328,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a2d560531a648daa01aa888f6e43e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_9
       rect:
         serializedVersion: 2
         x: 2250
@@ -135,7 +348,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f30affd44c72441ca96ee258b7ddf28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_10
       rect:
         serializedVersion: 2
         x: 2500
@@ -144,7 +368,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140a6e3f000d64d37958a3749f6b58bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_11
       rect:
         serializedVersion: 2
         x: 2750
@@ -153,7 +388,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4adb018290b486595a12dc36653887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_12
       rect:
         serializedVersion: 2
         x: 3000
@@ -162,7 +408,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2342ce4d05bd743b68e8aa0a24d52d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_13
       rect:
         serializedVersion: 2
         x: 3250
@@ -171,7 +428,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9b78a17a92e445591bf99d8ac48e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_14
       rect:
         serializedVersion: 2
         x: 3500
@@ -180,7 +448,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b27e14efdd4b0baa4071d638ad01b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_15
       rect:
         serializedVersion: 2
         x: 0
@@ -189,7 +468,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8594b449a085c43238e5f2c6c4dc9f01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_16
       rect:
         serializedVersion: 2
         x: 250
@@ -198,7 +488,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80168c4c337504646a4b677393c5de50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_17
       rect:
         serializedVersion: 2
         x: 500
@@ -207,7 +508,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4749f024ccc04972b587db564912e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_18
       rect:
         serializedVersion: 2
         x: 750
@@ -216,7 +528,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2194d3fa85144dd893b47a312a499a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_19
       rect:
         serializedVersion: 2
         x: 1000
@@ -225,7 +548,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59f478659b24802ba2caf19a3ecb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_20
       rect:
         serializedVersion: 2
         x: 1250
@@ -234,7 +568,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ff21060daa649009dc132496666696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_21
       rect:
         serializedVersion: 2
         x: 1500
@@ -243,7 +588,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26a25b75e91d430b8cc95f21018bd7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_22
       rect:
         serializedVersion: 2
         x: 1750
@@ -252,7 +608,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9092fbe6e245aaa7733cbc3aeba32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_23
       rect:
         serializedVersion: 2
         x: 2000
@@ -261,7 +628,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b96b45d1c47482ba7d5410fc5624ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_24
       rect:
         serializedVersion: 2
         x: 2250
@@ -270,7 +648,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b615691f10f414cb968267dfec93b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_25
       rect:
         serializedVersion: 2
         x: 2500
@@ -279,7 +668,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09b39fbe1ad4387bf436bc75cb165f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_26
       rect:
         serializedVersion: 2
         x: 2750
@@ -288,7 +688,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445aac3eabc174a95a7ab4a2b07614be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_27
       rect:
         serializedVersion: 2
         x: 3000
@@ -297,7 +708,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570f2b1a4b823435199c9e2075f18de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_28
       rect:
         serializedVersion: 2
         x: 3250
@@ -306,7 +728,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10188104d72cf49e1ab7082eeecf4395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_29
       rect:
         serializedVersion: 2
         x: 3500
@@ -315,7 +748,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ac6866fafe449d1bdac30ba373f945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_30
       rect:
         serializedVersion: 2
         x: 0
@@ -324,7 +768,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdb198e930d3434c868f570fc51dc2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_31
       rect:
         serializedVersion: 2
         x: 250
@@ -333,7 +788,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b6b6bf94ca439494928efa7f2d799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_32
       rect:
         serializedVersion: 2
         x: 500
@@ -342,7 +808,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ffa1185f2a54f259967377427f6e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_33
       rect:
         serializedVersion: 2
         x: 750
@@ -351,7 +828,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c79674cb621e4ab8a49f617006997df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_34
       rect:
         serializedVersion: 2
         x: 1000
@@ -360,7 +848,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32353aea7ae3442e1a821561686740f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_35
       rect:
         serializedVersion: 2
         x: 1250
@@ -369,7 +868,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d211a5300548428190ae367d52c095b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_36
       rect:
         serializedVersion: 2
         x: 1500
@@ -378,7 +888,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e55d3d750047f39c7e4896b09766b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_37
       rect:
         serializedVersion: 2
         x: 1750
@@ -387,7 +908,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94980aabd39094a9eba3c1f7ea266ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_38
       rect:
         serializedVersion: 2
         x: 2000
@@ -396,7 +928,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94dff5b065624aafae5938afae8c3fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_39
       rect:
         serializedVersion: 2
         x: 2250
@@ -405,7 +948,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b36a43c8ebb43a1a2322aaa9a002b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_40
       rect:
         serializedVersion: 2
         x: 2500
@@ -414,7 +968,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e098d8746c8e443f7abb1f0e52d0db4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_41
       rect:
         serializedVersion: 2
         x: 2750
@@ -423,7 +988,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de04eb281364540f19d3c79d23f161a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_42
       rect:
         serializedVersion: 2
         x: 3000
@@ -432,7 +1008,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34479d6badf0245468ffcbe2acf5f938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_43
       rect:
         serializedVersion: 2
         x: 3250
@@ -441,7 +1028,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab94a758e80444b09a755079ea7e8c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_44
       rect:
         serializedVersion: 2
         x: 3500
@@ -450,7 +1048,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d5d853635ff4394a6145581c21f66b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_45
       rect:
         serializedVersion: 2
         x: 0
@@ -459,7 +1068,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fccd0af1f009462989649ae50411d0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_46
       rect:
         serializedVersion: 2
         x: 250
@@ -468,7 +1088,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6435e80c70fc5412693c5250dfb950d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_47
       rect:
         serializedVersion: 2
         x: 500
@@ -477,7 +1108,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c909db826cbb4e688b3bc17b890d2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_48
       rect:
         serializedVersion: 2
         x: 750
@@ -486,7 +1128,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f4db35d70074795a9120ea7803e1f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_49
       rect:
         serializedVersion: 2
         x: 1000
@@ -495,7 +1148,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c47307b1e464b1a95998438423634d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_50
       rect:
         serializedVersion: 2
         x: 1250
@@ -504,7 +1168,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c420e93530445c9ebc0d6b55c1301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_51
       rect:
         serializedVersion: 2
         x: 1500
@@ -513,7 +1188,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814c1e4d09ed4a95a5c534d9ac15cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_52
       rect:
         serializedVersion: 2
         x: 1750
@@ -522,7 +1208,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0d92eeabc8842b090db941703c8845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_53
       rect:
         serializedVersion: 2
         x: 2000
@@ -531,7 +1228,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927caf0a2885e4b07a330b52e09ccc0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_54
       rect:
         serializedVersion: 2
         x: 2250
@@ -540,7 +1248,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f2b783e0dc14e65b235a854ff2c20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_55
       rect:
         serializedVersion: 2
         x: 2500
@@ -549,7 +1268,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7253797008031454eaa411624da82def
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_56
       rect:
         serializedVersion: 2
         x: 2750
@@ -558,7 +1288,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ca1f700e6a84f88a2bd3b644b6b211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_57
       rect:
         serializedVersion: 2
         x: 3000
@@ -567,7 +1308,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf2da42869447e08ac8792e17e3209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_58
       rect:
         serializedVersion: 2
         x: 3250
@@ -576,7 +1328,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571625911c5904097a16224b0446ebbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_59
       rect:
         serializedVersion: 2
         x: 3500
@@ -585,7 +1348,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ef29bf0ebf84a2a820898d3b23bdc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_60
       rect:
         serializedVersion: 2
         x: 0
@@ -594,7 +1368,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6b14c1438db45a7bd17d3edbc5efdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_61
       rect:
         serializedVersion: 2
         x: 250
@@ -603,7 +1388,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64537298ff5de419f9c3ef5599e88757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_62
       rect:
         serializedVersion: 2
         x: 500
@@ -612,7 +1408,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3a3d60133dc4d4c8cb0ff745a9280e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_63
       rect:
         serializedVersion: 2
         x: 750
@@ -621,7 +1428,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6721b7e9ee1ef4815b18d01321263fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_64
       rect:
         serializedVersion: 2
         x: 1000
@@ -630,7 +1448,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48ef4dfd425d4fdc9b393f68326209d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_65
       rect:
         serializedVersion: 2
         x: 1250
@@ -639,7 +1468,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c159ce0708634a649a7fc51dc33daff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_66
       rect:
         serializedVersion: 2
         x: 1500
@@ -648,7 +1488,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a57d0938dde4595a0afd623acbc4b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_67
       rect:
         serializedVersion: 2
         x: 1750
@@ -657,7 +1508,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c141dcc5934876b28150242e3b325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_68
       rect:
         serializedVersion: 2
         x: 2000
@@ -666,7 +1528,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f25ebf59307a41899a29efdc633e114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_69
       rect:
         serializedVersion: 2
         x: 2250
@@ -675,7 +1548,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e6f42e27ab4c83b9b85cd8e2572ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_70
       rect:
         serializedVersion: 2
         x: 2500
@@ -684,7 +1568,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a91d73c02ee4237b730bfdf839dfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_71
       rect:
         serializedVersion: 2
         x: 2750
@@ -693,7 +1588,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cc723bdf614dc6a9e8c17a73c32b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_72
       rect:
         serializedVersion: 2
         x: 3000
@@ -702,7 +1608,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e912d83793ab48da8a0cfb01d736c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_73
       rect:
         serializedVersion: 2
         x: 3250
@@ -711,7 +1628,18 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: riker_smile-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7734dc4677c4bb1a3e05e9a3719f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: riker_smile-frames_74
       rect:
         serializedVersion: 2
         x: 3500
@@ -720,5 +1648,27 @@ TextureImporter:
         height: 250
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2937bb20d3a0746a08428fe78b9ff633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

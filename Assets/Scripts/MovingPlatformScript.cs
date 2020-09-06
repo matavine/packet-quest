@@ -49,8 +49,8 @@ public class MovingPlatformScript : MonoBehaviour {
 	private void CheckPlayerCollision(Collision2D c) {
 		PlayerBehaviour player = c.gameObject.GetComponent<PlayerBehaviour>();
 		if(player){
-			BoxCollider2D playerCollider = player.collider2D as BoxCollider2D;
-			BoxCollider2D platformCollider = this.collider2D as BoxCollider2D;
+			BoxCollider2D playerCollider = player.GetComponent<Collider2D>() as BoxCollider2D;
+			BoxCollider2D platformCollider = this.GetComponent<Collider2D>() as BoxCollider2D;
 			
 			// Check if the play hit the platform from the top
 			if (player.transform.position.y - playerCollider.size.y/2 >= this.transform.position.y + platformCollider.size.y/2) {

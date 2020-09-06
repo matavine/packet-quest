@@ -43,7 +43,7 @@ public class PlayerScript : MonoBehaviour {
 			}
 			if(Input.GetKeyDown(KeyCode.Space) && canJump){
 				canJump = false;
-				gameObject.rigidbody.AddForce(Vector3.up*8, ForceMode.Impulse);
+				gameObject.GetComponent<Rigidbody>().AddForce(Vector3.up*8, ForceMode.Impulse);
 			}
 		}
 	}

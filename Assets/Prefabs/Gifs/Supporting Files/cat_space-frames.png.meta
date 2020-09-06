@@ -1,32 +1,137 @@
 fileFormatVersion: 2
 guid: 4e59b06fba8c01043a17ec12ef2e2917
 TextureImporter:
-  serializedVersion: 2
+  fileIDToRecycleName:
+    21300000: cat_space-frames_0
+    21300002: cat_space-frames_1
+    21300004: cat_space-frames_2
+    21300006: cat_space-frames_3
+    21300008: cat_space-frames_4
+    21300010: cat_space-frames_5
+    21300012: cat_space-frames_6
+    21300014: cat_space-frames_7
+    21300016: cat_space-frames_8
+    21300018: cat_space-frames_9
+    21300020: cat_space-frames_10
+    21300022: cat_space-frames_11
+    21300024: cat_space-frames_12
+    21300026: cat_space-frames_13
+    21300028: cat_space-frames_14
+    21300030: cat_space-frames_15
+    21300032: cat_space-frames_16
+    21300034: cat_space-frames_17
+    21300036: cat_space-frames_18
+    21300038: cat_space-frames_19
+    21300040: cat_space-frames_20
+    21300042: cat_space-frames_21
+    21300044: cat_space-frames_22
+    21300046: cat_space-frames_23
+    21300048: cat_space-frames_24
+    21300050: cat_space-frames_25
+    21300052: cat_space-frames_26
+    21300054: cat_space-frames_27
+    21300056: cat_space-frames_28
+    21300058: cat_space-frames_29
+    21300060: cat_space-frames_30
+    21300062: cat_space-frames_31
+    21300064: cat_space-frames_32
+    21300066: cat_space-frames_33
+    21300068: cat_space-frames_34
+    21300070: cat_space-frames_35
+    21300072: cat_space-frames_36
+    21300074: cat_space-frames_37
+    21300076: cat_space-frames_38
+    21300078: cat_space-frames_39
+    21300080: cat_space-frames_40
+    21300082: cat_space-frames_41
+    21300084: cat_space-frames_42
+    21300086: cat_space-frames_43
+    21300088: cat_space-frames_44
+    21300090: cat_space-frames_45
+    21300092: cat_space-frames_46
+    21300094: cat_space-frames_47
+    21300096: cat_space-frames_48
+    21300098: cat_space-frames_49
+    21300100: cat_space-frames_50
+    21300102: cat_space-frames_51
+    21300104: cat_space-frames_52
+    21300106: cat_space-frames_53
+    21300108: cat_space-frames_54
+    21300110: cat_space-frames_55
+    21300112: cat_space-frames_56
+    21300114: cat_space-frames_57
+    21300116: cat_space-frames_58
+    21300118: cat_space-frames_59
+    21300120: cat_space-frames_60
+    21300122: cat_space-frames_61
+    21300124: cat_space-frames_62
+    21300126: cat_space-frames_63
+    21300128: cat_space-frames_64
+    21300130: cat_space-frames_65
+    21300132: cat_space-frames_66
+    21300134: cat_space-frames_67
+    21300136: cat_space-frames_68
+    21300138: cat_space-frames_69
+    21300140: cat_space-frames_70
+    21300142: cat_space-frames_71
+    21300144: cat_space-frames_72
+    21300146: cat_space-frames_73
+    21300148: cat_space-frames_74
+    21300150: cat_space-frames_75
+    21300152: cat_space-frames_76
+    21300154: cat_space-frames_77
+    21300156: cat_space-frames_78
+    21300158: cat_space-frames_79
+    21300160: cat_space-frames_80
+    21300162: cat_space-frames_81
+    21300164: cat_space-frames_82
+    21300166: cat_space-frames_83
+    21300168: cat_space-frames_84
+    21300170: cat_space-frames_85
+    21300172: cat_space-frames_86
+    21300174: cat_space-frames_87
+    21300176: cat_space-frames_88
+    21300178: cat_space-frames_89
+    21300180: cat_space-frames_90
+    21300182: cat_space-frames_91
+    21300184: cat_space-frames_92
+    21300186: cat_space-frames_93
+    21300188: cat_space-frames_94
+  externalObjects: {}
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
     externalNormalMap: 0
-    heightScale: .25
+    heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 4096
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -34,18 +139,47 @@ TextureImporter:
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
-  spritePivot: {x: .5, y: .5}
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings:
-  - buildTarget: iPhone
-    maxTextureSize: 1024
-    textureFormat: -2
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
     compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: cat_space-frames_0
+    - serializedVersion: 2
+      name: cat_space-frames_0
       rect:
         serializedVersion: 2
         x: 0
@@ -54,7 +188,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_1
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef6aa2e4fb949798f46d6babebb779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_1
       rect:
         serializedVersion: 2
         x: 200
@@ -63,7 +208,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_2
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0127286ed5a6548c59642681f4e2840d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_2
       rect:
         serializedVersion: 2
         x: 400
@@ -72,7 +228,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_3
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986150577f232420b80fc1d3f5169677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_3
       rect:
         serializedVersion: 2
         x: 600
@@ -81,7 +248,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_4
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3071faae6ccfe4449b416b1992e7c780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_4
       rect:
         serializedVersion: 2
         x: 800
@@ -90,7 +268,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_5
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cbd944b06846a4bf633da2e4b67f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_5
       rect:
         serializedVersion: 2
         x: 1000
@@ -99,7 +288,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_6
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6129896470c5417d925ac47a311e6cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_6
       rect:
         serializedVersion: 2
         x: 1200
@@ -108,7 +308,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_7
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332fbaa9e50e4f54a963dd3cb504a16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_7
       rect:
         serializedVersion: 2
         x: 1400
@@ -117,7 +328,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_8
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faff258402f6402bac8d491b8649ce0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_8
       rect:
         serializedVersion: 2
         x: 1600
@@ -126,7 +348,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_9
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839006e8aeab1462d85577968ec77920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_9
       rect:
         serializedVersion: 2
         x: 1800
@@ -135,7 +368,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_10
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4badcd4b65b6423d964b26d727f1a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_10
       rect:
         serializedVersion: 2
         x: 2000
@@ -144,7 +388,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_11
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff64d2b5ed6424f2792744b74ba0a31f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_11
       rect:
         serializedVersion: 2
         x: 2200
@@ -153,7 +408,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_12
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e29cc0ceadc9487fa4e679232dc3b98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_12
       rect:
         serializedVersion: 2
         x: 2400
@@ -162,7 +428,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_13
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cb297b378594ddc9b802db686af271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_13
       rect:
         serializedVersion: 2
         x: 2600
@@ -171,7 +448,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_14
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1556742cdb4a4ee399bcd72e16207f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_14
       rect:
         serializedVersion: 2
         x: 2800
@@ -180,7 +468,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_15
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccae9f0c8a77140179fd97d9693d21ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_15
       rect:
         serializedVersion: 2
         x: 3000
@@ -189,7 +488,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_16
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4709c812338ef4f2fa7bc3ba533285a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_16
       rect:
         serializedVersion: 2
         x: 3200
@@ -198,7 +508,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_17
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d125123790cc4c22bcfce130974afde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_17
       rect:
         serializedVersion: 2
         x: 3400
@@ -207,7 +528,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_18
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa5e3b494c8042f38bfb54426f8c198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_18
       rect:
         serializedVersion: 2
         x: 3600
@@ -216,7 +548,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_19
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c117903298c5e493c98af7aee09c7953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_19
       rect:
         serializedVersion: 2
         x: 0
@@ -225,7 +568,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_20
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdf3cccb254f47248a45c6134ed3e13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_20
       rect:
         serializedVersion: 2
         x: 200
@@ -234,7 +588,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_21
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0d74b2811b4c4d8ea45cc3237b79b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_21
       rect:
         serializedVersion: 2
         x: 400
@@ -243,7 +608,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_22
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a464576330d473398af0e0300d6a5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_22
       rect:
         serializedVersion: 2
         x: 600
@@ -252,7 +628,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_23
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c409352a3a8442dbbd8010fd4e0686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_23
       rect:
         serializedVersion: 2
         x: 800
@@ -261,7 +648,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_24
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d657b719d605643b9bb283ec8782291c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_24
       rect:
         serializedVersion: 2
         x: 1000
@@ -270,7 +668,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_25
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac881f5c0f18e4c96874745f8ef4d175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_25
       rect:
         serializedVersion: 2
         x: 1200
@@ -279,7 +688,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_26
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255cf5890c28421ca5b73d058c7ec2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_26
       rect:
         serializedVersion: 2
         x: 1400
@@ -288,7 +708,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_27
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66580e1013d6469fbb187f2a2ace6fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_27
       rect:
         serializedVersion: 2
         x: 1600
@@ -297,7 +728,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_28
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba41a289edbf44138b1eb168d1beb593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_28
       rect:
         serializedVersion: 2
         x: 1800
@@ -306,7 +748,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_29
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af37c5f86614401190ce529eaf9ea9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_29
       rect:
         serializedVersion: 2
         x: 2000
@@ -315,7 +768,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_30
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1bd04a9bb9442d29f63b4ca758fb9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_30
       rect:
         serializedVersion: 2
         x: 2200
@@ -324,7 +788,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_31
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a3fec33e33e43cc9ff76d82f520e63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_31
       rect:
         serializedVersion: 2
         x: 2400
@@ -333,7 +808,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_32
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93953e04c24b40d7af090d517a4864e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_32
       rect:
         serializedVersion: 2
         x: 2600
@@ -342,7 +828,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_33
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dab03b147f04d05a15f5ff1e1694fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_33
       rect:
         serializedVersion: 2
         x: 2800
@@ -351,7 +848,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_34
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2cd1a35a2ef41feac2228c5ea71133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_34
       rect:
         serializedVersion: 2
         x: 3000
@@ -360,7 +868,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_35
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb04e85849c4ac681c0a06b6b53305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_35
       rect:
         serializedVersion: 2
         x: 3200
@@ -369,7 +888,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_36
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cfe46fb108b46ac9c463848b31e645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_36
       rect:
         serializedVersion: 2
         x: 3400
@@ -378,7 +908,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_37
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb816b2394ca4b959dcce08c42793e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_37
       rect:
         serializedVersion: 2
         x: 3600
@@ -387,7 +928,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_38
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830aa61dabde439fa16dccab038722a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_38
       rect:
         serializedVersion: 2
         x: 0
@@ -396,7 +948,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_39
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edf092cb0df24a7cb9ce10ea26eb6ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_39
       rect:
         serializedVersion: 2
         x: 200
@@ -405,7 +968,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_40
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e69a18e0fd8c480a972e43646435112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_40
       rect:
         serializedVersion: 2
         x: 400
@@ -414,7 +988,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_41
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fd63e73df44aa4b095540ea804553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_41
       rect:
         serializedVersion: 2
         x: 600
@@ -423,7 +1008,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_42
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cfc5f8cf41e42249930831d217ef01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_42
       rect:
         serializedVersion: 2
         x: 800
@@ -432,7 +1028,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_43
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bf8301a1358441699e5bea9f6c3e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_43
       rect:
         serializedVersion: 2
         x: 1000
@@ -441,7 +1048,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_44
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04702fb19299944648035c0731a62f9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_44
       rect:
         serializedVersion: 2
         x: 1200
@@ -450,7 +1068,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_45
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d88611643674a4a82858ad224688f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_45
       rect:
         serializedVersion: 2
         x: 1400
@@ -459,7 +1088,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_46
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4022f119ed94c31817e750efbac31b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_46
       rect:
         serializedVersion: 2
         x: 1600
@@ -468,7 +1108,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_47
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ff3819ad3a345f682afbd4495eaa58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_47
       rect:
         serializedVersion: 2
         x: 1800
@@ -477,7 +1128,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_48
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0f8312d43b47c08d3cd93a3927cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_48
       rect:
         serializedVersion: 2
         x: 2000
@@ -486,7 +1148,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_49
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba62a207e93d44abbd23340206e3cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_49
       rect:
         serializedVersion: 2
         x: 2200
@@ -495,7 +1168,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_50
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5029a139f1f9548259a062d6b25d0b51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_50
       rect:
         serializedVersion: 2
         x: 2400
@@ -504,7 +1188,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_51
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3e24556759c436685d4e988df7bfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_51
       rect:
         serializedVersion: 2
         x: 2600
@@ -513,7 +1208,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_52
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bb9f0bc95ba496cb24b97e1f43e105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_52
       rect:
         serializedVersion: 2
         x: 2800
@@ -522,7 +1228,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_53
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ef82b72e9d74657bf57a4d12343de9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_53
       rect:
         serializedVersion: 2
         x: 3000
@@ -531,7 +1248,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_54
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a725299d43e42749488353f3fae25e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_54
       rect:
         serializedVersion: 2
         x: 3200
@@ -540,7 +1268,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_55
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf49853bd0ede43b5a0549b7bc6afece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_55
       rect:
         serializedVersion: 2
         x: 3400
@@ -549,7 +1288,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_56
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99a95fb35a14679ba1ea0e83acd617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_56
       rect:
         serializedVersion: 2
         x: 3600
@@ -558,7 +1308,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_57
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d79785632d4109be7f48720127975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_57
       rect:
         serializedVersion: 2
         x: 0
@@ -567,7 +1328,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_58
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecbf58e10f514e75a5c78fe485edf6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_58
       rect:
         serializedVersion: 2
         x: 200
@@ -576,7 +1348,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_59
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074a48fd4bdb249a084a9bcceec1b26a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_59
       rect:
         serializedVersion: 2
         x: 400
@@ -585,7 +1368,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_60
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449021af105164b31877a9189aef25bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_60
       rect:
         serializedVersion: 2
         x: 600
@@ -594,7 +1388,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_61
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024b7146981a445fa2050e04221a7bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_61
       rect:
         serializedVersion: 2
         x: 800
@@ -603,7 +1408,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_62
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438aea3da7da04636b058f4d7c00f12c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_62
       rect:
         serializedVersion: 2
         x: 1000
@@ -612,7 +1428,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_63
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb4f997eaad46af9b36deae48bf487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_63
       rect:
         serializedVersion: 2
         x: 1200
@@ -621,7 +1448,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_64
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca272181e6c54b2eabaa7ba2b90b64a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_64
       rect:
         serializedVersion: 2
         x: 1400
@@ -630,7 +1468,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_65
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1606f15182f8949f2954e84519d2c453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_65
       rect:
         serializedVersion: 2
         x: 1600
@@ -639,7 +1488,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_66
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7943214867ab47688b42366f053c226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_66
       rect:
         serializedVersion: 2
         x: 1800
@@ -648,7 +1508,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_67
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84a8afdd1084f03892f65779496546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_67
       rect:
         serializedVersion: 2
         x: 2000
@@ -657,7 +1528,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_68
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d91852642cc8455ea2c478d64394d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_68
       rect:
         serializedVersion: 2
         x: 2200
@@ -666,7 +1548,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_69
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5814f06af25b48f9b59083b2dae4148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_69
       rect:
         serializedVersion: 2
         x: 2400
@@ -675,7 +1568,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_70
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a70dd7740c14e01a10476cadaa60ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_70
       rect:
         serializedVersion: 2
         x: 2600
@@ -684,7 +1588,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_71
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adadda7db41bb4f6997a80f2cb158ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_71
       rect:
         serializedVersion: 2
         x: 2800
@@ -693,7 +1608,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_72
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff1fd808ed174a669e1f0b362f07d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_72
       rect:
         serializedVersion: 2
         x: 3000
@@ -702,7 +1628,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_73
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0a9a28acfd44782a984a0663ecee46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_73
       rect:
         serializedVersion: 2
         x: 3200
@@ -711,7 +1648,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_74
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c984fa364a2f5461c96356d46dcfdd3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_74
       rect:
         serializedVersion: 2
         x: 3400
@@ -720,7 +1668,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_75
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db67eefa07134825b72aca63a2a3db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_75
       rect:
         serializedVersion: 2
         x: 3600
@@ -729,7 +1688,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_76
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695f7cff75214b7d81b8984e05197c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_76
       rect:
         serializedVersion: 2
         x: 0
@@ -738,7 +1708,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_77
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9e8a030e234666b7fb5e388803b9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_77
       rect:
         serializedVersion: 2
         x: 200
@@ -747,7 +1728,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_78
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9bba734e28d40fdb7bae3579ec0ef7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_78
       rect:
         serializedVersion: 2
         x: 400
@@ -756,7 +1748,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_79
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b0395d96ba4e338bd5a259f448a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_79
       rect:
         serializedVersion: 2
         x: 600
@@ -765,7 +1768,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_80
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b3eb1254b764b9782acc9c75c4b16c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_80
       rect:
         serializedVersion: 2
         x: 800
@@ -774,7 +1788,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_81
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f47408bda86b44d09319da2721f9e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_81
       rect:
         serializedVersion: 2
         x: 1000
@@ -783,7 +1808,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_82
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4468c164c114ef4995000ed69902c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_82
       rect:
         serializedVersion: 2
         x: 1200
@@ -792,7 +1828,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_83
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafb69ba7f3049ef87f73a786482941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_83
       rect:
         serializedVersion: 2
         x: 1400
@@ -801,7 +1848,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_84
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966413eca905e48d5acd523bda181ed0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_84
       rect:
         serializedVersion: 2
         x: 1600
@@ -810,7 +1868,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_85
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cafb472e20cf4f9fb214a9741cc2a55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_85
       rect:
         serializedVersion: 2
         x: 1800
@@ -819,7 +1888,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_86
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e61bfbb8af3448c90c78b99974558f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_86
       rect:
         serializedVersion: 2
         x: 2000
@@ -828,7 +1908,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_87
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1b6494bf9854f33998c080392cfdd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_87
       rect:
         serializedVersion: 2
         x: 2200
@@ -837,7 +1928,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_88
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70389aee58cb74dedb9a2a797a345213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_88
       rect:
         serializedVersion: 2
         x: 2400
@@ -846,7 +1948,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_89
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739da5bb737964d79953e9d71e4ea1c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_89
       rect:
         serializedVersion: 2
         x: 2600
@@ -855,7 +1968,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_90
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106a14eab23f4cdda8cea80c2939f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_90
       rect:
         serializedVersion: 2
         x: 2800
@@ -864,7 +1988,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_91
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae9875fdb45042849951fc2ff9e3793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_91
       rect:
         serializedVersion: 2
         x: 3000
@@ -873,7 +2008,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_92
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1715a20331446818686ff56699edfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_92
       rect:
         serializedVersion: 2
         x: 3200
@@ -882,7 +2028,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_93
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472fb77be0edc44a7b427869b409f60f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_93
       rect:
         serializedVersion: 2
         x: 3400
@@ -891,7 +2048,18 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
-    - name: cat_space-frames_94
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b9a61a3ecd1457dbd66431f05c214f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cat_space-frames_94
       rect:
         serializedVersion: 2
         x: 3600
@@ -900,5 +2068,27 @@ TextureImporter:
         height: 141
       alignment: 1
       pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb2a20f59694c30a431f4cb25130c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

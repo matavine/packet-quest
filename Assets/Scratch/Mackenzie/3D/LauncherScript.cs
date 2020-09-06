@@ -17,7 +17,7 @@ public class LauncherScript : MonoBehaviour {
 		Vector3 launch = new Vector3(10, 10, 0);
 		PlayerScript player = c.gameObject.GetComponent<PlayerScript>();
 		if(player){
-			c.gameObject.rigidbody.AddForce(launch, ForceMode.Impulse);
+			c.gameObject.GetComponent<Rigidbody>().AddForce(launch, ForceMode.Impulse);
 		}
 	}
 }

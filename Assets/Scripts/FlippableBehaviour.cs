@@ -14,7 +14,7 @@ public class FlippableBehaviour : MonoBehaviour {
 		if(p) {
 			m_originalGravity = p.gravityScale;
 		} else {
-			m_originalGravity = rigidbody2D.gravityScale;
+			m_originalGravity = GetComponent<Rigidbody2D>().gravityScale;
 		}
 	}
 
@@ -23,9 +23,9 @@ public class FlippableBehaviour : MonoBehaviour {
 
 		if(p) {
 			p.gravityScale = FlipGravity(direction);
-		} else if (rigidbody2D) {
-			rigidbody2D.gravityScale = FlipGravity(direction);
-			rigidbody2D.AddTorque(Random.Range(randomTorqueMin,randomTorqueMax));
+		} else if (GetComponent<Rigidbody2D>()) {
+			GetComponent<Rigidbody2D>().gravityScale = FlipGravity(direction);
+			GetComponent<Rigidbody2D>().AddTorque(Random.Range(randomTorqueMin,randomTorqueMax));
 		}
 	}
 

@@ -17,7 +17,7 @@ public class MovingBlock : MonoBehaviour, MovablePlatform {
 		Vector2 nextSpeed = getNextSpeed ();
 		xSpeed = (int)nextSpeed.x;
 		ySpeed = (int)nextSpeed.y;
-		rigidbody2D.velocity = nextSpeed;
+		GetComponent<Rigidbody2D>().velocity = nextSpeed;
 	}
 
 	public Vector2 getNextSpeed () {
