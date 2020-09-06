@@ -64,7 +64,7 @@ public class CreditsScript : MonoBehaviour {
 	private void RenderMenu(UIMenuItem[] menu) {
 		GUI.skin = menuSkin;
 		GUILayout.BeginArea(new Rect((Screen.width - menuWidth) / 2,
-		                             (Screen.height - menuHeight) / 1.25f,
+		                             Screen.height - (menuHeight * 2),
 		                             menuWidth,
 		                             menuHeight));
 		GUILayout.BeginVertical();
