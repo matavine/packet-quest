@@ -121,15 +121,13 @@ public class LevelController : MonoBehaviour {
 		                            height / 2);
 		GUI.Label(numMsgsRect, messagesCollected + " / " + numMessages);
 		
-		if (levelHasKeys) {
-			Rect keyRect = new Rect(msgRect.xMin, msgRect.yMax + 5, width, height);
-			GUI.DrawTexture(keyRect, m_keyIcon);
-			Rect numKeysRect = new Rect(keyRect.xMin + 100,
-			                            keyRect.yMin + 10,
-			                            width / 2,
-			                            height / 2);
-			GUI.Label(numKeysRect, keysCollected.ToString());
-		}
+		Rect keyRect = new Rect(msgRect.xMin, msgRect.yMax + 5, width, height);
+		GUI.DrawTexture(keyRect, m_keyIcon);
+		Rect numKeysRect = new Rect(keyRect.xMin + 100,
+			                        keyRect.yMin + 10,
+			                        width / 2,
+			                        height / 2);
+		GUI.Label(numKeysRect, keysCollected.ToString());
 		
 		GUI.skin = null;
 	}
